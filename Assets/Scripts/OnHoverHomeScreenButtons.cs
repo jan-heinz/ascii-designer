@@ -1,20 +1,26 @@
-using UnityEngine;
+    using UnityEngine;
+    using UnityEngine.EventSystems;
+    using UnityEngine.UI;
+    using TMPro;
 
-public class OnHoverHomeScreenButtons : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public class OnHoverHomeScreenButtons : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     {
-        
-    }
+        public string buttonText;
+        TextMeshProUGUI textComponent;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        void Start() {
+            textComponent = GetComponent<TextMeshProUGUI>();
+        }
 
-    void OnMouseOver() {
-        Debug.Log("YO IM HOVERING");
+        public void OnPointerEnter(PointerEventData eventData)
+        {
+            // add brackets for player feedback
+            textComponent.text = "[" + buttonText + "]";
+        }
+
+        public void OnPointerExit(PointerEventData eventData)
+        {
+            // remove brackets, revert text to normal
+            textComponent.text = buttonText;
+        }
     }
-}
