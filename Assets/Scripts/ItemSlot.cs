@@ -21,15 +21,20 @@ public class ItemSlot : MonoBehaviour,
     public Sprite itemSprite; // grid sets
     public Sprite borderSprite; // set on prefab
 
+    [Header("Item Info")]
+    public Vector2Int itemSize = new Vector2Int(1, 1); // size in grid cells
+
     // runtime drag ghost
     private Canvas _rootCanvas;
     private RectTransform _dragGhostRT;
     private Image _dragGhostImg;
+    private GridSystem gridSystem;
 
     private void Awake()
     {
         _rootCanvas = GetComponentInParent<Canvas>(); // needed to render drag ghost
         ApplyAll(); // set up border and item visibility
+        gridSystem = FindObjectOfType<GridSystem>();
     }
 
 #if UNITY_EDITOR
@@ -39,7 +44,7 @@ public class ItemSlot : MonoBehaviour,
     // called by the grid/controller to assign an item to this slot
     public void SetSprite(Sprite s)
     {
-        itemSprite = s; 
+        itemSprite = s;
         ApplyItemOnly();
     }
 
@@ -74,7 +79,7 @@ public class ItemSlot : MonoBehaviour,
             borderImage.enabled = hasItem; // empty item slot = no border shown
         }
     }
-    
+
     // start drag
     // if slot has an item, create a ghost that follows the cursor
     public void OnBeginDrag(PointerEventData eventData)
@@ -84,6 +89,10 @@ public class ItemSlot : MonoBehaviour,
 
         if (_rootCanvas == null) _rootCanvas = GetComponentInParent<Canvas>();
         CreateDragGhost(itemSprite, eventData.position); // spawn ghost under cursor
+
+        // show item placement grid
+        if (gridSystem != null) gridSystem.ShowGrid();
+
     }
 
     // while dragging
@@ -91,7 +100,9 @@ public class ItemSlot : MonoBehaviour,
     public void OnDrag(PointerEventData eventData)
     {
         if (_dragGhostRT != null)
+        {
             _dragGhostRT.position = eventData.position; // follow cursor
+        }
     }
 
     // end drag
@@ -99,15 +110,41 @@ public class ItemSlot : MonoBehaviour,
     public void OnEndDrag(PointerEventData eventData)
     {
         DestroyDragGhost(); // remove ghost
+        gridSystem.HideGrid(); // hide item placement grid
 
         // only place if the cursor is not over any UI element (ie inventory)
         if (!PointerOverAnyUI(eventData))
         {
             var placer = WorldPlacement.Instance;
-            if (placer != null && itemSprite != null)
+            if (placer != null && itemSprite != null && gridSystem != null)
             {
-                Vector3 world = placer.ScreenToWorld(eventData.position); // convert the UI screen position to world
-                placer.PlaceSprite(itemSprite, itemSprite.name, world); // spawn a world SpriteRenderer at that position
+                Vector3 worldPos = eventData.position;
+                worldPos.z = 0f; // ensure on 2D plane
+
+                // convert to grid position
+                Vector2Int gridPos = gridSystem.WorldToGridPosition(worldPos);
+
+                // check if placement is valid
+                if (gridSystem.CanPlaceFurniture(gridPos, itemSize))
+                {
+                    // snap to corner of grid cell
+                    Vector3 snappedWorldPos = gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
+
+                    // convert back to world position
+                    Vector3 world = placer.ScreenToWorld(snappedWorldPos);
+
+                    // mark cells as occupied
+                    gridSystem.PlaceFurniture(gridPos, itemSize);
+
+                    // place the sprite at snapped position
+                    GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
+
+                    Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
+                }
+                else
+                {
+                    Debug.Log($"Can't place furniture at {gridPos} - Invalid position or occupied!");
+                }
             }
         }
     }
@@ -121,13 +158,13 @@ public class ItemSlot : MonoBehaviour,
         go.transform.SetAsLastSibling();
 
         _dragGhostRT = go.GetComponent<RectTransform>();
-        _dragGhostRT.sizeDelta = new Vector2(64, 64); // ghost size
+        _dragGhostRT.sizeDelta = new Vector2(128, 128); // ghost size
         _dragGhostRT.position = startPos;
 
         _dragGhostImg = go.GetComponent<Image>(); // use item icon
         _dragGhostImg.sprite = s; // keep item properties
         _dragGhostImg.preserveAspect = true;
-        _dragGhostImg.raycastTarget = false; 
+        _dragGhostImg.raycastTarget = false;
 
         var cg = go.GetComponent<CanvasGroup>();
         cg.alpha = 0.9f; // slightly transparent

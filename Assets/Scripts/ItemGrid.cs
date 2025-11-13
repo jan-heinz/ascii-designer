@@ -14,7 +14,7 @@ public class ItemGrid : MonoBehaviour
     [Header("Slots")]
     public GameObject slotPrefab;
     public int slotCount = 6;
-    public List<Sprite> sprites = new List<Sprite>();
+    public List<FurnitureItem> items = new List<FurnitureItem>();
 
     private bool needsRebuild = false;
 
@@ -77,8 +77,12 @@ public class ItemGrid : MonoBehaviour
             {
                 // pick the sprite at index i if it exists
                 // null = empty slot
-                var s = (i < sprites.Count) ? sprites[i] : null;
+                var item = (i < items.Count) ? items[i] : null;
+                Sprite s = (item != null) ? item.sprite : null;
                 slot.SetSprite(s); // refreshes the Image
+
+                // set item size
+                slot.itemSize = item.furnitureSize;
             }
         }
     }
