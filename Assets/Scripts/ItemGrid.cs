@@ -6,15 +6,17 @@ using UnityEngine.UI;
 public class ItemGrid : MonoBehaviour
 {
     [Header("Grid")]
-    public GridLayoutGroup grid;           
+    public GridLayoutGroup grid;
     public int columns = 3;
     public Vector2 cellSize = new Vector2(128, 128);
     public Vector2 spacing = new Vector2(8, 8);
 
     [Header("Slots")]
-    public GameObject slotPrefab;         
+    public GameObject slotPrefab;
     public int slotCount = 6;
-    public List<Sprite> sprites = new List<Sprite>(); 
+    public List<Sprite> sprites = new List<Sprite>();
+
+    private bool needsRebuild = false;
 
     private void OnValidate()
     {
@@ -26,7 +28,19 @@ public class ItemGrid : MonoBehaviour
             grid.cellSize = cellSize;
             grid.spacing = spacing;
         }
-        if (!Application.isPlaying) Build(); // refresh in editor
+
+        // refresh in editor
+        if (!Application.isPlaying) needsRebuild = true;
+    }
+
+    private void Update()
+    {
+        // if in editor, then reset changes and rebuild
+        if (!Application.isPlaying && needsRebuild)
+        {
+            needsRebuild = false;
+            Build();
+        }
     }
 
     // build the grid once the scene starts
@@ -62,7 +76,7 @@ public class ItemGrid : MonoBehaviour
             if (slot != null)
             {
                 // pick the sprite at index i if it exists
-                // null = empty slow
+                // null = empty slot
                 var s = (i < sprites.Count) ? sprites[i] : null;
                 slot.SetSprite(s); // refreshes the Image
             }
