@@ -7,4 +7,5 @@ public class FurnitureItem : ScriptableObject
 {
     public Sprite sprite; // sprite representing the furniture
     public Vector2Int furnitureSize = new Vector2Int(1, 1); // size in grid cells
+    public SoundClip placeSFX; // SFX that plays on item creation
 }
