@@ -15,3 +15,4 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: e75514218b98a4e8eb34d4a8cf246408, type: 3}
   furnitureSize: {x: 1, y: 1}
   itemAttributes: []
+  worldScale: 0.5
