@@ -83,6 +83,15 @@ public class ItemGrid : MonoBehaviour
 
                 // set item size
                 slot.itemSize = item.furnitureSize;
+
+                // set attributes text
+                string itemAttributesString = "";
+                foreach (var attr in item.itemAttributes)
+                {
+                    string newAttrString = "• " + attr.attribute + "\n";
+                    itemAttributesString += newAttrString;
+                }
+                slot.itemAttributesText.text = itemAttributesString;
             }
         }
     }

@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   sprite: {fileID: 21300000, guid: 2f68e19b1a992324c93b9e7aa833d243, type: 3}
   furnitureSize: {x: 1, y: 1}
+  itemAttributes:
+  - {fileID: 11400000, guid: 7d21f4df94f6a407d9d8f132cb20748e, type: 2}
