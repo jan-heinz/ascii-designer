@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 115d956f9e62b4e22beff308da9ae58a, type: 3}
-  m_Name: Chair
-  m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
-  sprite: {fileID: 21300000, guid: 899c3d893d7ba074e89fdf755ac0f6cc, type: 3}
-  furnitureSize: {x: 2, y: 2}
+  m_Script: {fileID: 11500000, guid: 26623f68cbba4423a8a50e99b8a4fe12, type: 3}
+  m_Name: Modern
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureAttribute
+  attribute: Modern
