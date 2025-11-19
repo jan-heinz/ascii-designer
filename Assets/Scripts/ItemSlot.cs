@@ -13,6 +13,8 @@ using TMPro;
 public class ItemSlot : MonoBehaviour,
     IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerClickHandler
 {
+    private FurnitureItem _item; // current item data (SO); may be null
+
     [Header("UI")]
     public Image itemImage; // assign child ItemImage
     public Image borderImage; // assign child BorderImage
@@ -25,6 +27,7 @@ public class ItemSlot : MonoBehaviour,
 
     [Header("Item Info")]
     public Vector2Int itemSize = new Vector2Int(1, 1); // size in grid cells
+    
 
     // runtime drag ghost
     private Canvas _rootCanvas;
@@ -41,6 +44,19 @@ public class ItemSlot : MonoBehaviour,
         ApplyAll(); // set up border and item visibility
         _gridSystem = FindObjectOfType<GridSystem>();
         _showAttributes = true;
+    }
+    
+    public void SetItem(FurnitureItem item)
+    {
+        _item = item;
+        itemSprite = item ? item.sprite : null;                 // keep your existing sprite path
+        itemSize   = item ? item.furnitureSize : new Vector2Int(1,1);
+        ApplyItemOnly();
+    }
+    
+    private float GetWorldScaleForPlacement()
+    {
+        return _item ? Mathf.Max(0.01f, _item.worldScale) : 1f; // fallback if no SO
     }
 
 #if UNITY_EDITOR
@@ -165,6 +181,7 @@ public class ItemSlot : MonoBehaviour,
 
                     // place the sprite at snapped position
                     GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
+                    if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
 
                     Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
                 }
@@ -178,6 +195,7 @@ public class ItemSlot : MonoBehaviour,
 
 
     // create semi transparent UI image that follows the cursor during drag
+    // create semi transparent UI image that follows the cursor during drag
     private void CreateDragGhost(Sprite s, Vector2 startPos)
     {
         var go = new GameObject("DragGhost", typeof(RectTransform), typeof(CanvasGroup), typeof(Image));
@@ -185,11 +203,39 @@ public class ItemSlot : MonoBehaviour,
         go.transform.SetAsLastSibling();
 
         _dragGhostRT = go.GetComponent<RectTransform>();
-        _dragGhostRT.sizeDelta = new Vector2(128, 128); // ghost size
-        _dragGhostRT.position = startPos;
+        _dragGhostRT.pivot = new Vector2(0.5f, 0.5f);
 
-        _dragGhostImg = go.GetComponent<Image>(); // use item icon
-        _dragGhostImg.sprite = s; // keep item properties
+        // --- compute ghost size to match placed size on screen (orthographic) ---
+        // choose a camera: prefer WorldPlacement's camera, else Camera.main
+        Camera cam = (WorldPlacement.Instance != null && WorldPlacement.Instance.worldCamera != null)
+            ? WorldPlacement.Instance.worldCamera
+            : Camera.main;
+
+        // default/fallback size in case camera/sprite is missing or non-ortho
+        Vector2 sizePx = new Vector2(64f, 64f);
+
+        if (cam != null && cam.orthographic && s != null)
+        {
+            // sprite size in WORLD units at scale=1
+            Vector2 worldSize = s.bounds.size * GetWorldScaleForPlacement();
+
+            // pixels per world unit for an ortho camera
+            float pxPerWorldUnit = Screen.height / (2f * cam.orthographicSize);
+
+            // convert world size → screen pixels
+            sizePx = worldSize * pxPerWorldUnit;
+        }
+
+        // convert pixels → Canvas units (accounts for CanvasScaler scaleFactor)
+        float canvasUnitsPerPixel = 1f;
+        if (_rootCanvas != null && _rootCanvas.renderMode != RenderMode.WorldSpace)
+            canvasUnitsPerPixel = 1f / _rootCanvas.scaleFactor;
+
+        _dragGhostRT.sizeDelta = sizePx * canvasUnitsPerPixel;  // final ghost size
+        _dragGhostRT.position  = startPos;
+
+        _dragGhostImg = go.GetComponent<Image>();   // use item icon
+        _dragGhostImg.sprite = s;                   // keep item properties
         _dragGhostImg.preserveAspect = true;
         _dragGhostImg.raycastTarget = false;
 

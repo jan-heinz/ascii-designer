@@ -78,20 +78,28 @@ public class ItemGrid : MonoBehaviour
                 // pick the sprite at index i if it exists
                 // null = empty slot
                 var item = (i < items.Count) ? items[i] : null;
-                Sprite s = (item != null) ? item.sprite : null;
-                slot.SetSprite(s); // refreshes the Image
 
-                // set item size
-                slot.itemSize = item.furnitureSize;
+// Set the whole item so ItemSlot knows sprite, size, *and* worldScale
+                slot.SetItem(item);
 
-                // set attributes text
-                string itemAttributesString = "";
-                foreach (var attr in item.itemAttributes)
+// Attributes text (guard for nulls)
+                if (item != null && slot.itemAttributesText != null)
                 {
-                    string newAttrString = "• " + attr.attribute + "\n";
-                    itemAttributesString += newAttrString;
+                    string itemAttributesString = "";
+                    if (item.itemAttributes != null)
+                    {
+                        foreach (var attr in item.itemAttributes)
+                        {
+                            itemAttributesString += "• " + attr.attribute + "\n";
+                        }
+                    }
+                    slot.itemAttributesText.text = itemAttributesString;
                 }
-                slot.itemAttributesText.text = itemAttributesString;
+                else if (slot.itemAttributesText != null)
+                {
+                    slot.itemAttributesText.text = "";
+                }
+
             }
         }
     }

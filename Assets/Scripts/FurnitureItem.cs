@@ -9,4 +9,8 @@ public class FurnitureItem : ScriptableObject
     public Vector2Int furnitureSize = new Vector2Int(1, 1); // size in grid cells
     //public SoundClip placeSFX; // SFX that plays on item creation
     public List<FurnitureAttribute> itemAttributes; // furniture attributes, can have multiple
+    
+    [Header("Visual")]
+    [Min(0.01f)] public float worldScale = 1f;
+
 }
