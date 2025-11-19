@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 7f27fa3c052e34c77973b39b49516156
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7305206830449644006
+    second: snake plant_0
+  - first:
+      213: 5602877234562881851
+    second: snake plant_1
+  - first:
+      213: 283089416370898274
+    second: snake plant_2
+  - first:
+      213: -7502569347287363174
+    second: snake plant_3
+  - first:
+      213: -2666920384561818387
+    second: snake plant_4
+  - first:
+      213: -2965112893369223518
+    second: snake plant_5
+  - first:
+      213: 6803571145470385300
+    second: snake plant_6
+  - first:
+      213: 973853698706264563
+    second: snake plant_7
+  - first:
+      213: 5501713821663150642
+    second: snake plant_8
+  - first:
+      213: -6816820560487329188
+    second: snake plant_9
+  - first:
+      213: -5582927748212642683
+    second: snake plant_10
+  - first:
+      213: 7996839988383801438
+    second: snake plant_11
+  - first:
+      213: 5580783429337609547
+    second: snake plant_12
+  - first:
+      213: -8527441366014266824
+    second: snake plant_13
+  - first:
+      213: 6084758894817634638
+    second: snake plant_14
+  - first:
+      213: 1348841611898058834
+    second: snake plant_15
+  - first:
+      213: -3223561682973653533
+    second: snake plant_16
+  - first:
+      213: 4050445228415130438
+    second: snake plant_17
+  - first:
+      213: -7981839467934068651
+    second: snake plant_18
+  - first:
+      213: 1247504796620509207
+    second: snake plant_19
+  - first:
+      213: -2966800790826594562
+    second: snake plant_20
+  - first:
+      213: 3511072564054636239
+    second: snake plant_21
+  - first:
+      213: 3428996596424211941
+    second: snake plant_22
+  - first:
+      213: -2635999998301152512
+    second: snake plant_23
+  - first:
+      213: -2479652267847401981
+    second: snake plant_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snake plant_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 243
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eaa44a711be9a90800000000000000
+      internalID: -7305206830449644006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 246
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b395e36d82b61cd40800000000000000
+      internalID: 5602877234562881851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 210
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c576035cbde300800000000000000
+      internalID: 283089416370898274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 246
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d330dde481e790800000000000000
+      internalID: -7502569347287363174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d1f94a023dfad0800000000000000
+      internalID: -2666920384561818387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 214
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6fbc7888dc9d6d0800000000000000
+      internalID: -2965112893369223518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 215
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1cd1f8e32b6e50800000000000000
+      internalID: 6803571145470385300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1569e77c2d38d00800000000000000
+      internalID: 973853698706264563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232c61c42930a5c40800000000000000
+      internalID: 5501713821663150642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 179
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52d29a31d9c561a0800000000000000
+      internalID: -6816820560487329188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 180
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c2d19eac47582b0800000000000000
+      internalID: -5582927748212642683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 179
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506141b99b7afe60800000000000000
+      internalID: 7996839988383801438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fd02f5fce27d40800000000000000
+      internalID: 5580783429337609547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327fb7024178a980800000000000000
+      internalID: -8527441366014266824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 143
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e085f9f7617450800000000000000
+      internalID: 6084758894817634638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 155
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f27fac4c08b210800000000000000
+      internalID: 1348841611898058834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 118
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e58bce7abb9343d0800000000000000
+      internalID: -3223561682973653533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 122
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b1cdd9972163830800000000000000
+      internalID: 4050445228415130438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 125
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d8932b4fca3190800000000000000
+      internalID: -7981839467934068651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7105922c007005110800000000000000
+      internalID: 1247504796620509207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 74
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efece67466ec3d6d0800000000000000
+      internalID: -2966800790826594562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6b81105e5d9b030800000000000000
+      internalID: 3511072564054636239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed73e1ac3e369f20800000000000000
+      internalID: 3428996596424211941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5459b7fb0b6bd0800000000000000
+      internalID: -2635999998301152512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake plant_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 69
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30eb6707661869dd0800000000000000
+      internalID: -2479652267847401981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      snake plant_0: -7305206830449644006
+      snake plant_1: 5602877234562881851
+      snake plant_10: -5582927748212642683
+      snake plant_11: 7996839988383801438
+      snake plant_12: 5580783429337609547
+      snake plant_13: -8527441366014266824
+      snake plant_14: 6084758894817634638
+      snake plant_15: 1348841611898058834
+      snake plant_16: -3223561682973653533
+      snake plant_17: 4050445228415130438
+      snake plant_18: -7981839467934068651
+      snake plant_19: 1247504796620509207
+      snake plant_2: 283089416370898274
+      snake plant_20: -2966800790826594562
+      snake plant_21: 3511072564054636239
+      snake plant_22: 3428996596424211941
+      snake plant_23: -2635999998301152512
+      snake plant_24: -2479652267847401981
+      snake plant_3: -7502569347287363174
+      snake plant_4: -2666920384561818387
+      snake plant_5: -2965112893369223518
+      snake plant_6: 6803571145470385300
+      snake plant_7: 973853698706264563
+      snake plant_8: 5501713821663150642
+      snake plant_9: -6816820560487329188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

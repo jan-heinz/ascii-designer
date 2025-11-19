@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: b6f58e352f6b24f16bfc5aba4dc28da9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7031781447828019841
+    second: house plant_0
+  - first:
+      213: -2574086215191009326
+    second: house plant_1
+  - first:
+      213: -8691623824091648609
+    second: house plant_2
+  - first:
+      213: -8825832294747863500
+    second: house plant_3
+  - first:
+      213: 1373267640707154368
+    second: house plant_4
+  - first:
+      213: 7999742294896692643
+    second: house plant_5
+  - first:
+      213: 2089104753485731761
+    second: house plant_6
+  - first:
+      213: -80302856557848421
+    second: house plant_7
+  - first:
+      213: 7299918983519371269
+    second: house plant_8
+  - first:
+      213: -2827614470005517304
+    second: house plant_9
+  - first:
+      213: 6876250437718549375
+    second: house plant_10
+  - first:
+      213: 7423730666166396117
+    second: house plant_11
+  - first:
+      213: -1988497855651786727
+    second: house plant_12
+  - first:
+      213: 9093069058172691317
+    second: house plant_13
+  - first:
+      213: 1862030289755295289
+    second: house plant_14
+  - first:
+      213: -3867644394887780122
+    second: house plant_15
+  - first:
+      213: -5642233775092348660
+    second: house plant_16
+  - first:
+      213: 5706260038298593803
+    second: house plant_17
+  - first:
+      213: -5568494948824878840
+    second: house plant_18
+  - first:
+      213: 8162523188444744555
+    second: house plant_19
+  - first:
+      213: 3077932539153016705
+    second: house plant_20
+  - first:
+      213: 4077914639256224508
+    second: house plant_21
+  - first:
+      213: 4535171675179551334
+    second: house plant_22
+  - first:
+      213: -2770169923412472900
+    second: house plant_23
+  - first:
+      213: 6313419581680603033
+    second: house plant_24
+  - first:
+      213: 8055926568969886287
+    second: house plant_25
+  - first:
+      213: 7079422577135949795
+    second: house plant_26
+  - first:
+      213: -4640815154041093879
+    second: house plant_27
+  - first:
+      213: 4298692765006304345
+    second: house plant_28
+  - first:
+      213: -6703877411500213206
+    second: house plant_29
+  - first:
+      213: 5278241695867726446
+    second: house plant_30
+  - first:
+      213: 2328677889543458337
+    second: house plant_31
+  - first:
+      213: -2056448511548943094
+    second: house plant_32
+  - first:
+      213: -2033954382589040454
+    second: house plant_33
+  - first:
+      213: -4405196346616542365
+    second: house plant_34
+  - first:
+      213: -1154773185350789997
+    second: house plant_35
+  - first:
+      213: -7939566667770261452
+    second: house plant_36
+  - first:
+      213: -7996952355616667822
+    second: house plant_37
+  - first:
+      213: -7892002671640900988
+    second: house plant_38
+  - first:
+      213: -704575084027068786
+    second: house plant_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: house plant_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 261
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a98f788f7e59160800000000000000
+      internalID: 7031781447828019841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76f42b932074cd0800000000000000
+      internalID: -2574086215191009326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de1b3ae26216780800000000000000
+      internalID: -8691623824091648609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 242
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43602680a48548580800000000000000
+      internalID: -8825832294747863500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 226
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c183e1b4a3de0310800000000000000
+      internalID: 1373267640707154368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 223
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4cf59b3bc40f60800000000000000
+      internalID: 7999742294896692643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d81a64bdfdfc10800000000000000
+      internalID: 2089104753485731761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 208
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b989b683af4b2eef0800000000000000
+      internalID: -80302856557848421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5008dcd83a58e4560800000000000000
+      internalID: 7299918983519371269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 178
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041191fe9b42c8d0800000000000000
+      internalID: -2827614470005517304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 210
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73a6d657595d6f50800000000000000
+      internalID: 6876250437718549375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 188
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a50155b3660760800000000000000
+      internalID: 7423730666166396117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 207
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910df3d5cbf6764e0800000000000000
+      internalID: -1988497855651786727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_13
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 190
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573aa7a9122113e70800000000000000
+      internalID: 9093069058172691317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 155
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec1eddea247d910800000000000000
+      internalID: 1862030289755295289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 163
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ee2d1aed535ac0800000000000000
+      internalID: -3867644394887780122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 141
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09c8ef7642c2b1b0800000000000000
+      internalID: -5642233775092348660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a6bc29545b03f40800000000000000
+      internalID: 5706260038298593803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 146
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017cb1e85bb8b2b0800000000000000
+      internalID: -5568494948824878840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 140
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b432ec79b174170800000000000000
+      internalID: 8162523188444744555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 154
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187e4d6365307ba20800000000000000
+      internalID: 3077932539153016705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 76
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf28b3932c9a79830800000000000000
+      internalID: 4077914639256224508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a8d763c9a20fe30800000000000000
+      internalID: 4535171675179551334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb4783b1216e89d0800000000000000
+      internalID: -2770169923412472900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f411cd8a5cd9750800000000000000
+      internalID: 6313419581680603033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ad41848866ccf60800000000000000
+      internalID: 8055926568969886287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7911553592f3260800000000000000
+      internalID: 7079422577135949795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_27
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901812b9433889fb0800000000000000
+      internalID: -4640815154041093879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 123
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9541eb85b4608ab30800000000000000
+      internalID: 4298692765006304345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 77
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cb3cd430b07f2a0800000000000000
+      internalID: -6703877411500213206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae9d86bd4104940800000000000000
+      internalID: 5278241695867726446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e4b82e330215020800000000000000
+      internalID: 2328677889543458337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a059e3a69f60673e0800000000000000
+      internalID: -2056448511548943094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab86e60f341f5c3e0800000000000000
+      internalID: -2033954382589040454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b821233499dd2c0800000000000000
+      internalID: -4405196346616542365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 99
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394150bf7eb69ffe0800000000000000
+      internalID: -1154773185350789997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43095096e2ef0d190800000000000000
+      internalID: -7939566667770261452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 40
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ceb5c33e150190800000000000000
+      internalID: -7996952355616667822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a096e3269f97290800000000000000
+      internalID: -7892002671640900988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: house plant_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb9fea1b8d836f0800000000000000
+      internalID: -704575084027068786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      house plant_0: 7031781447828019841
+      house plant_1: -2574086215191009326
+      house plant_10: 6876250437718549375
+      house plant_11: 7423730666166396117
+      house plant_12: -1988497855651786727
+      house plant_13: 9093069058172691317
+      house plant_14: 1862030289755295289
+      house plant_15: -3867644394887780122
+      house plant_16: -5642233775092348660
+      house plant_17: 5706260038298593803
+      house plant_18: -5568494948824878840
+      house plant_19: 8162523188444744555
+      house plant_2: -8691623824091648609
+      house plant_20: 3077932539153016705
+      house plant_21: 4077914639256224508
+      house plant_22: 4535171675179551334
+      house plant_23: -2770169923412472900
+      house plant_24: 6313419581680603033
+      house plant_25: 8055926568969886287
+      house plant_26: 7079422577135949795
+      house plant_27: -4640815154041093879
+      house plant_28: 4298692765006304345
+      house plant_29: -6703877411500213206
+      house plant_3: -8825832294747863500
+      house plant_30: 5278241695867726446
+      house plant_31: 2328677889543458337
+      house plant_32: -2056448511548943094
+      house plant_33: -2033954382589040454
+      house plant_34: -4405196346616542365
+      house plant_35: -1154773185350789997
+      house plant_36: -7939566667770261452
+      house plant_37: -7996952355616667822
+      house plant_38: -7892002671640900988
+      house plant_39: -704575084027068786
+      house plant_4: 1373267640707154368
+      house plant_5: 7999742294896692643
+      house plant_6: 2089104753485731761
+      house plant_7: -80302856557848421
+      house plant_8: 7299918983519371269
+      house plant_9: -2827614470005517304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

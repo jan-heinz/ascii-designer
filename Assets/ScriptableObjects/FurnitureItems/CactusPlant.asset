@@ -10,7 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 115d956f9e62b4e22beff308da9ae58a, type: 3}
-  m_Name: WaterBottle
+  m_Name: CactusPlant
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
-  sprite: {fileID: 21300000, guid: 147e12dac19d7483cbca867415ee433d, type: 3}
+  sprite: {fileID: 21300000, guid: 91c4a583ee85e48debcc86004f5ac66d, type: 3}
   furnitureSize: {x: 1, y: 1}
+  itemAttributes: []

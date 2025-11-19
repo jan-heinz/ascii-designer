@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 91bc6e93d04d44462bf76eefddbfc731
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6696897164379916337
+    second: stove_0
+  - first:
+      213: -2886747468824742174
+    second: stove_1
+  - first:
+      213: -8645177133111620160
+    second: stove_2
+  - first:
+      213: 8464661611770427596
+    second: stove_3
+  - first:
+      213: 915007849812676374
+    second: stove_4
+  - first:
+      213: 8393117584856387082
+    second: stove_5
+  - first:
+      213: -3864345683864864468
+    second: stove_6
+  - first:
+      213: -9063099691889341747
+    second: stove_7
+  - first:
+      213: -7673479262078662724
+    second: stove_8
+  - first:
+      213: -6035610912103090071
+    second: stove_9
+  - first:
+      213: -7424317534157479046
+    second: stove_10
+  - first:
+      213: -6129577168710494256
+    second: stove_11
+  - first:
+      213: -1313210297385920755
+    second: stove_12
+  - first:
+      213: 1500151821394910044
+    second: stove_13
+  - first:
+      213: 6525925207470275956
+    second: stove_14
+  - first:
+      213: -2561755755100877158
+    second: stove_15
+  - first:
+      213: 2235129561488278593
+    second: stove_16
+  - first:
+      213: 8625090054018416245
+    second: stove_17
+  - first:
+      213: -3563754417238636660
+    second: stove_18
+  - first:
+      213: 8178948455542567780
+    second: stove_19
+  - first:
+      213: 4809227269534894188
+    second: stove_20
+  - first:
+      213: 951317383325981854
+    second: stove_21
+  - first:
+      213: -5283721566880469563
+    second: stove_22
+  - first:
+      213: -5611133973999552678
+    second: stove_23
+  - first:
+      213: 6321037684954693714
+    second: stove_24
+  - first:
+      213: -4525154014514857503
+    second: stove_25
+  - first:
+      213: -3311699373910406649
+    second: stove_26
+  - first:
+      213: -4004477988517121134
+    second: stove_27
+  - first:
+      213: -1753989234538564111
+    second: stove_28
+  - first:
+      213: -6450081142022088058
+    second: stove_29
+  - first:
+      213: 5381840020412870645
+    second: stove_30
+  - first:
+      213: 8268677353860931630
+    second: stove_31
+  - first:
+      213: 1986306262764720964
+    second: stove_32
+  - first:
+      213: 1766255909023113929
+    second: stove_33
+  - first:
+      213: -8452234661494673187
+    second: stove_34
+  - first:
+      213: -5696441778485729414
+    second: stove_35
+  - first:
+      213: -6554854723653474403
+    second: stove_36
+  - first:
+      213: 2547357796151976886
+    second: stove_37
+  - first:
+      213: -3175841720837722579
+    second: stove_38
+  - first:
+      213: 330540280533597098
+    second: stove_39
+  - first:
+      213: 3571451242383584673
+    second: stove_40
+  - first:
+      213: 1715912404742823996
+    second: stove_41
+  - first:
+      213: -8532137042261966144
+    second: stove_42
+  - first:
+      213: 1725907617448448222
+    second: stove_43
+  - first:
+      213: 6318785778840622325
+    second: stove_44
+  - first:
+      213: 1888948788815877587
+    second: stove_45
+  - first:
+      213: 5283548384629564763
+    second: stove_46
+  - first:
+      213: 1205746106151895515
+    second: stove_47
+  - first:
+      213: 8652786572932643300
+    second: stove_48
+  - first:
+      213: 8323331506172883696
+    second: stove_49
+  - first:
+      213: 920854528078066243
+    second: stove_50
+  - first:
+      213: -117712607245489481
+    second: stove_51
+  - first:
+      213: 8372098354775969569
+    second: stove_52
+  - first:
+      213: -4310223238090906366
+    second: stove_53
+  - first:
+      213: 676824471411231095
+    second: stove_54
+  - first:
+      213: 2811271372861892697
+    second: stove_55
+  - first:
+      213: -708099839276195647
+    second: stove_56
+  - first:
+      213: 5327053552771059800
+    second: stove_57
+  - first:
+      213: -4912848388955573831
+    second: stove_58
+  - first:
+      213: 7082059024075761293
+    second: stove_59
+  - first:
+      213: -6907209850126584469
+    second: stove_60
+  - first:
+      213: 6185609158528561113
+    second: stove_61
+  - first:
+      213: 3623431958438509864
+    second: stove_62
+  - first:
+      213: 5552990111593494847
+    second: stove_63
+  - first:
+      213: 1450121352844277495
+    second: stove_64
+  - first:
+      213: 8160640131669657985
+    second: stove_65
+  - first:
+      213: -4052559156861889637
+    second: stove_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stove_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 380
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc770dbb287df03a0800000000000000
+      internalID: -6696897164379916337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e67174c87630f7d0800000000000000
+      internalID: -2886747468824742174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4d889339260880800000000000000
+      internalID: -8645177133111620160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8367163e4887570800000000000000
+      internalID: 8464661611770427596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f47ce9ac2c2bc00800000000000000
+      internalID: 915007849812676374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e037b89f75a7470800000000000000
+      internalID: 8393117584856387082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29bbef13161f5ac0800000000000000
+      internalID: -3864345683864864468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcacbfc39d6693280800000000000000
+      internalID: -9063099691889341747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb789785443528590800000000000000
+      internalID: -7673479262078662724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 380
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968bf9d7ad33d3ca0800000000000000
+      internalID: -6035610912103090071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e6d4d98687f890800000000000000
+      internalID: -7424317534157479046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79aab7a0e5feaa0800000000000000
+      internalID: -6129577168710494256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 348
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075de4313a86cde0800000000000000
+      internalID: -1313210297385920755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 310
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b1667222c91d410800000000000000
+      internalID: 1500151821394910044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 310
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d780e766eb09a50800000000000000
+      internalID: 6525925207470275956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 348
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e46e7a6b0d27cd0800000000000000
+      internalID: -2561755755100877158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 319
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144cb737e76c40f10800000000000000
+      internalID: 2235129561488278593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 305
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb589d4b972b770800000000000000
+      internalID: 8625090054018416245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 339
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8703c53d300b8ec0800000000000000
+      internalID: -3563754417238636660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 331
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46338d05946718170800000000000000
+      internalID: 8178948455542567780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 339
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68cfb4a8becdb240800000000000000
+      internalID: 4809227269534894188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 339
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c9ccdae12c33d00800000000000000
+      internalID: 951317383325981854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_22
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 331
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde402ba337ca6b0800000000000000
+      internalID: -5283721566880469563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 339
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5771a4316f3122b0800000000000000
+      internalID: -5611133973999552678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 324
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250059fb846d8b750800000000000000
+      internalID: 6321037684954693714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 324
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b8ea266c6331c0800000000000000
+      internalID: -4525154014514857503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 324
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70acf2f27fa7a02d0800000000000000
+      internalID: -3311699373910406649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 324
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f09f6c7c3d68c0800000000000000
+      internalID: -4004477988517121134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 225
+        width: 7
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5387f851498a7e0800000000000000
+      internalID: -1753989234538564111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 244
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ad3551065bc76a0800000000000000
+      internalID: -6450081142022088058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 256
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa0befbf220ba40800000000000000
+      internalID: 5381840020412870645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 256
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20a2377e3e30c270800000000000000
+      internalID: 8268677353860931630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 256
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4439937a507c09b10800000000000000
+      internalID: 1986306262764720964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2e1c72460038810800000000000000
+      internalID: 1766255909023113929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_34
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 244
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bd537b51a3ba80800000000000000
+      internalID: -8452234661494673187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_35
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 225
+        width: 8
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77e9ad226c22f0b0800000000000000
+      internalID: -5696441778485729414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 151
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e752ab5a7805a0800000000000000
+      internalID: -6554854723653474403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 155
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3e57b4b680a5320800000000000000
+      internalID: 2547357796151976886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_38
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 155
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2a9ef7c42de3d0800000000000000
+      internalID: -3175841720837722579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 151
+        width: 8
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb92542a0569400800000000000000
+      internalID: 330540280533597098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 7
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada6ea8bf7509130800000000000000
+      internalID: 3571451242383584673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e166ad3520d710800000000000000
+      internalID: 1715912404742823996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c20605b092c79980800000000000000
+      internalID: -8532137042261966144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d72575d7a3f710800000000000000
+      internalID: 1725907617448448222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4d59fff26d0b750800000000000000
+      internalID: 6318785778840622325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d556445ae4e63a10800000000000000
+      internalID: 1888948788815877587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_46
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b552f6b234fe25940800000000000000
+      internalID: 5283548384629564763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 81
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd18e7af1bbabb010800000000000000
+      internalID: 1205746106151895515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 80
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e97bec2b8fd41870800000000000000
+      internalID: 8652786572932643300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 8
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2704de7e9628370800000000000000
+      internalID: 8323331506172883696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 7
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34237eb705887cc00800000000000000
+      internalID: 920854528078066243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2c83e10dcd5ef0800000000000000
+      internalID: -117712607245489481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fcd0da81baf2470800000000000000
+      internalID: 8372098354775969569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 40
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20525fe2dc20f24c0800000000000000
+      internalID: -4310223238090906366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 40
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77902c15540946900800000000000000
+      internalID: 676824471411231095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_55
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 40
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95868aa3b64a30720800000000000000
+      internalID: 2811271372861892697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_56
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1
+        width: 8
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06e66a2f25c26f0800000000000000
+      internalID: -708099839276195647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d6687bfe7de940800000000000000
+      internalID: 5327053552771059800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 25
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1f3fc6b6e02dbb0800000000000000
+      internalID: -4912848388955573831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 25
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86a268f827884260800000000000000
+      internalID: 7082059024075761293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_60
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 25
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65302ebc39a420a0800000000000000
+      internalID: -6907209850126584469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 25
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df6f75c1c2b7d550800000000000000
+      internalID: 6185609158528561113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d768e1b24094230800000000000000
+      internalID: 3623431958438509864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3979c2e51f201d40800000000000000
+      internalID: 5552990111593494847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6fd75ffaddf1410800000000000000
+      internalID: 1450121352844277495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_65
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18987fb76fa604170800000000000000
+      internalID: 8160640131669657985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stove_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 6
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b939dff0bea62c7c0800000000000000
+      internalID: -4052559156861889637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stove_0: -6696897164379916337
+      stove_1: -2886747468824742174
+      stove_10: -7424317534157479046
+      stove_11: -6129577168710494256
+      stove_12: -1313210297385920755
+      stove_13: 1500151821394910044
+      stove_14: 6525925207470275956
+      stove_15: -2561755755100877158
+      stove_16: 2235129561488278593
+      stove_17: 8625090054018416245
+      stove_18: -3563754417238636660
+      stove_19: 8178948455542567780
+      stove_2: -8645177133111620160
+      stove_20: 4809227269534894188
+      stove_21: 951317383325981854
+      stove_22: -5283721566880469563
+      stove_23: -5611133973999552678
+      stove_24: 6321037684954693714
+      stove_25: -4525154014514857503
+      stove_26: -3311699373910406649
+      stove_27: -4004477988517121134
+      stove_28: -1753989234538564111
+      stove_29: -6450081142022088058
+      stove_3: 8464661611770427596
+      stove_30: 5381840020412870645
+      stove_31: 8268677353860931630
+      stove_32: 1986306262764720964
+      stove_33: 1766255909023113929
+      stove_34: -8452234661494673187
+      stove_35: -5696441778485729414
+      stove_36: -6554854723653474403
+      stove_37: 2547357796151976886
+      stove_38: -3175841720837722579
+      stove_39: 330540280533597098
+      stove_4: 915007849812676374
+      stove_40: 3571451242383584673
+      stove_41: 1715912404742823996
+      stove_42: -8532137042261966144
+      stove_43: 1725907617448448222
+      stove_44: 6318785778840622325
+      stove_45: 1888948788815877587
+      stove_46: 5283548384629564763
+      stove_47: 1205746106151895515
+      stove_48: 8652786572932643300
+      stove_49: 8323331506172883696
+      stove_5: 8393117584856387082
+      stove_50: 920854528078066243
+      stove_51: -117712607245489481
+      stove_52: 8372098354775969569
+      stove_53: -4310223238090906366
+      stove_54: 676824471411231095
+      stove_55: 2811271372861892697
+      stove_56: -708099839276195647
+      stove_57: 5327053552771059800
+      stove_58: -4912848388955573831
+      stove_59: 7082059024075761293
+      stove_6: -3864345683864864468
+      stove_60: -6907209850126584469
+      stove_61: 6185609158528561113
+      stove_62: 3623431958438509864
+      stove_63: 5552990111593494847
+      stove_64: 1450121352844277495
+      stove_65: 8160640131669657985
+      stove_66: -4052559156861889637
+      stove_7: -9063099691889341747
+      stove_8: -7673479262078662724
+      stove_9: -6035610912103090071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

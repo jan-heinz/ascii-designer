@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: 725da5014e91a4d7886b8fb6a4d03277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4876614519491423539
+    second: guitar_0
+  - first:
+      213: -5356693247370409494
+    second: guitar_1
+  - first:
+      213: -6612042247151015356
+    second: guitar_2
+  - first:
+      213: 399734307207653992
+    second: guitar_3
+  - first:
+      213: 4756626964592706986
+    second: guitar_4
+  - first:
+      213: -9085663428300431030
+    second: guitar_5
+  - first:
+      213: -8696621950231929459
+    second: guitar_6
+  - first:
+      213: 8341475941280114819
+    second: guitar_7
+  - first:
+      213: 3831412801672928890
+    second: guitar_8
+  - first:
+      213: 1800612831157610419
+    second: guitar_9
+  - first:
+      213: 6254760217636765225
+    second: guitar_10
+  - first:
+      213: -6328244061540870372
+    second: guitar_11
+  - first:
+      213: -3029379280417964836
+    second: guitar_12
+  - first:
+      213: -5638417782215768420
+    second: guitar_13
+  - first:
+      213: 1802768916683470972
+    second: guitar_14
+  - first:
+      213: -773279376877030584
+    second: guitar_15
+  - first:
+      213: -8519656464974098182
+    second: guitar_16
+  - first:
+      213: -6946092566351039996
+    second: guitar_17
+  - first:
+      213: 1356951935085259593
+    second: guitar_18
+  - first:
+      213: 1022824158057895098
+    second: guitar_19
+  - first:
+      213: 2434121866015032327
+    second: guitar_20
+  - first:
+      213: -2231786877644968245
+    second: guitar_21
+  - first:
+      213: -8916393336020352304
+    second: guitar_22
+  - first:
+      213: -6954874454349498460
+    second: guitar_23
+  - first:
+      213: -632918819700110412
+    second: guitar_24
+  - first:
+      213: -2554443682985752453
+    second: guitar_25
+  - first:
+      213: 3543041205728639759
+    second: guitar_26
+  - first:
+      213: -5577812900075270523
+    second: guitar_27
+  - first:
+      213: 2285191101285924775
+    second: guitar_28
+  - first:
+      213: -6810080200281814307
+    second: guitar_29
+  - first:
+      213: -1008600379406074717
+    second: guitar_30
+  - first:
+      213: 8746140411136026159
+    second: guitar_31
+  - first:
+      213: 6650520507700626463
+    second: guitar_32
+  - first:
+      213: 5769664200106362780
+    second: guitar_33
+  - first:
+      213: 2335797205413793431
+    second: guitar_34
+  - first:
+      213: 619643544433042229
+    second: guitar_35
+  - first:
+      213: -4837001974849974353
+    second: guitar_36
+  - first:
+      213: -6454450131041249459
+    second: guitar_37
+  - first:
+      213: -2551070247836294255
+    second: guitar_38
+  - first:
+      213: 6455677423337067710
+    second: guitar_39
+  - first:
+      213: -6682659435083567232
+    second: guitar_40
+  - first:
+      213: 1408153673867205083
+    second: guitar_41
+  - first:
+      213: -2379076373891916067
+    second: guitar_42
+  - first:
+      213: 4624591019153385740
+    second: guitar_43
+  - first:
+      213: -3773730019204861423
+    second: guitar_44
+  - first:
+      213: -6438396999997894855
+    second: guitar_45
+  - first:
+      213: 789377397255386539
+    second: guitar_46
+  - first:
+      213: 5543895892300895903
+    second: guitar_47
+  - first:
+      213: 3956706489380506698
+    second: guitar_48
+  - first:
+      213: -2722784527611940546
+    second: guitar_49
+  - first:
+      213: 4678129297015577392
+    second: guitar_50
+  - first:
+      213: -433666202789911243
+    second: guitar_51
+  - first:
+      213: -8608278237060291528
+    second: guitar_52
+  - first:
+      213: 5877214204067652356
+    second: guitar_53
+  - first:
+      213: -5866048656699589700
+    second: guitar_54
+  - first:
+      213: 229445081238953756
+    second: guitar_55
+  - first:
+      213: -1971401893277470519
+    second: guitar_56
+  - first:
+      213: 8337384965365895066
+    second: guitar_57
+  - first:
+      213: 114618976796378868
+    second: guitar_58
+  - first:
+      213: -6587418365165395559
+    second: guitar_59
+  - first:
+      213: 8420878515951249675
+    second: guitar_60
+  - first:
+      213: 7776642135238996019
+    second: guitar_61
+  - first:
+      213: -8110991696876565254
+    second: guitar_62
+  - first:
+      213: 426745466988937109
+    second: guitar_63
+  - first:
+      213: -5191091496421031490
+    second: guitar_64
+  - first:
+      213: 2779474228016265378
+    second: guitar_65
+  - first:
+      213: 2994277894450259673
+    second: guitar_66
+  - first:
+      213: -3734903135821726786
+    second: guitar_67
+  - first:
+      213: -6511454740877888247
+    second: guitar_68
+  - first:
+      213: 2830514826531216664
+    second: guitar_69
+  - first:
+      213: -3189272303684444260
+    second: guitar_70
+  - first:
+      213: -6879619990430090559
+    second: guitar_71
+  - first:
+      213: 7611555437204158640
+    second: guitar_72
+  - first:
+      213: -8331017275243991873
+    second: guitar_73
+  - first:
+      213: -8974874596118316200
+    second: guitar_74
+  - first:
+      213: 8351477800982851638
+    second: guitar_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guitar_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 480
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc293339ee8c25cb0800000000000000
+      internalID: -4876614519491423539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c0cb5fd339a5b0800000000000000
+      internalID: -5356693247370409494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a20babb9e4d34a0800000000000000
+      internalID: -6612042247151015356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 437
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a26a90c342c8500800000000000000
+      internalID: 399734307207653992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 439
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5c799c50fe20240800000000000000
+      internalID: 4756626964592706986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412567ff3d39e180800000000000000
+      internalID: -9085663428300431030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 437
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9f86b9646f4780800000000000000
+      internalID: -8696621950231929459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 391
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388e77e6c20e2c370800000000000000
+      internalID: 8341475941280114819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 418
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e5997b4a9eb2530800000000000000
+      internalID: 3831412801672928890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 391
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e82374df0df810800000000000000
+      internalID: 1800612831157610419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 348
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92efb7f574f5dc650800000000000000
+      internalID: 6254760217636765225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 348
+        width: 7
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1791e3fd8f8d28a0800000000000000
+      internalID: -6328244061540870372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 304
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc32c4489b75f5d0800000000000000
+      internalID: -3029379280417964836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 304
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9688c396e050c1b0800000000000000
+      internalID: -5638417782215768420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 265
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b80b37c8b40910800000000000000
+      internalID: 1802768916683470972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 278
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843fb15f082c445f0800000000000000
+      internalID: -773279376877030584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 265
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0dbdc859914c980800000000000000
+      internalID: -8519656464974098182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 260
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4023aa5ec958a9f90800000000000000
+      internalID: -6946092566351039996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 266
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2904789cd4d210800000000000000
+      internalID: 1356951935085259593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 244
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49ab0172dc13e00800000000000000
+      internalID: 1022824158057895098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 235
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70446dbc0fcb7c120800000000000000
+      internalID: 2434121866015032327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee797c8a91701e0800000000000000
+      internalID: -2231786877644968245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 244
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c8d0808b924480800000000000000
+      internalID: -8916393336020352304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 216
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a73f0348825b7f90800000000000000
+      internalID: -6954874454349498460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8d14dfab6737f0800000000000000
+      internalID: -632918819700110412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78c4ec110bcc8cd0800000000000000
+      internalID: -2554443682985752453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 216
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf60c64396b2130800000000000000
+      internalID: 3543041205728639759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 178
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0c6b48b0a792b0800000000000000
+      internalID: -5577812900075270523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aff70cf231a6bf10800000000000000
+      internalID: 2285191101285924775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 178
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda0842a32cbd71a0800000000000000
+      internalID: -6810080200281814307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 179
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3d297c4bb002f0800000000000000
+      internalID: -1008600379406074717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a3796d58806970800000000000000
+      internalID: 8746140411136026159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 134
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1442f07a256b4c50800000000000000
+      internalID: 6650520507700626463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 147
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c0a06507f11050800000000000000
+      internalID: 5769664200106362780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0a08ce2b6a6020800000000000000
+      internalID: 2335797205413793431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533ab49458a699800800000000000000
+      internalID: 619643544433042229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 134
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf4437d4548fdcb0800000000000000
+      internalID: -4837001974849974353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 131
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4710de8dcf2d66a0800000000000000
+      internalID: -6454450131041249459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19366a03027c89cd0800000000000000
+      internalID: -2551070247836294255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 135
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d382b96c279950800000000000000
+      internalID: 6455677423337067710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 135
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6ee866ac6243a0800000000000000
+      internalID: -6682659435083567232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 131
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd914004e44ca8310800000000000000
+      internalID: 1408153673867205083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded5a094a2dbfed0800000000000000
+      internalID: -2379076373891916067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096910a709dd2040800000000000000
+      internalID: 4624591019153385740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 104
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f017aa8401abc0800000000000000
+      internalID: -3773730019204861423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4f246a0836a6a0800000000000000
+      internalID: -6438396999997894855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 88
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5312d7f8e64fa00800000000000000
+      internalID: 789377397255386539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 91
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f969754f0ffdfec40800000000000000
+      internalID: 5543895892300895903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c020ca69b09e630800000000000000
+      internalID: 3956706489380506698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b2c7e5e9b63ad0800000000000000
+      internalID: -2722784527611940546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b16f15fcd0ce040800000000000000
+      internalID: 4678129297015577392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5356d9fd2ee4bf9f0800000000000000
+      internalID: -433666202789911243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 60
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ab405d80498880800000000000000
+      internalID: -8608278237060291528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40325560e2f009150800000000000000
+      internalID: 5877214204067652356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 47
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb734e83db979ea0800000000000000
+      internalID: -5866048656699589700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_55
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f55b2f5172f2300800000000000000
+      internalID: 229445081238953756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0f9a94c6c24a4e0800000000000000
+      internalID: -1971401893277470519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0150e37754b370800000000000000
+      internalID: 8337384965365895066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_58
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f687742a55379100800000000000000
+      internalID: 114618976796378868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991ae6506e9c494a0800000000000000
+      internalID: -6587418365165395559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b092efff468fcd470800000000000000
+      internalID: 8420878515951249675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 44
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3307140d1de2ceb60800000000000000
+      internalID: 7776642135238996019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 44
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc878b8608ff6f80800000000000000
+      internalID: -8110991696876565254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f3261cdba1ce500800000000000000
+      internalID: 426745466988937109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1064f99c985f7b0800000000000000
+      internalID: -5191091496421031490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 22
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83347851da29620800000000000000
+      internalID: 2779474228016265378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6238171efcd8920800000000000000
+      internalID: 2994277894450259673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb7ad6e265fa2cc0800000000000000
+      internalID: -3734903135821726786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905b0fe896aa2a5a0800000000000000
+      internalID: -6511454740877888247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9edeec32084720800000000000000
+      internalID: 2830514826531216664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f95eebcbd6db3d0800000000000000
+      internalID: -3189272303684444260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafcb8811ea680a0800000000000000
+      internalID: -6879619990430090559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_72
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b83fb6a75da1a960800000000000000
+      internalID: 7611555437204158640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_73
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc60738de7426c80800000000000000
+      internalID: -8331017275243991873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_74
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bb0b21b17d27380800000000000000
+      internalID: -8974874596118316200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guitar_75
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 5
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630b42ddfc866e370800000000000000
+      internalID: 8351477800982851638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      guitar_0: -4876614519491423539
+      guitar_1: -5356693247370409494
+      guitar_10: 6254760217636765225
+      guitar_11: -6328244061540870372
+      guitar_12: -3029379280417964836
+      guitar_13: -5638417782215768420
+      guitar_14: 1802768916683470972
+      guitar_15: -773279376877030584
+      guitar_16: -8519656464974098182
+      guitar_17: -6946092566351039996
+      guitar_18: 1356951935085259593
+      guitar_19: 1022824158057895098
+      guitar_2: -6612042247151015356
+      guitar_20: 2434121866015032327
+      guitar_21: -2231786877644968245
+      guitar_22: -8916393336020352304
+      guitar_23: -6954874454349498460
+      guitar_24: -632918819700110412
+      guitar_25: -2554443682985752453
+      guitar_26: 3543041205728639759
+      guitar_27: -5577812900075270523
+      guitar_28: 2285191101285924775
+      guitar_29: -6810080200281814307
+      guitar_3: 399734307207653992
+      guitar_30: -1008600379406074717
+      guitar_31: 8746140411136026159
+      guitar_32: 6650520507700626463
+      guitar_33: 5769664200106362780
+      guitar_34: 2335797205413793431
+      guitar_35: 619643544433042229
+      guitar_36: -4837001974849974353
+      guitar_37: -6454450131041249459
+      guitar_38: -2551070247836294255
+      guitar_39: 6455677423337067710
+      guitar_4: 4756626964592706986
+      guitar_40: -6682659435083567232
+      guitar_41: 1408153673867205083
+      guitar_42: -2379076373891916067
+      guitar_43: 4624591019153385740
+      guitar_44: -3773730019204861423
+      guitar_45: -6438396999997894855
+      guitar_46: 789377397255386539
+      guitar_47: 5543895892300895903
+      guitar_48: 3956706489380506698
+      guitar_49: -2722784527611940546
+      guitar_5: -9085663428300431030
+      guitar_50: 4678129297015577392
+      guitar_51: -433666202789911243
+      guitar_52: -8608278237060291528
+      guitar_53: 5877214204067652356
+      guitar_54: -5866048656699589700
+      guitar_55: 229445081238953756
+      guitar_56: -1971401893277470519
+      guitar_57: 8337384965365895066
+      guitar_58: 114618976796378868
+      guitar_59: -6587418365165395559
+      guitar_6: -8696621950231929459
+      guitar_60: 8420878515951249675
+      guitar_61: 7776642135238996019
+      guitar_62: -8110991696876565254
+      guitar_63: 426745466988937109
+      guitar_64: -5191091496421031490
+      guitar_65: 2779474228016265378
+      guitar_66: 2994277894450259673
+      guitar_67: -3734903135821726786
+      guitar_68: -6511454740877888247
+      guitar_69: 2830514826531216664
+      guitar_7: 8341475941280114819
+      guitar_70: -3189272303684444260
+      guitar_71: -6879619990430090559
+      guitar_72: 7611555437204158640
+      guitar_73: -8331017275243991873
+      guitar_74: -8974874596118316200
+      guitar_75: 8351477800982851638
+      guitar_8: 3831412801672928890
+      guitar_9: 1800612831157610419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: ab2c335e618994e5584023b5233e6e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4136729397018612694
+    second: drawer_0
+  - first:
+      213: -3849358106225406392
+    second: drawer_1
+  - first:
+      213: -777274457187688957
+    second: drawer_2
+  - first:
+      213: -9223203673115840557
+    second: drawer_3
+  - first:
+      213: -503937883103888151
+    second: drawer_4
+  - first:
+      213: 1651637827491145029
+    second: drawer_5
+  - first:
+      213: 1151252108351694114
+    second: drawer_6
+  - first:
+      213: -2657281620463465313
+    second: drawer_7
+  - first:
+      213: 3489006390587975933
+    second: drawer_8
+  - first:
+      213: -7154673510327806462
+    second: drawer_9
+  - first:
+      213: 1723183693551648550
+    second: drawer_10
+  - first:
+      213: 1566027416633967504
+    second: drawer_11
+  - first:
+      213: 4635494786931536368
+    second: drawer_12
+  - first:
+      213: -7187938017111343939
+    second: drawer_13
+  - first:
+      213: 3240026057908809986
+    second: drawer_14
+  - first:
+      213: -4753595183871925970
+    second: drawer_15
+  - first:
+      213: -5086455039856443674
+    second: drawer_16
+  - first:
+      213: 2832913814058388293
+    second: drawer_17
+  - first:
+      213: -1402817922569966404
+    second: drawer_18
+  - first:
+      213: -3639570646845078014
+    second: drawer_19
+  - first:
+      213: 5138069167259238948
+    second: drawer_20
+  - first:
+      213: -6957963344520797410
+    second: drawer_21
+  - first:
+      213: -4586894674779669885
+    second: drawer_22
+  - first:
+      213: -4108966672840588463
+    second: drawer_23
+  - first:
+      213: -275451732384991632
+    second: drawer_24
+  - first:
+      213: -8025642894177152134
+    second: drawer_25
+  - first:
+      213: -3674269865260395462
+    second: drawer_26
+  - first:
+      213: -3953918871496598122
+    second: drawer_27
+  - first:
+      213: -4001109863294306126
+    second: drawer_28
+  - first:
+      213: 5112287772046283815
+    second: drawer_29
+  - first:
+      213: 2820639081136366115
+    second: drawer_30
+  - first:
+      213: -7369145808694686588
+    second: drawer_31
+  - first:
+      213: -8863470691394355738
+    second: drawer_32
+  - first:
+      213: 3222509243963309370
+    second: drawer_33
+  - first:
+      213: 6285936193861312831
+    second: drawer_34
+  - first:
+      213: 5297229291387158936
+    second: drawer_35
+  - first:
+      213: 6795496457390539117
+    second: drawer_36
+  - first:
+      213: 4699182506541067346
+    second: drawer_37
+  - first:
+      213: 7838389319170716825
+    second: drawer_38
+  - first:
+      213: -1143178347650759794
+    second: drawer_39
+  - first:
+      213: 4466717549700133534
+    second: drawer_40
+  - first:
+      213: 9073696853703416974
+    second: drawer_41
+  - first:
+      213: -1610901575878517049
+    second: drawer_42
+  - first:
+      213: -7817443147146758775
+    second: drawer_43
+  - first:
+      213: -2944207821237750200
+    second: drawer_44
+  - first:
+      213: -8189616288913292912
+    second: drawer_45
+  - first:
+      213: 7271272880178226442
+    second: drawer_46
+  - first:
+      213: 5344882927155680090
+    second: drawer_47
+  - first:
+      213: -7766048413483037627
+    second: drawer_48
+  - first:
+      213: 6953792106499899667
+    second: drawer_49
+  - first:
+      213: -6577185172999044367
+    second: drawer_50
+  - first:
+      213: 8448615890427407650
+    second: drawer_51
+  - first:
+      213: 8585316389996979440
+    second: drawer_52
+  - first:
+      213: -3789698184329729079
+    second: drawer_53
+  - first:
+      213: -5661609147453379818
+    second: drawer_54
+  - first:
+      213: -3444347059253830105
+    second: drawer_55
+  - first:
+      213: 3549801353890224374
+    second: drawer_56
+  - first:
+      213: -1075001050992971336
+    second: drawer_57
+  - first:
+      213: 4609519964185782077
+    second: drawer_58
+  - first:
+      213: 6399943227549560127
+    second: drawer_59
+  - first:
+      213: 6370002732446190650
+    second: drawer_60
+  - first:
+      213: 3837223967297360737
+    second: drawer_61
+  - first:
+      213: -8910393396648009719
+    second: drawer_62
+  - first:
+      213: -9147257475075613461
+    second: drawer_63
+  - first:
+      213: -4002763839799327132
+    second: drawer_64
+  - first:
+      213: 383811877257269852
+    second: drawer_65
+  - first:
+      213: -3874119826465725301
+    second: drawer_66
+  - first:
+      213: 7290421388585877993
+    second: drawer_67
+  - first:
+      213: -8603358642210401909
+    second: drawer_68
+  - first:
+      213: -5298009429639575584
+    second: drawer_69
+  - first:
+      213: -2356385314603192226
+    second: drawer_70
+  - first:
+      213: -2017838891968165040
+    second: drawer_71
+  - first:
+      213: 1444259735565654008
+    second: drawer_72
+  - first:
+      213: 5445660392109212579
+    second: drawer_73
+  - first:
+      213: 4073141251995250378
+    second: drawer_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drawer_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 346
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c2aced7826796c0800000000000000
+      internalID: -4136729397018612694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 346
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e0a297235549ac0800000000000000
+      internalID: -3849358106225406392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 346
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed756dff09635f0800000000000000
+      internalID: -777274457187688957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 346
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df2adc3029900080800000000000000
+      internalID: -9223203673115840557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 346
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecfab05a27a109f0800000000000000
+      internalID: -503937883103888151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 346
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54525357adbcbe610800000000000000
+      internalID: 1651637827491145029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 346
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e83561b11aff00800000000000000
+      internalID: 1151252108351694114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 346
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cc910f1707f1bd0800000000000000
+      internalID: -2657281620463465313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_8
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 346
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86012a3d07b6030800000000000000
+      internalID: 3489006390587975933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 267
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2069305795e75bc90800000000000000
+      internalID: -7154673510327806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 318
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f34e0807af9e710800000000000000
+      internalID: 1723183693551648550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 267
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0938df463a5abb510800000000000000
+      internalID: 1566027416633967504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 297
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ba35e2f5945040800000000000000
+      internalID: 4635494786931536368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 255
+        width: 7
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc7d8ee4705f3c90800000000000000
+      internalID: -7187938017111343939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201f9a48882e6fc20800000000000000
+      internalID: 3240026057908809986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216e4bad56d70eb0800000000000000
+      internalID: -4753595183871925970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 300
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7c5727184969b0800000000000000
+      internalID: -5086455039856443674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b4f3eba18805720800000000000000
+      internalID: 2832913814058388293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6aa82880388ce0800000000000000
+      internalID: -1402817922569966404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2064cdba7c5ad7dc0800000000000000
+      internalID: -3639570646845078014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422cfd95fa61e4740800000000000000
+      internalID: 5138069167259238948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1326a9f339507f90800000000000000
+      internalID: -6957963344520797410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_22
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 283
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a70af78931850c0800000000000000
+      internalID: -4586894674779669885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530b6fc4940af6c0800000000000000
+      internalID: -4108966672840588463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763d6adb166d2cf0800000000000000
+      internalID: -275451732384991632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 36
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73de663f403f9090800000000000000
+      internalID: -8025642894177152134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a345b30560f520dc0800000000000000
+      internalID: -3674269865260395462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5bb13cbbd029c0800000000000000
+      internalID: -3953918871496598122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8f70337c33978c0800000000000000
+      internalID: -4001109863294306126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724546284ae72f640800000000000000
+      internalID: 5112287772046283815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 283
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a7b6cc4ce42720800000000000000
+      internalID: 2820639081136366115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 170
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc1be2ee88bb990800000000000000
+      internalID: -7369145808694686588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7a5aed50aef480800000000000000
+      internalID: -8863470691394355738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 218
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d78d37517a8bc20800000000000000
+      internalID: 3222509243963309370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 218
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31efdbf9a12c3750800000000000000
+      internalID: 6285936193861312831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8910dee79f9838940800000000000000
+      internalID: 5297229291387158936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_36
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 170
+        width: 6
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61403f16047e4e50800000000000000
+      internalID: 6795496457390539117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 170
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c2c15a799d63140800000000000000
+      internalID: 4699182506541067346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f2646e8d87cc60800000000000000
+      internalID: 7838389319170716825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 177
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83cb51895d9220f0800000000000000
+      internalID: -1143178347650759794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_40
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 177
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9231ed12f7fcfd30800000000000000
+      internalID: 4466717549700133534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 177
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c5294c63f3ced70800000000000000
+      internalID: 9073696853703416974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_42
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 177
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced4a93d8de4a9e0800000000000000
+      internalID: -1610901575878517049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_43
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 177
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985718250ecd28390800000000000000
+      internalID: -7817443147146758775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 177
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846723ee5921427d0800000000000000
+      internalID: -2944207821237750200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 177
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091029c2063a85e80800000000000000
+      internalID: -8189616288913292912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0564ffd820c8e460800000000000000
+      internalID: 7271272880178226442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 119
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531a2f24b6dc2a40800000000000000
+      internalID: 5344882927155680090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_48
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 117
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8bdd3d14793490800000000000000
+      internalID: -7766048413483037627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 117
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31187ddf315d08060800000000000000
+      internalID: 6953792106499899667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 119
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20d6dbee429b4a0800000000000000
+      internalID: -6577185172999044367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 86
+        width: 6
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d65a0c3638f3570800000000000000
+      internalID: 8448615890427407650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_52
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 86
+        width: 7
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4eb1e05cb252770800000000000000
+      internalID: 8585316389996979440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 93
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb651d7499486bc0800000000000000
+      internalID: -3789698184329729079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 93
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b60f41a7ced61b0800000000000000
+      internalID: -5661609147453379818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 93
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e930a39983330d0800000000000000
+      internalID: -3444347059253830105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 93
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8d3d1168d634130800000000000000
+      internalID: 3549801353890224374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 93
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1746e5d34d411f0800000000000000
+      internalID: -1075001050992971336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 93
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d376d523cfd48ff30800000000000000
+      internalID: 4609519964185782077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 93
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d22c4057a21d850800000000000000
+      internalID: 6399943227549560127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 93
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c09b54cbbc66850800000000000000
+      internalID: 6370002732446190650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 7
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163df562ede804530800000000000000
+      internalID: 3837223967297360737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 33
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9002fcf3a6ce75480800000000000000
+      internalID: -8910393396648009719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_63
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd4196ac96e0180800000000000000
+      internalID: -9147257475075613461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4668bf8ce735378c0800000000000000
+      internalID: -4002763839799327132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_65
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 56
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52de7c6ed2935500800000000000000
+      internalID: 383811877257269852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 8
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8466363b8c5c3ac0800000000000000
+      internalID: -3874119826465725301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_67
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1429960a7cc2560800000000000000
+      internalID: 7290421388585877993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8113cfb5eaba9880800000000000000
+      internalID: -8603358642210401909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 8
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c9a96e70b976b0800000000000000
+      internalID: -5298009429639575584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5031218a007c4fd0800000000000000
+      internalID: -2356385314603192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 8
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b054ef7323ff3e0800000000000000
+      internalID: -2017838891968165040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75ac5d39a0b0410800000000000000
+      internalID: 1444259735565654008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a38517364fd29b40800000000000000
+      internalID: 5445660392109212579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawer_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 10
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aceaa256364b68830800000000000000
+      internalID: 4073141251995250378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      drawer_0: -4136729397018612694
+      drawer_1: -3849358106225406392
+      drawer_10: 1723183693551648550
+      drawer_11: 1566027416633967504
+      drawer_12: 4635494786931536368
+      drawer_13: -7187938017111343939
+      drawer_14: 3240026057908809986
+      drawer_15: -4753595183871925970
+      drawer_16: -5086455039856443674
+      drawer_17: 2832913814058388293
+      drawer_18: -1402817922569966404
+      drawer_19: -3639570646845078014
+      drawer_2: -777274457187688957
+      drawer_20: 5138069167259238948
+      drawer_21: -6957963344520797410
+      drawer_22: -4586894674779669885
+      drawer_23: -4108966672840588463
+      drawer_24: -275451732384991632
+      drawer_25: -8025642894177152134
+      drawer_26: -3674269865260395462
+      drawer_27: -3953918871496598122
+      drawer_28: -4001109863294306126
+      drawer_29: 5112287772046283815
+      drawer_3: -9223203673115840557
+      drawer_30: 2820639081136366115
+      drawer_31: -7369145808694686588
+      drawer_32: -8863470691394355738
+      drawer_33: 3222509243963309370
+      drawer_34: 6285936193861312831
+      drawer_35: 5297229291387158936
+      drawer_36: 6795496457390539117
+      drawer_37: 4699182506541067346
+      drawer_38: 7838389319170716825
+      drawer_39: -1143178347650759794
+      drawer_4: -503937883103888151
+      drawer_40: 4466717549700133534
+      drawer_41: 9073696853703416974
+      drawer_42: -1610901575878517049
+      drawer_43: -7817443147146758775
+      drawer_44: -2944207821237750200
+      drawer_45: -8189616288913292912
+      drawer_46: 7271272880178226442
+      drawer_47: 5344882927155680090
+      drawer_48: -7766048413483037627
+      drawer_49: 6953792106499899667
+      drawer_5: 1651637827491145029
+      drawer_50: -6577185172999044367
+      drawer_51: 8448615890427407650
+      drawer_52: 8585316389996979440
+      drawer_53: -3789698184329729079
+      drawer_54: -5661609147453379818
+      drawer_55: -3444347059253830105
+      drawer_56: 3549801353890224374
+      drawer_57: -1075001050992971336
+      drawer_58: 4609519964185782077
+      drawer_59: 6399943227549560127
+      drawer_6: 1151252108351694114
+      drawer_60: 6370002732446190650
+      drawer_61: 3837223967297360737
+      drawer_62: -8910393396648009719
+      drawer_63: -9147257475075613461
+      drawer_64: -4002763839799327132
+      drawer_65: 383811877257269852
+      drawer_66: -3874119826465725301
+      drawer_67: 7290421388585877993
+      drawer_68: -8603358642210401909
+      drawer_69: -5298009429639575584
+      drawer_7: -2657281620463465313
+      drawer_70: -2356385314603192226
+      drawer_71: -2017838891968165040
+      drawer_72: 1444259735565654008
+      drawer_73: 5445660392109212579
+      drawer_74: 4073141251995250378
+      drawer_8: 3489006390587975933
+      drawer_9: -7154673510327806462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

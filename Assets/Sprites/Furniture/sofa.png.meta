@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: e109806e1607b48e8aef5c820b876099
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1039934807157257005
+    second: sofa_0
+  - first:
+      213: -1220662442149249042
+    second: sofa_1
+  - first:
+      213: 3670206758162284867
+    second: sofa_2
+  - first:
+      213: -6767903411785705050
+    second: sofa_3
+  - first:
+      213: 7257541682880562931
+    second: sofa_4
+  - first:
+      213: -129713665695174543
+    second: sofa_5
+  - first:
+      213: 4559870394751355074
+    second: sofa_6
+  - first:
+      213: -5650601634753292928
+    second: sofa_7
+  - first:
+      213: -7828260691927508000
+    second: sofa_8
+  - first:
+      213: -2832733883095439764
+    second: sofa_9
+  - first:
+      213: 9124257832119770355
+    second: sofa_10
+  - first:
+      213: 8055349504317713468
+    second: sofa_11
+  - first:
+      213: -6097281682773455411
+    second: sofa_12
+  - first:
+      213: 867538582666821548
+    second: sofa_13
+  - first:
+      213: 6076712227926266557
+    second: sofa_14
+  - first:
+      213: 2458372833934203496
+    second: sofa_15
+  - first:
+      213: 7569314954961985292
+    second: sofa_16
+  - first:
+      213: 826229263575065934
+    second: sofa_17
+  - first:
+      213: 1667502022769634852
+    second: sofa_18
+  - first:
+      213: 8371005562459041243
+    second: sofa_19
+  - first:
+      213: 2219479210904209011
+    second: sofa_20
+  - first:
+      213: 626653515075442673
+    second: sofa_21
+  - first:
+      213: -8469857994416534198
+    second: sofa_22
+  - first:
+      213: -85783555731735550
+    second: sofa_23
+  - first:
+      213: -1444981778472036864
+    second: sofa_24
+  - first:
+      213: 4716880756652965780
+    second: sofa_25
+  - first:
+      213: -1074361864845548164
+    second: sofa_26
+  - first:
+      213: -8626575636176065367
+    second: sofa_27
+  - first:
+      213: -6705726715148597241
+    second: sofa_28
+  - first:
+      213: -6552556842298783720
+    second: sofa_29
+  - first:
+      213: -5610978446813282816
+    second: sofa_30
+  - first:
+      213: -8305098393790660488
+    second: sofa_31
+  - first:
+      213: -4827084366750602308
+    second: sofa_32
+  - first:
+      213: -5578085454875401990
+    second: sofa_33
+  - first:
+      213: 8607289944084979381
+    second: sofa_34
+  - first:
+      213: 2286842216772219303
+    second: sofa_35
+  - first:
+      213: -3058927823232885334
+    second: sofa_36
+  - first:
+      213: -6724610113802880495
+    second: sofa_37
+  - first:
+      213: -4558631727530887346
+    second: sofa_38
+  - first:
+      213: 3467968923645379917
+    second: sofa_39
+  - first:
+      213: -3497532814282665539
+    second: sofa_40
+  - first:
+      213: -3047670803380430088
+    second: sofa_41
+  - first:
+      213: -4279407677723110317
+    second: sofa_42
+  - first:
+      213: 2919024432138970620
+    second: sofa_43
+  - first:
+      213: 8535917715125511878
+    second: sofa_44
+  - first:
+      213: -3586234984842504210
+    second: sofa_45
+  - first:
+      213: 8899644052678017581
+    second: sofa_46
+  - first:
+      213: 8840124528756209950
+    second: sofa_47
+  - first:
+      213: 2966950796183857169
+    second: sofa_48
+  - first:
+      213: -6500146023290849032
+    second: sofa_49
+  - first:
+      213: -3541132689555877541
+    second: sofa_50
+  - first:
+      213: -617015567964607703
+    second: sofa_51
+  - first:
+      213: 4472258328335755401
+    second: sofa_52
+  - first:
+      213: 4575398062287785293
+    second: sofa_53
+  - first:
+      213: 8080416261771507216
+    second: sofa_54
+  - first:
+      213: 1480731836657777705
+    second: sofa_55
+  - first:
+      213: 6118633565093447806
+    second: sofa_56
+  - first:
+      213: 2338767393649286707
+    second: sofa_57
+  - first:
+      213: -7160139367152783762
+    second: sofa_58
+  - first:
+      213: -7153813492102494423
+    second: sofa_59
+  - first:
+      213: -7584458360790318833
+    second: sofa_60
+  - first:
+      213: 6736736264376479414
+    second: sofa_61
+  - first:
+      213: 3536352118530773767
+    second: sofa_62
+  - first:
+      213: -560640631712077811
+    second: sofa_63
+  - first:
+      213: 8688231552967315880
+    second: sofa_64
+  - first:
+      213: 5363801496164553844
+    second: sofa_65
+  - first:
+      213: 3220762969491793943
+    second: sofa_66
+  - first:
+      213: 1718124654500342961
+    second: sofa_67
+  - first:
+      213: -438221183235019495
+    second: sofa_68
+  - first:
+      213: 4589124742166051869
+    second: sofa_69
+  - first:
+      213: -649393933228316206
+    second: sofa_70
+  - first:
+      213: 5638649945392594433
+    second: sofa_71
+  - first:
+      213: 4255381004442045153
+    second: sofa_72
+  - first:
+      213: -109358920471085103
+    second: sofa_73
+  - first:
+      213: -5444962373032928193
+    second: sofa_74
+  - first:
+      213: -3830910121658659346
+    second: sofa_75
+  - first:
+      213: 5962647658738483187
+    second: sofa_76
+  - first:
+      213: 6810702220332600281
+    second: sofa_77
+  - first:
+      213: -3399688807268952238
+    second: sofa_78
+  - first:
+      213: -2885942164029587435
+    second: sofa_79
+  - first:
+      213: 6728731704281605480
+    second: sofa_80
+  - first:
+      213: 8804143317662256547
+    second: sofa_81
+  - first:
+      213: -4772367612451313513
+    second: sofa_82
+  - first:
+      213: 6056519111006100994
+    second: sofa_83
+  - first:
+      213: -2418478280010196610
+    second: sofa_84
+  - first:
+      213: 5970790844350139167
+    second: sofa_85
+  - first:
+      213: 9174411977702399629
+    second: sofa_86
+  - first:
+      213: -1440829210893944259
+    second: sofa_87
+  - first:
+      213: -5587120692970646013
+    second: sofa_88
+  - first:
+      213: 7943335823774102619
+    second: sofa_89
+  - first:
+      213: -429878055451900695
+    second: sofa_90
+  - first:
+      213: -27641621294035740
+    second: sofa_91
+  - first:
+      213: -3771221519393162061
+    second: sofa_92
+  - first:
+      213: 9084244136406068155
+    second: sofa_93
+  - first:
+      213: -471777395722667873
+    second: sofa_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sofa_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 403
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc3dd7dc86191f0800000000000000
+      internalID: -1039934807157257005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 409
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef7809e9f55f0fe0800000000000000
+      internalID: -1220662442149249042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3414088d9913fe230800000000000000
+      internalID: 3670206758162284867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9db5274b39312a0800000000000000
+      internalID: -6767903411785705050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cfae55b7f7b460800000000000000
+      internalID: 7257541682880562931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170b9b9bb1a233ef0800000000000000
+      internalID: -129713665695174543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c889fcf6f9e74f30800000000000000
+      internalID: 4559870394751355074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d94950c70591b0800000000000000
+      internalID: -5650601634753292928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebd188606e6c5390800000000000000
+      internalID: -7828260691927508000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6622e2ba8b10b8d0800000000000000
+      internalID: -2832733883095439764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc139ae720ef9e70800000000000000
+      internalID: 9124257832119770355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ce972f1b95acf60800000000000000
+      internalID: 8055349504317713468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdcac24d9a126ba0800000000000000
+      internalID: -6097281682773455411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf3dc89ebd1a0c00800000000000000
+      internalID: 867538582666821548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db251d35391d45450800000000000000
+      internalID: 6076712227926266557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a5e144115ed1220800000000000000
+      internalID: 2458372833934203496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9f8bf8db9b0960800000000000000
+      internalID: 7569314954961985292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45ac6e332b577b00800000000000000
+      internalID: 826229263575065934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eed614148242710800000000000000
+      internalID: 1667502022769634852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda0332539cb2470800000000000000
+      internalID: 8371005562459041243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_20
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3764f40459c2dce10800000000000000
+      internalID: 2219479210904209011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f752534d0252b800800000000000000
+      internalID: 626653515075442673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dccc08705057a80800000000000000
+      internalID: -8469857994416534198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c3a018f4c3fcef0800000000000000
+      internalID: -85783555731735550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_24
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00613437ab462fbe0800000000000000
+      internalID: -1444981778472036864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffc2c9e0ab57140800000000000000
+      internalID: 4716880756652965780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 408
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a7ad73991711f0800000000000000
+      internalID: -1074361864845548164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 408
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acafa91a2f384880800000000000000
+      internalID: -8626575636176065367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_28
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 409
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70888beb41970f2a0800000000000000
+      internalID: -6705726715148597241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 403
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c934d444a015a0800000000000000
+      internalID: -6552556842298783720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 396
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3253b4dcc122b0800000000000000
+      internalID: -5610978446813282816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_31
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 396
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c07d530d5ebc80800000000000000
+      internalID: -8305098393790660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 385
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb2dfae750c20db0800000000000000
+      internalID: -4827084366750602308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_33
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 385
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0e06f25d8a692b0800000000000000
+      internalID: -5578085454875401990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_34
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 312
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1afbc99c337770800000000000000
+      internalID: 8607289944084979381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_35
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 334
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1331441ee7cbf10800000000000000
+      internalID: 2286842216772219303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad15a60a518c85d0800000000000000
+      internalID: -3058927823232885334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ab7c1eab26da2a0800000000000000
+      internalID: -6724610113802880495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_38
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 334
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4732b2b89c7cb0c0800000000000000
+      internalID: -4558631727530887346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 312
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d450af9ac53b02030800000000000000
+      internalID: 3467968923645379917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1d866af64467fc0800000000000000
+      internalID: -3497532814282665539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1e243d8f74b5d0800000000000000
+      internalID: -3047670803380430088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3541c30f36d7c94c0800000000000000
+      internalID: -4279407677723110317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf564506145728820800000000000000
+      internalID: 2919024432138970620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 248
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6250acfeba57670800000000000000
+      internalID: 8535917715125511878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7526f28422b3ec0800000000000000
+      internalID: -3586234984842504210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228a431d13e18b70800000000000000
+      internalID: 8899644052678017581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e193bb20c6e6eaa70800000000000000
+      internalID: 8840124528756209950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_48
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 265
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e990970abc2920800000000000000
+      internalID: 2966950796183857169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 248
+        width: 7
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8b49d81a7dac5a0800000000000000
+      internalID: -6500146023290849032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b519f70a49e5bdec0800000000000000
+      internalID: -3541132689555877541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_51
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 224
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b659a2c9bef67f0800000000000000
+      internalID: -617015567964607703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_52
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 224
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9882c3c2147a01e30800000000000000
+      internalID: 4472258328335755401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_53
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 224
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d8ca0db441f7f30800000000000000
+      internalID: 4575398062287785293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_54
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 224
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0163e2837c7632070800000000000000
+      internalID: 8080416261771507216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_55
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 183
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c399b92cd9c8410800000000000000
+      internalID: 1480731836657777705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_56
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 206
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e784d2e3fc0c9e450800000000000000
+      internalID: 6118633565093447806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_57
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e5bbe9d88f47020800000000000000
+      internalID: 2338767393649286707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e619e7e2312ac90800000000000000
+      internalID: -7160139367152783762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92785dd088c88bc90800000000000000
+      internalID: -7153813492102494423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 17
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f010a571e479eb690800000000000000
+      internalID: -7584458360790318833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee6af80f1bd7d50800000000000000
+      internalID: 6736736264376479414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7031ab1f385a31130800000000000000
+      internalID: 3536352118530773767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_63
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 124
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08a62cd0543838f0800000000000000
+      internalID: -560640631712077811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 124
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a115f0b09cc29870800000000000000
+      internalID: 8688231552967315880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474d898ca0d007a40800000000000000
+      internalID: 5363801496164553844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_66
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186a4e3bd272bc20800000000000000
+      internalID: 3220762969491793943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_67
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc655f254108d710800000000000000
+      internalID: 1718124654500342961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 124
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91da938d7202be9f0800000000000000
+      internalID: -438221183235019495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_69
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 124
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c73c683a8dfaf30800000000000000
+      internalID: 4589124742166051869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9e1aa88a3ecf6f0800000000000000
+      internalID: -649393933228316206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eb6ef1042804e40800000000000000
+      internalID: 5638649945392594433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_72
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea86b14a762e0b30800000000000000
+      internalID: 4255381004442045153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_73
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 124
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dffc4824aa7b7ef0800000000000000
+      internalID: -109358920471085103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 124
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c1104029b9f64b0800000000000000
+      internalID: -5444962373032928193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_75
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 123
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed46189a8fd5dac0800000000000000
+      internalID: -3830910121658659346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_76
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 123
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fffbe344749fb250800000000000000
+      internalID: 5962647658738483187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 76
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db83e1b599748e50800000000000000
+      internalID: 6810702220332600281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 76
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257dcd7ca01e1d0d0800000000000000
+      internalID: -3399688807268952238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 96
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510c1b664e213f7d0800000000000000
+      internalID: -2885942164029587435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_80
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 96
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8652d9ea5d1416d50800000000000000
+      internalID: 6728731704281605480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_81
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 76
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad43e873b99e2a70800000000000000
+      internalID: 8804143317662256547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_82
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 76
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798a24a01f425cdb0800000000000000
+      internalID: -4772367612451313513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 82
+        width: 94
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e12eaea041d0450800000000000000
+      internalID: 6056519111006100994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_84
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 82
+        width: 124
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e799ef661d6df6ed0800000000000000
+      internalID: -2418478280010196610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 82
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b05a963a28cd250800000000000000
+      internalID: 5970790844350139167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_86
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 82
+        width: 124
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5a0ae51f025f70800000000000000
+      internalID: 9174411977702399629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 82
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af8ae6775210ce0800000000000000
+      internalID: -1440829210893944259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_88
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 82
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3061042e45f8672b0800000000000000
+      internalID: -5587120692970646013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54b0bb98d56c3e60800000000000000
+      internalID: 7943335823774102619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4cd08af24c80af0800000000000000
+      internalID: -429878055451900695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_91
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 64
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc0c5871ccd9ff0800000000000000
+      internalID: -27641621294035740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_92
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 64
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf247420ee9abc0800000000000000
+      internalID: -3771221519393162061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbba86369e7b11e70800000000000000
+      internalID: 9084244136406068155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sofa_94
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9834ea45f8e379f0800000000000000
+      internalID: -471777395722667873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sofa_0: -1039934807157257005
+      sofa_1: -1220662442149249042
+      sofa_10: 9124257832119770355
+      sofa_11: 8055349504317713468
+      sofa_12: -6097281682773455411
+      sofa_13: 867538582666821548
+      sofa_14: 6076712227926266557
+      sofa_15: 2458372833934203496
+      sofa_16: 7569314954961985292
+      sofa_17: 826229263575065934
+      sofa_18: 1667502022769634852
+      sofa_19: 8371005562459041243
+      sofa_2: 3670206758162284867
+      sofa_20: 2219479210904209011
+      sofa_21: 626653515075442673
+      sofa_22: -8469857994416534198
+      sofa_23: -85783555731735550
+      sofa_24: -1444981778472036864
+      sofa_25: 4716880756652965780
+      sofa_26: -1074361864845548164
+      sofa_27: -8626575636176065367
+      sofa_28: -6705726715148597241
+      sofa_29: -6552556842298783720
+      sofa_3: -6767903411785705050
+      sofa_30: -5610978446813282816
+      sofa_31: -8305098393790660488
+      sofa_32: -4827084366750602308
+      sofa_33: -5578085454875401990
+      sofa_34: 8607289944084979381
+      sofa_35: 2286842216772219303
+      sofa_36: -3058927823232885334
+      sofa_37: -6724610113802880495
+      sofa_38: -4558631727530887346
+      sofa_39: 3467968923645379917
+      sofa_4: 7257541682880562931
+      sofa_40: -3497532814282665539
+      sofa_41: -3047670803380430088
+      sofa_42: -4279407677723110317
+      sofa_43: 2919024432138970620
+      sofa_44: 8535917715125511878
+      sofa_45: -3586234984842504210
+      sofa_46: 8899644052678017581
+      sofa_47: 8840124528756209950
+      sofa_48: 2966950796183857169
+      sofa_49: -6500146023290849032
+      sofa_5: -129713665695174543
+      sofa_50: -3541132689555877541
+      sofa_51: -617015567964607703
+      sofa_52: 4472258328335755401
+      sofa_53: 4575398062287785293
+      sofa_54: 8080416261771507216
+      sofa_55: 1480731836657777705
+      sofa_56: 6118633565093447806
+      sofa_57: 2338767393649286707
+      sofa_58: -7160139367152783762
+      sofa_59: -7153813492102494423
+      sofa_6: 4559870394751355074
+      sofa_60: -7584458360790318833
+      sofa_61: 6736736264376479414
+      sofa_62: 3536352118530773767
+      sofa_63: -560640631712077811
+      sofa_64: 8688231552967315880
+      sofa_65: 5363801496164553844
+      sofa_66: 3220762969491793943
+      sofa_67: 1718124654500342961
+      sofa_68: -438221183235019495
+      sofa_69: 4589124742166051869
+      sofa_7: -5650601634753292928
+      sofa_70: -649393933228316206
+      sofa_71: 5638649945392594433
+      sofa_72: 4255381004442045153
+      sofa_73: -109358920471085103
+      sofa_74: -5444962373032928193
+      sofa_75: -3830910121658659346
+      sofa_76: 5962647658738483187
+      sofa_77: 6810702220332600281
+      sofa_78: -3399688807268952238
+      sofa_79: -2885942164029587435
+      sofa_8: -7828260691927508000
+      sofa_80: 6728731704281605480
+      sofa_81: 8804143317662256547
+      sofa_82: -4772367612451313513
+      sofa_83: 6056519111006100994
+      sofa_84: -2418478280010196610
+      sofa_85: 5970790844350139167
+      sofa_86: 9174411977702399629
+      sofa_87: -1440829210893944259
+      sofa_88: -5587120692970646013
+      sofa_89: 7943335823774102619
+      sofa_9: -2832733883095439764
+      sofa_90: -429878055451900695
+      sofa_91: -27641621294035740
+      sofa_92: -3771221519393162061
+      sofa_93: 9084244136406068155
+      sofa_94: -471777395722667873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
