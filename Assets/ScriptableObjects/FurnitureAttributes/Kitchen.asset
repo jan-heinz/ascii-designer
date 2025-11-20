@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 26623f68cbba4423a8a50e99b8a4fe12, type: 3}
   m_Name: Kitchen
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureAttribute
-  attribute: 
+  attribute: Kitchen
