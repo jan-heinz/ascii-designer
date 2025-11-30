@@ -5,23 +5,81 @@ public class LevelManager : MonoBehaviour
 {
     public string nextLevel;
 
+    // unique to each level
+    // total amount of money player needs to manage
+    [SerializeField] private int startingBalance = 1000;
+    private int currentBalance;
+
+    /* =================== LEVELS =================== */
+
     //load a new scene based on name
-    void LoadSceneByName(string name) {
+    void LoadSceneByName(string name)
+    {
         SceneManager.LoadScene(name);
+        currentBalance = startingBalance;
     }
 
     //changes the level name
-    public void ChangeNextLevel(string name) {
+    public void ChangeNextLevel(string name)
+    {
         nextLevel = name;
     }
 
     //loads the scene specified by nextLevel
     public void LoadNextLevel()
     {
-        if (nextLevel.Length > 0) {
+        if (nextLevel.Length > 0)
+        {
             LoadSceneByName(nextLevel);
-        } else {
+        }
+        else
+        {
             Debug.Log("No next level scene specified");
         }
+    }
+
+    /* =================== PLAYER BALANCE =================== */
+
+    // does the player have enough money to buy this item?
+    public bool CanAfford(int cost)
+    {
+        return cost <= currentBalance;
+    }
+
+
+    // deduct item cost from balance
+    // technically setter for current balance
+    public void PurchaseItem(int cost)
+    {
+        if (CanAfford(cost))
+        {
+            currentBalance -= cost;
+            Debug.Log("Successfully purchased!");
+        }
+        else
+        {
+            Debug.Log("ERROR: Cannot purchase item, not enough money.");
+        }
+    }
+
+    // add item cost to balance
+    // technically setter for current balance
+    public void ReturnItem(int cost)
+    {
+        int newBalance = currentBalance + cost;
+        if (newBalance > startingBalance)
+        {
+            Debug.Log("ERROR: Cannot return item.\nNew balance is larger than starting balance, " + newBalance + " > " + startingBalance);
+            return;
+        }
+
+        currentBalance += cost;
+        Debug.Log("Successfully returned!");
+    }
+
+    // getter for the current balance
+    public int GetCurrentBalance()
+    {
+        return currentBalance;
     }
 }
