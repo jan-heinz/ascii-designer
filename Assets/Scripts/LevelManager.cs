@@ -1,3 +1,4 @@
+using System.IO.Compression;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,13 +11,17 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private int startingBalance = 1000;
     private int currentBalance;
 
+    void Start()
+    {
+        currentBalance = startingBalance;
+    }
+
     /* =================== LEVELS =================== */
 
     //load a new scene based on name
     void LoadSceneByName(string name)
     {
         SceneManager.LoadScene(name);
-        currentBalance = startingBalance;
     }
 
     //changes the level name
@@ -43,6 +48,7 @@ public class LevelManager : MonoBehaviour
     // does the player have enough money to buy this item?
     public bool CanAfford(int cost)
     {
+        if (cost > currentBalance) Debug.Log("ERROR: Not enough money to afford.");
         return cost <= currentBalance;
     }
 
@@ -55,10 +61,6 @@ public class LevelManager : MonoBehaviour
         {
             currentBalance -= cost;
             Debug.Log("Successfully purchased!");
-        }
-        else
-        {
-            Debug.Log("ERROR: Cannot purchase item, not enough money.");
         }
     }
 

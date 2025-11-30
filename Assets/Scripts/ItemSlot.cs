@@ -34,15 +34,18 @@ public class ItemSlot : MonoBehaviour,
     private RectTransform _dragGhostRT;
     private Image _dragGhostImg;
     private GridSystem _gridSystem;
+    private LevelManager _levelManager;
 
     // if true, flip to show attributes
     // if false, flip to show image
     private bool _showAttributes;
+
     private void Awake()
     {
         _rootCanvas = GetComponentInParent<Canvas>(); // needed to render drag ghost
         ApplyAll(); // set up border and item visibility
         _gridSystem = FindObjectOfType<GridSystem>();
+        _levelManager = FindObjectOfType<LevelManager>(); 
         _showAttributes = true;
     }
     
@@ -156,7 +159,7 @@ public class ItemSlot : MonoBehaviour,
         _gridSystem.HideGrid(); // hide item placement grid
 
         // only place if the cursor is not over any UI element (ie inventory)
-        if (!PointerOverAnyUI(eventData))
+        if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
         {
             var placer = WorldPlacement.Instance;
             if (placer != null && itemSprite != null && _gridSystem != null)
@@ -184,6 +187,9 @@ public class ItemSlot : MonoBehaviour,
                     if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
 
                     Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
+
+                    // buy the item, deplete cost from balance
+                    _levelManager.PurchaseItem(_item.itemCost);
                 }
                 else
                 {
