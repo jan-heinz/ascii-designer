@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using TMPro;
 
 public struct Requirement {
     public int have;
@@ -18,6 +19,7 @@ public class RequirementSystem : MonoBehaviour
     //list of vars corresponding to each scriptable object attribute
     public List<FurnitureAttribute> itemAttributes;
     public List<int> req;
+    public TextMeshProUGUI textComponent;
     List<Requirement> reqs = new List<Requirement>();
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -27,6 +29,8 @@ public class RequirementSystem : MonoBehaviour
         for (int i = 0; i < req.Count; i++) {
             reqs.Add(new Requirement(req[i], itemAttributes[i]));
         }
+
+        textUpdate();
     }
 
     // Update is called once per frame
@@ -36,4 +40,10 @@ public class RequirementSystem : MonoBehaviour
         //if all reqs >= wanted, win
     }
 
+    void textUpdate() {
+        textComponent.text = "";
+        for (int i = 0; i < req.Count; i++) {
+            textComponent.text += "At " + reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute + ".\n";
+        }
+    }
 }
