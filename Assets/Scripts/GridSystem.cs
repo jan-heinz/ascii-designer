@@ -94,14 +94,14 @@ public class GridSystem : MonoBehaviour
     {
         if (occupiedCells == null || gridCoords == null) return;
 
-  
+
         Debug.Log("Furniture size: " + furnitureSize);
-        int startX = gridPos.x - Mathf.FloorToInt(furnitureSize.x / 2); 
+        int startX = gridPos.x - Mathf.FloorToInt(furnitureSize.x / 2);
         if (furnitureSize.x % 2 == 0) startX++;
-        int endX = gridPos.x + Mathf.FloorToInt(furnitureSize.x / 2); 
-        int startY = gridPos.y - Mathf.FloorToInt(furnitureSize.y / 2); 
-        if (furnitureSize.y % 2 == 0) startY++; 
-        int endY = gridPos.y + Mathf.FloorToInt(furnitureSize.y / 2); 
+        int endX = gridPos.x + Mathf.FloorToInt(furnitureSize.x / 2);
+        int startY = gridPos.y - Mathf.FloorToInt(furnitureSize.y / 2);
+        if (furnitureSize.y % 2 == 0) startY++;
+        int endY = gridPos.y + Mathf.FloorToInt(furnitureSize.y / 2);
 
         int maxX = occupiedCells.GetLength(0);
         int maxY = occupiedCells.GetLength(1);
@@ -126,17 +126,25 @@ public class GridSystem : MonoBehaviour
         }
     }
 
-    
+
     public void VacateFurniture(Vector2Int gridPos, Vector2Int furnitureSize)
     {
         if (occupiedCells == null || gridCoords == null) return;
 
+
+        int startX = gridPos.x - Mathf.FloorToInt(furnitureSize.x / 2);
+        if (furnitureSize.x % 2 == 0) startX++;
+        int endX = gridPos.x + Mathf.FloorToInt(furnitureSize.x / 2);
+        int startY = gridPos.y - Mathf.FloorToInt(furnitureSize.y / 2);
+        if (furnitureSize.y % 2 == 0) startY++;
+        int endY = gridPos.y + Mathf.FloorToInt(furnitureSize.y / 2);
+
         int maxX = occupiedCells.GetLength(0);
         int maxY = occupiedCells.GetLength(1);
 
-        for (int x = gridPos.x; x < gridPos.x + furnitureSize.x; x++)
+        for (int x = startX; x <= endX; x++)
         {
-            for (int y = gridPos.y; y < gridPos.y + furnitureSize.y; y++)
+            for (int y = startY; y <= endY; y++)
             {
                 if (x < 0 || y < 0 || x >= maxX || y >= maxY) continue;
 

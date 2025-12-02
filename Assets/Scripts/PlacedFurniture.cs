@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -18,6 +19,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     private Image _ghostImg;
 
     private SpriteRenderer _sr;
+    private RequirementSystem _requirementSystem;
     
     [Header("Audio")]
     public AudioClip clickSFX;   // play when you start dragging a placed item
@@ -32,6 +34,8 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         _currentGrid = (_grid != null)
             ? _grid.WorldToGridPosition(transform.position)
             : gridPos;
+        
+        _requirementSystem = FindObjectOfType<RequirementSystem>(); 
     }
 
 
@@ -85,6 +89,22 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         if (_grid == null || wp == null)
         {
             if (_sr) _sr.enabled = true;
+            return;
+        }
+
+        // delete object
+        if (PointerOverAnyUI(eventData, true))
+        {
+            // remove from the grid
+            _grid.VacateFurniture(_currentGrid, _size);
+            _grid.HideGrid();
+
+            // update requirements
+            _requirementSystem.RemoveAttributes(_item);
+
+            // successfully deleted
+            Destroy(gameObject);
+            
             return;
         }
 
@@ -165,5 +185,32 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         if (_ghostRT != null) Destroy(_ghostRT.gameObject);
         _ghostRT = null;
         _ghostImg = null;
+    }
+
+    // returns true if the cursor is currently over any UI elements
+    // prevents dropping items onto the inventory UI
+    private bool PointerOverAnyUI(PointerEventData eventData, bool checkInventoryOnly = false)
+    {
+        if (EventSystem.current == null) return false;
+
+        var results = new List<RaycastResult>();
+        EventSystem.current.RaycastAll(eventData, results);
+        bool overUI = results.Count > 0;
+
+        if (checkInventoryOnly)
+        {
+            overUI = false;
+            foreach (var r in results)
+            {
+                if (r.gameObject.tag == "Inventory")
+                {
+                    overUI = true;
+                    break;
+                }
+            }
+        }
+
+        results.Clear();
+        return overUI;
     }
 }
