@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   sprite: {fileID: 21300000, guid: 9c0fd7ff772e446f095d6da77515d993, type: 3}
   worldScale: 0.5
-  furnitureSize: {x: 1, y: 1}
+  furnitureSize: {x: 1, y: 2}
   itemCost: 75
   itemAttributes:
   - {fileID: 11400000, guid: 7d21f4df94f6a407d9d8f132cb20748e, type: 2}

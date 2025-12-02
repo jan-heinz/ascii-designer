@@ -11,7 +11,7 @@ public class LevelManager : MonoBehaviour
     // unique to each level
     // total amount of money player needs to manage
     [SerializeField] private int startingBalance = 1000;
-    public TextMeshProUGUI balanceText;
+    public TextMeshProUGUI balanceText = null;
 
     private int currentBalance;
 
@@ -23,7 +23,7 @@ public class LevelManager : MonoBehaviour
     {
         // set balance
         currentBalance = startingBalance;
-        balanceText.text = currentBalance.ToString();
+        if (balanceText != null) balanceText.text = currentBalance.ToString();
 
         // play BGM
         AudioManager.Instance.PlayMusic(levelBGM);

@@ -907,6 +907,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   nextLevel: HomeScreen
+  startingBalance: 1000
+  balanceText: {fileID: 0}
+  levelBGM: {fileID: 8300000, guid: 07fdb08275fead040b4afdbc08aeb68d, type: 3}
 --- !u!4 &1045122463
 Transform:
   m_ObjectHideFlags: 0
@@ -929,7 +932,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1045122461}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}

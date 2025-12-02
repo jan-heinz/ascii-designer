@@ -7,6 +7,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioSource BGMSource;
     [SerializeField] private AudioSource SFXSource;
 
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -20,21 +21,30 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void PlayMusic(AudioClip clip, float volume = 1f)
+    public void PlayMusic(AudioClip clip)
     {
         BGMSource.clip = clip;
-        BGMSource.volume = volume;
         BGMSource.Play();
     }
 
-    public void PlaySFX(AudioClip clip, float volume = 1f)
+    public void PlaySFX(AudioClip clip)
     {
-        SFXSource.PlayOneShot(clip, volume);
+        SFXSource.PlayOneShot(clip, SFXSource.volume);
     }
 
     public void StopMusic()
     {
         BGMSource.Stop();
+    }
+
+    public float GetMusicVolume()
+    {
+        return BGMSource.volume;
+    }   
+
+    public float GetSFXVolume()
+    {
+        return SFXSource.volume;
     }
 
     public void SetMusicVolume(float volume)
