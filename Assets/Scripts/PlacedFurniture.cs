@@ -19,6 +19,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     private Image _ghostImg;
 
     private SpriteRenderer _sr;
+    private LevelManager _levelManager;
     private RequirementSystem _requirementSystem;
     
     [Header("Audio")]
@@ -35,6 +36,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
             ? _grid.WorldToGridPosition(transform.position)
             : gridPos;
         
+        _levelManager = FindObjectOfType<LevelManager>();
         _requirementSystem = FindObjectOfType<RequirementSystem>(); 
     }
 
@@ -101,6 +103,9 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
             // update requirements
             _requirementSystem.RemoveAttributes(_item);
+
+            // update balance
+            _levelManager.ReturnItem(_item.itemCost);
 
             // successfully deleted
             Destroy(gameObject);
