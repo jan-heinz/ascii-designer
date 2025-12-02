@@ -179,7 +179,6 @@ public class ItemSlot : MonoBehaviour,
             if (_gridSystem.CanPlaceFurniture(gridPos, itemSize))
             {
                 Vector3 snappedScreenPos = _gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
-
                 Vector3 world = placer.ScreenToWorld(snappedScreenPos);
 
                 // occupy the grid cells
@@ -188,7 +187,7 @@ public class ItemSlot : MonoBehaviour,
                 // spawn the placed object
                 GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
 
-                // SFX
+                // SFX for placing from inventory
                 AudioManager.Instance.PlaySFX(placeFurnitureSFX);
 
                 // scale
@@ -197,7 +196,7 @@ public class ItemSlot : MonoBehaviour,
                 // make it draggable later
                 if (placedObject)
                 {
-                    // collider for pointer hits
+                    // ensure collider for pointer hits
                     var col = placedObject.GetComponent<BoxCollider2D>();
                     if (col == null)
                     {
@@ -208,6 +207,11 @@ public class ItemSlot : MonoBehaviour,
 
                     var mover = placedObject.AddComponent<PlacedFurniture>();
                     mover.Init(_gridSystem, gridPos, _item);
+
+                    // pass the same SFX so moving placed items has audio feedback
+                    mover.clickSFX = clickFurnitureSFX;
+                    mover.placeSFX = placeFurnitureSFX;
+                    // mover.invalidSFX = someInvalidClip; // optional if you add one
                 }
 
                 Debug.Log($"Placed furniture at grid {gridPos} (world {world})");
@@ -222,6 +226,7 @@ public class ItemSlot : MonoBehaviour,
         }
     }
 }
+
 
     
     // create semi transparent UI image that follows the cursor during drag
