@@ -1,19 +1,25 @@
 using System.IO.Compression;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class LevelManager : MonoBehaviour
 {
     public string nextLevel;
 
+    [Header("Player Balance")]
     // unique to each level
     // total amount of money player needs to manage
     [SerializeField] private int startingBalance = 1000;
+    public TextMeshProUGUI balanceText;
+
     private int currentBalance;
+
 
     void Start()
     {
         currentBalance = startingBalance;
+        balanceText.text = currentBalance.ToString();
     }
 
     /* =================== LEVELS =================== */
@@ -60,6 +66,7 @@ public class LevelManager : MonoBehaviour
         if (CanAfford(cost))
         {
             currentBalance -= cost;
+            balanceText.text = currentBalance.ToString();
             Debug.Log("Successfully purchased!");
         }
     }
@@ -76,6 +83,7 @@ public class LevelManager : MonoBehaviour
         }
 
         currentBalance += cost;
+        balanceText.text = currentBalance.ToString();
         Debug.Log("Successfully returned!");
     }
 
