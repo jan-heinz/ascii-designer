@@ -154,53 +154,63 @@ public class ItemSlot : MonoBehaviour,
     // end drag
     // destroy the ghost and place the sprite in the world
     public void OnEndDrag(PointerEventData eventData)
+{
+    DestroyDragGhost(); // remove ghost
+    if (_gridSystem != null) _gridSystem.HideGrid(); // hide item placement grid
+
+    // place only if: not over UI, we have an item, we have a level manager, and we can afford it
+    if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
     {
-        DestroyDragGhost(); // remove ghost
-        _gridSystem.HideGrid(); // hide item placement grid
-
-        // only place if the cursor is not over any UI element (ie inventory)
-        if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
+        var placer = WorldPlacement.Instance;
+        if (placer != null && itemSprite != null && _gridSystem != null)
         {
-            var placer = WorldPlacement.Instance;
-            if (placer != null && itemSprite != null && _gridSystem != null)
+            Vector2Int gridPos = _gridSystem.WorldToGridPosition(eventData.position);
+
+            // validate placement
+            if (_gridSystem.CanPlaceFurniture(gridPos, itemSize))
             {
-                Vector3 worldPos = eventData.position;
-                worldPos.z = 0f; // ensure on 2D plane
+                Vector3 snappedScreenPos = _gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
 
-                // convert to grid position
-                Vector2Int gridPos = _gridSystem.WorldToGridPosition(worldPos);
+                Vector3 world = placer.ScreenToWorld(snappedScreenPos);
 
-                // check if placement is valid
-                if (_gridSystem.CanPlaceFurniture(gridPos, itemSize))
+                // occupy the grid cells
+                _gridSystem.PlaceFurniture(gridPos, itemSize);
+
+                // spawn the placed object
+                GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
+                if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
+
+                // make it draggable later
+                if (placedObject)
                 {
-                    // snap to corner of grid cell
-                    Vector3 snappedWorldPos = _gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
+                    // ensure collider for pointer hits
+                    var col = placedObject.GetComponent<BoxCollider2D>();
+                    if (col == null)
+                    {
+                        col = placedObject.AddComponent<BoxCollider2D>();
+                        var sr = placedObject.GetComponent<SpriteRenderer>();
+                        if (sr && sr.sprite) col.size = sr.sprite.bounds.size; // local units
+                    }
 
-                    // convert back to world position
-                    Vector3 world = placer.ScreenToWorld(snappedWorldPos);
-
-                    // mark cells as occupied
-                    _gridSystem.PlaceFurniture(gridPos, itemSize);
-
-                    // place the sprite at snapped position
-                    GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
-                    if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
-
-                    Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
-
-                    // buy the item, deplete cost from balance
-                    _levelManager.PurchaseItem(_item.itemCost);
+                    var mover = placedObject.AddComponent<PlacedFurniture>();
+                    mover.Init(_gridSystem, gridPos, _item); // pass grid, current cell, and the FurnitureItem
                 }
-                else
-                {
-                    Debug.Log($"Can't place furniture at {gridPos} - Invalid position or occupied!");
-                }
+
+                Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
+
+                // purchase cost
+                _levelManager.PurchaseItem(_item.itemCost);
+            }
+            else
+            {
+                Debug.Log($"Can't place furniture at {gridPos} - Invalid position or occupied!");
             }
         }
     }
+}
 
 
-    // create semi transparent UI image that follows the cursor during drag
+
     // create semi transparent UI image that follows the cursor during drag
     private void CreateDragGhost(Sprite s, Vector2 startPos)
     {
@@ -211,7 +221,7 @@ public class ItemSlot : MonoBehaviour,
         _dragGhostRT = go.GetComponent<RectTransform>();
         _dragGhostRT.pivot = new Vector2(0.5f, 0.5f);
 
-        // --- compute ghost size to match placed size on screen (orthographic) ---
+        // compute ghost size to match placed size on screen (ortho)
         // choose a camera: prefer WorldPlacement's camera, else Camera.main
         Camera cam = (WorldPlacement.Instance != null && WorldPlacement.Instance.worldCamera != null)
             ? WorldPlacement.Instance.worldCamera

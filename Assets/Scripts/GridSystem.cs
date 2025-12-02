@@ -99,6 +99,21 @@ public class GridSystem : MonoBehaviour
             }
         }
     }
+    
+    public void VacateFurniture(Vector2Int gridPos, Vector2Int furnitureSize)
+    {
+        for (int x = gridPos.x; x < gridPos.x + furnitureSize.x; x++)
+        {
+            for (int y = gridPos.y; y < gridPos.y + furnitureSize.y; y++)
+            {
+                if (x < 0 || y < 0 || x >= gridWidth || y >= gridHeight) continue;
+                occupiedCells[x, y] = false;
+                var img = gridCoords[x, y].GetComponent<Image>();
+                if (img) img.material = null; // revert visuals if you tint occupied cells
+            }
+        }
+    }
+
 
     // display the grid
     // used when user drags furniture item into the world
@@ -143,4 +158,7 @@ public class GridSystem : MonoBehaviour
         gridCoords = null;
     }
 }
+
+
+
 
