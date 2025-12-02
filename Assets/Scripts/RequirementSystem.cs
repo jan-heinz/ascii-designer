@@ -43,7 +43,7 @@ public class RequirementSystem : MonoBehaviour
     void textUpdate() {
         textComponent.text = "";
         for (int i = 0; i < req.Count; i++) {
-            textComponent.text += "At " + reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute + ".\n";
+            textComponent.text += reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute.attribute + " items.\n";
         }
     }
 }
