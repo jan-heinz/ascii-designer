@@ -15,11 +15,18 @@ public class LevelManager : MonoBehaviour
 
     private int currentBalance;
 
+    [Header("Audio")]
+    public AudioClip levelBGM;
+
 
     void Start()
     {
+        // set balance
         currentBalance = startingBalance;
         balanceText.text = currentBalance.ToString();
+
+        // play BGM
+        AudioManager.Instance.PlayMusic(levelBGM);
     }
 
     /* =================== LEVELS =================== */

@@ -209,6 +209,8 @@ MonoBehaviour:
   itemSprite: {fileID: 0}
   borderSprite: {fileID: 0}
   itemSize: {x: 1, y: 1}
+  clickFurnitureSFX: {fileID: 8300000, guid: 47be00486e4c74e61abfde13d9297a04, type: 3}
+  placeFurnitureSFX: {fileID: 8300000, guid: 67c7e5bb4e8234b53b0d6149eb9d79bd, type: 3}
 --- !u!1 &5885904371815689295
 GameObject:
   m_ObjectHideFlags: 0

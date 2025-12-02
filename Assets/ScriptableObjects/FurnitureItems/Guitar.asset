@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Guitar
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   sprite: {fileID: 21300000, guid: 725da5014e91a4d7886b8fb6a4d03277, type: 3}
-  furnitureSize: {x: 1, y: 2}
-  itemAttributes: []
   worldScale: 0.5
+  furnitureSize: {x: 1, y: 2}
+  itemCost: 50
+  itemAttributes: []

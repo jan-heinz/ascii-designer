@@ -13,7 +13,8 @@ MonoBehaviour:
   m_Name: CactusPlant
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   sprite: {fileID: 21300000, guid: 91c4a583ee85e48debcc86004f5ac66d, type: 3}
+  worldScale: 0.5
   furnitureSize: {x: 1, y: 1}
+  itemCost: 75
   itemAttributes:
   - {fileID: 11400000, guid: 7d21f4df94f6a407d9d8f132cb20748e, type: 2}
-  worldScale: 0.5

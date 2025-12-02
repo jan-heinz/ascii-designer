@@ -28,6 +28,10 @@ public class ItemSlot : MonoBehaviour,
 
     [Header("Item Info")]
     public Vector2Int itemSize = new Vector2Int(1, 1); // size in grid cells
+
+    [Header("Audio")]
+    public AudioClip clickFurnitureSFX;
+    public AudioClip placeFurnitureSFX;
     
 
     // runtime drag ghost
@@ -131,6 +135,9 @@ public class ItemSlot : MonoBehaviour,
         // only allow dragging if this slot has an item
         if (itemSprite == null) return;
 
+        // play SFX
+        AudioManager.Instance.PlaySFX(clickFurnitureSFX);
+
         if (_rootCanvas == null) _rootCanvas = GetComponentInParent<Canvas>();
         CreateDragGhost(itemSprite, eventData.position); // spawn ghost under cursor
 
@@ -179,6 +186,9 @@ public class ItemSlot : MonoBehaviour,
 
                 // spawn the placed object
                 GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
+                // play placement SFX
+                AudioManager.Instance.PlaySFX(placeFurnitureSFX);
+                
                 if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
 
                 // make it draggable later
