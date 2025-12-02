@@ -62,57 +62,86 @@ public class GridSystem : MonoBehaviour
     // can the furniture of given size be placed at the given grid position?
     public bool CanPlaceFurniture(Vector2Int gridPos, Vector2Int furnitureSize)
     {
-        // check if furniture fits within grid bounds
+        if (occupiedCells == null) return false;
+
+        // Use actual array dimensions (robust if gridWidth/Height changed mid-play)
+        int maxX = occupiedCells.GetLength(0);
+        int maxY = occupiedCells.GetLength(1);
+
+        // Bounds check against array sizes
         if (gridPos.x < 0 || gridPos.y < 0 ||
-            gridPos.x + furnitureSize.x > gridWidth ||
-            gridPos.y + furnitureSize.y > gridHeight)
+            gridPos.x + furnitureSize.x > maxX ||
+            gridPos.y + furnitureSize.y > maxY)
         {
             return false;
         }
 
-        // check for occupied cells within the furniture area
+        // Footprint overlap check
         for (int x = gridPos.x; x < gridPos.x + furnitureSize.x; x++)
         {
             for (int y = gridPos.y; y < gridPos.y + furnitureSize.y; y++)
             {
-                if (occupiedCells[x, y])
-                    return false;
+                if (occupiedCells[x, y]) return false;
             }
         }
 
         return true;
     }
 
+
     // add furniture to the grid, marking cells as occupied
     public void PlaceFurniture(Vector2Int gridPos, Vector2Int furnitureSize)
     {
-        // mark the relevant cells as occupied
-        // starts from bottom left, then goes right and up
+        if (occupiedCells == null || gridCoords == null) return;
+
+        int maxX = occupiedCells.GetLength(0);
+        int maxY = occupiedCells.GetLength(1);
+
         for (int x = gridPos.x; x < gridPos.x + furnitureSize.x; x++)
         {
             for (int y = gridPos.y; y < gridPos.y + furnitureSize.y; y++)
             {
+                if (x < 0 || y < 0 || x >= maxX || y >= maxY) continue;
+
                 occupiedCells[x, y] = true;
 
-                // visual indication of occupied cells
-                gridCoords[x, y].GetComponent<Image>().material = occupiedMaterial;
+                var cell = gridCoords[x, y];
+                if (cell != null)
+                {
+                    var img = cell.GetComponent<Image>();
+                    if (img != null && occupiedMaterial != null)
+                        img.material = occupiedMaterial;
+                }
             }
         }
     }
+
     
     public void VacateFurniture(Vector2Int gridPos, Vector2Int furnitureSize)
     {
+        if (occupiedCells == null || gridCoords == null) return;
+
+        int maxX = occupiedCells.GetLength(0);
+        int maxY = occupiedCells.GetLength(1);
+
         for (int x = gridPos.x; x < gridPos.x + furnitureSize.x; x++)
         {
             for (int y = gridPos.y; y < gridPos.y + furnitureSize.y; y++)
             {
-                if (x < 0 || y < 0 || x >= gridWidth || y >= gridHeight) continue;
+                if (x < 0 || y < 0 || x >= maxX || y >= maxY) continue;
+
                 occupiedCells[x, y] = false;
-                var img = gridCoords[x, y].GetComponent<Image>();
-                if (img) img.material = null; // revert visuals if you tint occupied cells
+
+                var cell = gridCoords[x, y];
+                if (cell != null)
+                {
+                    var img = cell.GetComponent<Image>();
+                    if (img) img.material = null;
+                }
             }
         }
     }
+
 
 
     // display the grid

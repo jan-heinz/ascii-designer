@@ -165,10 +165,9 @@ public class ItemSlot : MonoBehaviour,
     // destroy the ghost and place the sprite in the world
     public void OnEndDrag(PointerEventData eventData)
 {
-    DestroyDragGhost(); // remove ghost
-    if (_gridSystem != null) _gridSystem.HideGrid(); // hide item placement grid
+    DestroyDragGhost();
+    if (_gridSystem != null) _gridSystem.HideGrid();
 
-    // place only if: not over UI, we have an item, we have a level manager, and we can afford it
     if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
     {
         var placer = WorldPlacement.Instance;
@@ -188,45 +187,43 @@ public class ItemSlot : MonoBehaviour,
 
                 // spawn the placed object
                 GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
-                // play placement SFX
+
+                // SFX
                 AudioManager.Instance.PlaySFX(placeFurnitureSFX);
-                
+
+                // scale
                 if (placedObject) placedObject.transform.localScale = Vector3.one * GetWorldScaleForPlacement();
 
                 // make it draggable later
                 if (placedObject)
                 {
-                    // ensure collider for pointer hits
+                    // collider for pointer hits
                     var col = placedObject.GetComponent<BoxCollider2D>();
                     if (col == null)
                     {
                         col = placedObject.AddComponent<BoxCollider2D>();
                         var sr = placedObject.GetComponent<SpriteRenderer>();
-                        if (sr && sr.sprite) col.size = sr.sprite.bounds.size; // local units
+                        if (sr && sr.sprite) col.size = sr.sprite.bounds.size;
                     }
 
                     var mover = placedObject.AddComponent<PlacedFurniture>();
-                    mover.Init(_gridSystem, gridPos, _item); // pass grid, current cell, and the FurnitureItem
+                    mover.Init(_gridSystem, gridPos, _item);
                 }
 
-                Debug.Log($"Placed furniture at grid position: {gridPos} and world position: {world}");
+                Debug.Log($"Placed furniture at grid {gridPos} (world {world})");
 
-                // purchase cost
                 _levelManager.PurchaseItem(_item.itemCost);
-
-                // update requirements
                 _requirementSystem.CheckItem(_item);
             }
             else
             {
-                Debug.Log($"Can't place furniture at {gridPos} - Invalid position or occupied!");
+                Debug.Log($"Can't place furniture at {gridPos} - Invalid/occupied");
             }
         }
     }
 }
 
-
-
+    
     // create semi transparent UI image that follows the cursor during drag
     private void CreateDragGhost(Sprite s, Vector2 startPos)
     {

@@ -27,44 +27,30 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         _item = item;
         _size = item != null ? item.furnitureSize : Vector2Int.one;
 
-
-        Camera cam = (WorldPlacement.Instance != null && WorldPlacement.Instance.worldCamera != null)
-            ? WorldPlacement.Instance.worldCamera
-            : Camera.main;
-
-        if (_grid != null && cam != null)
-        {
-            Vector3 screenPos = cam.WorldToScreenPoint(transform.position);
-            _currentGrid = _grid.WorldToGridPosition(screenPos); 
-        }
-        else
-        {
-            _currentGrid = gridPos;
-        }
+        _currentGrid = (_grid != null)
+            ? _grid.WorldToGridPosition(transform.position)
+            : gridPos;
     }
+
 
 
     public void OnBeginDrag(PointerEventData eventData)
     {
         if (_grid == null) return;
 
-        if (_rootCanvas == null)
-            _rootCanvas = FindObjectOfType<Canvas>(); 
-
+        if (_rootCanvas == null) _rootCanvas = FindObjectOfType<Canvas>();
         if (_sr == null) _sr = GetComponent<SpriteRenderer>();
 
         _originalWorld = transform.position;
-
         _grid.ShowGrid();
-
+        
         Camera cam = (WorldPlacement.Instance != null && WorldPlacement.Instance.worldCamera != null)
             ? WorldPlacement.Instance.worldCamera
             : Camera.main;
-
         if (cam != null)
         {
             Vector3 screenPos = cam.WorldToScreenPoint(transform.position);
-            _currentGrid = _grid.WorldToGridPosition(screenPos); 
+            _currentGrid = _grid.WorldToGridPosition(screenPos); // pass SCREEN coords here
         }
 
         _grid.VacateFurniture(_currentGrid, _size);
@@ -73,6 +59,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
         if (_sr) _sr.enabled = false;
     }
+
 
 
     public void OnDrag(PointerEventData eventData)
@@ -112,6 +99,8 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         if (_sr) _sr.enabled = true;
         _grid.HideGrid();
     }
+
+
 
 
     private void CreateGhost(Sprite s, Vector2 startPos, float worldScale)
