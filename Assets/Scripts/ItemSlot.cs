@@ -19,6 +19,7 @@ public class ItemSlot : MonoBehaviour,
     public Image itemImage; // assign child ItemImage
     public Image borderImage; // assign child BorderImage
     public TextMeshProUGUI itemAttributesText; // can leave blank, will be assigned through ItemGrid
+    public TextMeshProUGUI itemCost; // can leave blank, will be assigned through ItemGrid
 
     [Header("Sprites")]
     // both are set dynamically

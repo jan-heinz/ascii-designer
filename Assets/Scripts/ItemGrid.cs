@@ -82,7 +82,7 @@ public class ItemGrid : MonoBehaviour
 // Set the whole item so ItemSlot knows sprite, size, *and* worldScale
                 slot.SetItem(item);
 
-// Attributes text (guard for nulls)
+                // Attributes text (guard for nulls)
                 if (item != null && slot.itemAttributesText != null)
                 {
                     string itemAttributesString = "";
@@ -99,7 +99,8 @@ public class ItemGrid : MonoBehaviour
                 {
                     slot.itemAttributesText.text = "";
                 }
-
+                
+                slot.itemCost.text = item.itemCost.ToString();
             }
         }
     }

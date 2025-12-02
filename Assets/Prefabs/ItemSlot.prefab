@@ -205,6 +205,7 @@ MonoBehaviour:
   itemImage: {fileID: 5265127710886211850}
   borderImage: {fileID: 6759506632618650511}
   itemAttributesText: {fileID: 2722530645051877392}
+  itemCost: {fileID: 4372265260860562582}
   itemSprite: {fileID: 0}
   borderSprite: {fileID: 0}
   itemSize: {x: 1, y: 1}
@@ -485,7 +486,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '2000
+  m_text: '0
 
 '
   m_isRightToLeft: 0
