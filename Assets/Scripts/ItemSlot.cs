@@ -40,6 +40,7 @@ public class ItemSlot : MonoBehaviour,
     private Image _dragGhostImg;
     private GridSystem _gridSystem;
     private LevelManager _levelManager;
+    private RequirementSystem _requirementSystem;
 
     // if true, flip to show attributes
     // if false, flip to show image
@@ -50,7 +51,8 @@ public class ItemSlot : MonoBehaviour,
         _rootCanvas = GetComponentInParent<Canvas>(); // needed to render drag ghost
         ApplyAll(); // set up border and item visibility
         _gridSystem = FindObjectOfType<GridSystem>();
-        _levelManager = FindObjectOfType<LevelManager>(); 
+        _levelManager = FindObjectOfType<LevelManager>();
+        _requirementSystem = FindObjectOfType<RequirementSystem>(); 
         _showAttributes = true;
     }
     
@@ -211,6 +213,9 @@ public class ItemSlot : MonoBehaviour,
 
                 // purchase cost
                 _levelManager.PurchaseItem(_item.itemCost);
+
+                // update requirements
+                _requirementSystem.CheckItem(_item);
             }
             else
             {
