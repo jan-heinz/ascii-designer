@@ -115,13 +115,13 @@ public class GridSystem : MonoBehaviour
                 occupiedCells[x, y] = true;
                 Debug.Log("Occupied cell at: " + x + ", " + y);
 
-                var cell = gridCoords[x, y];
+                /*var cell = gridCoords[x, y];
                 if (cell != null)
                 {
                     var img = cell.GetComponent<Image>();
                     if (img != null && occupiedMaterial != null)
                         img.material = occupiedMaterial;
-                }
+                }*/
             }
         }
     }
@@ -150,12 +150,12 @@ public class GridSystem : MonoBehaviour
 
                 occupiedCells[x, y] = false;
 
-                var cell = gridCoords[x, y];
+                /*var cell = gridCoords[x, y];
                 if (cell != null)
                 {
                     var img = cell.GetComponent<Image>();
                     if (img) img.material = null;
-                }
+                }*/
             }
         }
     }
