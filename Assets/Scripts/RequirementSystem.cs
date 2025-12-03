@@ -54,10 +54,26 @@ public class RequirementSystem : MonoBehaviour
         textUpdate();
     }
 
-    void textUpdate() {
+    void textUpdate()
+    {
         textComponent.text = "";
-        for (int i = 0; i < reqs.Count; i++) {
+        for (int i = 0; i < reqs.Count; i++)
+        {
             textComponent.text += reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute.attribute + " items.\n";
         }
+    }
+
+    public void RemoveAttributes(FurnitureItem item) {
+        for (int i = 0; i < reqs.Count; i++) {
+            foreach (FurnitureAttribute att in item.itemAttributes) {
+                if (reqs[i].attribute == att) {
+                    Requirement r = reqs[i];
+                    if (r.have > 0) r.have--;
+                    reqs[i] = r;
+                }
+            }
+        }
+
+        textUpdate();
     }
 }
