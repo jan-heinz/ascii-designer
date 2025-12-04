@@ -16,4 +16,5 @@ MonoBehaviour:
   worldScale: 0.5
   furnitureSize: {x: 1, y: 3}
   itemCost: 50
-  itemAttributes: []
+  itemAttributes:
+  - {fileID: 11400000, guid: f9313ce81a5ed41b28936c0217f85433, type: 2}

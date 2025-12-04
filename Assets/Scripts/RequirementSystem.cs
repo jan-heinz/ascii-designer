@@ -21,6 +21,7 @@ public class RequirementSystem : MonoBehaviour
     public List<int> req;
     public TextMeshProUGUI textComponent;
     List<Requirement> reqs = new List<Requirement>();
+    public AudioClip successSFX;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -41,17 +42,31 @@ public class RequirementSystem : MonoBehaviour
     }
 
     public void CheckItem(FurnitureItem item) {
+        bool allMet = true;
         for (int i = 0; i < reqs.Count; i++) {
             foreach (FurnitureAttribute att in item.itemAttributes) {
-                if (reqs[i].attribute == att) {
+                if (reqs[i].attribute == att)
+                {
                     Requirement r = reqs[i];
                     r.have++;
                     reqs[i] = r;
                 }
+                
+                if (reqs[i].have < reqs[i].goal) {
+                    allMet = false;
+                }
             }
         }
-        
+
         textUpdate();
+
+        // TODO: MOVE TO LEVEL MANAGER LATER
+        //check for win condition
+        if (allMet)
+        {
+            AudioManager.Instance.PlaySFX(successSFX);
+            Debug.Log("All requirements met! Level Complete!");
+        }
     }
 
     void textUpdate()

@@ -18,3 +18,4 @@ MonoBehaviour:
   itemCost: 75
   itemAttributes:
   - {fileID: 11400000, guid: 7d21f4df94f6a407d9d8f132cb20748e, type: 2}
+  - {fileID: 11400000, guid: 8ba31374b8c644a81824643d86127010, type: 2}

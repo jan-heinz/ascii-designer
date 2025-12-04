@@ -625,6 +625,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OnHoverHomeScreenButtons
   buttonText: PLAY
+  onClickSFX: {fileID: 8300000, guid: e95674ccc75f24363ace9b247d3756f2, type: 3}
 --- !u!114 &827207124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -891,6 +892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OnHoverHomeScreenButtons
   buttonText: ABOUT
+  onClickSFX: {fileID: 8300000, guid: e95674ccc75f24363ace9b247d3756f2, type: 3}
 --- !u!114 &1049293049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1464,7 +1466,7 @@ MonoBehaviour:
   nextLevel: 
   startingBalance: 1000
   balanceText: {fileID: 0}
-  levelBGM: {fileID: 8300000, guid: 07fdb08275fead040b4afdbc08aeb68d, type: 3}
+  levelBGM: {fileID: 8300000, guid: 19e8ff3b8d7ac4493a83ac7d539a442a, type: 3}
 --- !u!4 &2049092924
 Transform:
   m_ObjectHideFlags: 0
@@ -1775,6 +1777,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OnHoverHomeScreenButtons
   buttonText: SETTINGS
+  onClickSFX: {fileID: 8300000, guid: e95674ccc75f24363ace9b247d3756f2, type: 3}
 --- !u!114 &2098178065
 MonoBehaviour:
   m_ObjectHideFlags: 0

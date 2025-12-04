@@ -17,4 +17,5 @@ MonoBehaviour:
   furnitureSize: {x: 3, y: 3}
   itemCost: 125
   itemAttributes:
-  - {fileID: 11400000, guid: f9313ce81a5ed41b28936c0217f85433, type: 2}
+  - {fileID: 11400000, guid: c2a63a1fdff6841209b491d994084262, type: 2}
+  - {fileID: 11400000, guid: 8ba31374b8c644a81824643d86127010, type: 2}
