@@ -13,6 +13,7 @@ public class GridSystem : MonoBehaviour
     [Header("Visual Settings")]
     public GameObject gridCellPrefab;
     public Material occupiedMaterial; // visual helper to shows cells that have furniture placed
+    public GameObject parent;
 
     private bool[,] occupiedCells;
     private GameObject[,] gridCoords; // list of cell coordinates
@@ -20,6 +21,33 @@ public class GridSystem : MonoBehaviour
 
     void Start()
     {
+        // set grid origin to the bottom-left corner of the parent GameObject
+        if (parent != null)
+        {
+            RectTransform parentRect = parent.GetComponent<RectTransform>();
+            if (parentRect != null)
+            {
+                // for UI elements, get the bottom-left corner in world space
+                Vector3[] corners = new Vector3[4];
+                parentRect.GetWorldCorners(corners);
+                gridOrigin = corners[0]; // Bottom-left corner
+            }
+            else
+            {
+                // for regular GameObjects, calculate bottom-left based on bounds
+                Renderer renderer = parent.GetComponent<Renderer>();
+                if (renderer != null)
+                {
+                    Bounds bounds = renderer.bounds;
+                    gridOrigin = new Vector3(bounds.min.x, bounds.min.y, parent.transform.position.z);
+                }
+                else
+                {
+                    gridOrigin = parent.transform.position;
+                }
+            }
+        }
+
         occupiedCells = new bool[gridWidth, gridHeight];
         InitializeGridCoordinates();
         HideGrid();
