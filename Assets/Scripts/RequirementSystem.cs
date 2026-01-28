@@ -19,7 +19,8 @@ public class RequirementSystem : MonoBehaviour
     //list of vars corresponding to each scriptable object attribute
     public List<FurnitureAttribute> itemAttributes;
     public List<int> req;
-    public TextMeshProUGUI textComponent;
+    public TextMeshProUGUI countText;
+    public TextMeshProUGUI infoText;
     List<Requirement> reqs = new List<Requirement>();
     public AudioClip successSFX;
 
@@ -71,11 +72,20 @@ public class RequirementSystem : MonoBehaviour
 
     void textUpdate()
     {
-        textComponent.text = "";
+        int totalHave = 0;
+        infoText.text = "";
         for (int i = 0; i < reqs.Count; i++)
         {
-            textComponent.text += reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute.attribute + " items.\n";
+            infoText.text += reqs[i].have + "/" + reqs[i].goal + " " + reqs[i].attribute.attribute + " items.\n";
+
+            if (reqs[i].have >= reqs[i].goal)
+            {
+                totalHave++;
+            }
         }
+
+        countText.text = "";
+        countText.text = "Client " + totalHave + "/" + reqs.Count;
     }
 
     public void RemoveAttributes(FurnitureItem item) {
