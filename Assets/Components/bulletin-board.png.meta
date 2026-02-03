@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: c8cc4e2eb4f6a4b2a9055f34c09f08e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6093465325817242542
+    second: bulletin-board_0
+  - first:
+      213: -8188353908317642493
+    second: bulletin-board_1
+  - first:
+      213: -1602189920428740433
+    second: bulletin-board_2
+  - first:
+      213: -7901606823397151189
+    second: bulletin-board_3
+  - first:
+      213: -3661660747067012918
+    second: bulletin-board_4
+  - first:
+      213: 4534981544893313504
+    second: bulletin-board_5
+  - first:
+      213: -6265961322549889724
+    second: bulletin-board_6
+  - first:
+      213: 4337981644039753175
+    second: bulletin-board_7
+  - first:
+      213: -9165803590473477717
+    second: bulletin-board_8
+  - first:
+      213: -3551164000391258494
+    second: bulletin-board_9
+  - first:
+      213: -6124791468128040727
+    second: bulletin-board_10
+  - first:
+      213: -2828767848137207612
+    second: bulletin-board_11
+  - first:
+      213: 6329011347243837189
+    second: bulletin-board_12
+  - first:
+      213: 597283377952953940
+    second: bulletin-board_13
+  - first:
+      213: -5440691096609426805
+    second: bulletin-board_14
+  - first:
+      213: 6295156514834935939
+    second: bulletin-board_15
+  - first:
+      213: 1664231516631685068
+    second: bulletin-board_16
+  - first:
+      213: 111987821371925669
+    second: bulletin-board_17
+  - first:
+      213: 4683670727461924445
+    second: bulletin-board_18
+  - first:
+      213: 5669456112652761017
+    second: bulletin-board_19
+  - first:
+      213: -7805484212895577693
+    second: bulletin-board_20
+  - first:
+      213: -1377929090535497029
+    second: bulletin-board_21
+  - first:
+      213: -5501078599681081266
+    second: bulletin-board_22
+  - first:
+      213: 935871970666914071
+    second: bulletin-board_23
+  - first:
+      213: 2754418745945088396
+    second: bulletin-board_24
+  - first:
+      213: 7577778612521321482
+    second: bulletin-board_25
+  - first:
+      213: 561024596035480219
+    second: bulletin-board_26
+  - first:
+      213: 4940447144944580327
+    second: bulletin-board_27
+  - first:
+      213: -6899987223992728169
+    second: bulletin-board_28
+  - first:
+      213: -1229733374172331231
+    second: bulletin-board_29
+  - first:
+      213: 2862521361788680343
+    second: bulletin-board_30
+  - first:
+      213: -2448781639062050910
+    second: bulletin-board_31
+  - first:
+      213: -8732212340040560843
+    second: bulletin-board_32
+  - first:
+      213: -4765531352196582594
+    second: bulletin-board_33
+  - first:
+      213: 8322001843701931857
+    second: bulletin-board_34
+  - first:
+      213: -5238070006384982066
+    second: bulletin-board_35
+  - first:
+      213: -4111578365111026008
+    second: bulletin-board_36
+  - first:
+      213: -8679167663676662340
+    second: bulletin-board_37
+  - first:
+      213: 3160598905828598442
+    second: bulletin-board_38
+  - first:
+      213: 7635325657663543214
+    second: bulletin-board_39
+  - first:
+      213: -5921923826279660929
+    second: bulletin-board_40
+  - first:
+      213: 8138883217389510896
+    second: bulletin-board_41
+  - first:
+      213: 449962032691825276
+    second: bulletin-board_42
+  - first:
+      213: 550348520721002014
+    second: bulletin-board_43
+  - first:
+      213: 308091695491422742
+    second: bulletin-board_44
+  - first:
+      213: -9063422034640714573
+    second: bulletin-board_45
+  - first:
+      213: -2367485274423459968
+    second: bulletin-board_46
+  - first:
+      213: -1308609041810326733
+    second: bulletin-board_47
+  - first:
+      213: -6170636790268610872
+    second: bulletin-board_48
+  - first:
+      213: -2482428843022131452
+    second: bulletin-board_49
+  - first:
+      213: 8578570803362510048
+    second: bulletin-board_50
+  - first:
+      213: 9151634182781125648
+    second: bulletin-board_51
+  - first:
+      213: -6123595376740395332
+    second: bulletin-board_52
+  - first:
+      213: -6592244800980722635
+    second: bulletin-board_53
+  - first:
+      213: 6518350668667527680
+    second: bulletin-board_54
+  - first:
+      213: -6160654896540898539
+    second: bulletin-board_55
+  - first:
+      213: 8252163258460785899
+    second: bulletin-board_56
+  - first:
+      213: 2482468130569996420
+    second: bulletin-board_57
+  - first:
+      213: -4740527313457527677
+    second: bulletin-board_58
+  - first:
+      213: 1264701618963327336
+    second: bulletin-board_59
+  - first:
+      213: 4236026327379951462
+    second: bulletin-board_60
+  - first:
+      213: -724689752387377850
+    second: bulletin-board_61
+  - first:
+      213: 1027149144491512463
+    second: bulletin-board_62
+  - first:
+      213: -5528390685218732229
+    second: bulletin-board_63
+  - first:
+      213: 127820905232331131
+    second: bulletin-board_64
+  - first:
+      213: 1532482192214841185
+    second: bulletin-board_65
+  - first:
+      213: -1468974839736726787
+    second: bulletin-board_66
+  - first:
+      213: 6005817236972095386
+    second: bulletin-board_67
+  - first:
+      213: 3676185025887827774
+    second: bulletin-board_68
+  - first:
+      213: 6050623382589039402
+    second: bulletin-board_69
+  - first:
+      213: -1869768998308495624
+    second: bulletin-board_70
+  - first:
+      213: -1104023905164568948
+    second: bulletin-board_71
+  - first:
+      213: 121180865038305356
+    second: bulletin-board_72
+  - first:
+      213: -1141478029645435294
+    second: bulletin-board_73
+  - first:
+      213: -3405670541196136031
+    second: bulletin-board_74
+  - first:
+      213: 8955212063362505021
+    second: bulletin-board_75
+  - first:
+      213: -7327005338586889994
+    second: bulletin-board_76
+  - first:
+      213: 822318403626379874
+    second: bulletin-board_77
+  - first:
+      213: 2648398645800796483
+    second: bulletin-board_78
+  - first:
+      213: -1257007322412043519
+    second: bulletin-board_79
+  - first:
+      213: -8007615295922019315
+    second: bulletin-board_80
+  - first:
+      213: -548872550123549913
+    second: bulletin-board_81
+  - first:
+      213: -6026474665954312083
+    second: bulletin-board_82
+  - first:
+      213: 1375643637616958668
+    second: bulletin-board_83
+  - first:
+      213: -5550593070543735244
+    second: bulletin-board_84
+  - first:
+      213: 3997326276498298903
+    second: bulletin-board_85
+  - first:
+      213: 7413420037135499808
+    second: bulletin-board_86
+  - first:
+      213: -2893333855543893578
+    second: bulletin-board_87
+  - first:
+      213: -4905879000259057902
+    second: bulletin-board_88
+  - first:
+      213: -5880543740066651458
+    second: bulletin-board_89
+  - first:
+      213: -3457406687050382572
+    second: bulletin-board_90
+  - first:
+      213: 2964073943260791860
+    second: bulletin-board_91
+  - first:
+      213: 4325471575974073041
+    second: bulletin-board_92
+  - first:
+      213: 8517313261332754788
+    second: bulletin-board_93
+  - first:
+      213: -6821679582722129697
+    second: bulletin-board_94
+  - first:
+      213: -7265482602584504037
+    second: bulletin-board_95
+  - first:
+      213: -1825916996011313842
+    second: bulletin-board_96
+  - first:
+      213: -7371124305217038172
+    second: bulletin-board_97
+  - first:
+      213: 5837293524948199550
+    second: bulletin-board_98
+  - first:
+      213: 595192035536579316
+    second: bulletin-board_99
+  - first:
+      213: 5506199281548597380
+    second: bulletin-board_100
+  - first:
+      213: -1711991698365350280
+    second: bulletin-board_101
+  - first:
+      213: -7887904019633519317
+    second: bulletin-board_102
+  - first:
+      213: 5976702955878809221
+    second: bulletin-board_103
+  - first:
+      213: 464840275110169457
+    second: bulletin-board_104
+  - first:
+      213: -117103538126741652
+    second: bulletin-board_105
+  - first:
+      213: 3835479812855805775
+    second: bulletin-board_106
+  - first:
+      213: -507222919711813798
+    second: bulletin-board_107
+  - first:
+      213: 3139734223374159045
+    second: bulletin-board_108
+  - first:
+      213: -7122585317929745316
+    second: bulletin-board_109
+  - first:
+      213: 3235100919840775343
+    second: bulletin-board_110
+  - first:
+      213: -7071203975405458829
+    second: bulletin-board_111
+  - first:
+      213: -7515434035654894228
+    second: bulletin-board_112
+  - first:
+      213: -1839690847796854314
+    second: bulletin-board_113
+  - first:
+      213: 4624715453168600425
+    second: bulletin-board_114
+  - first:
+      213: 7050749230595434422
+    second: bulletin-board_115
+  - first:
+      213: 1667442464189028354
+    second: bulletin-board_116
+  - first:
+      213: 1093922101564461327
+    second: bulletin-board_117
+  - first:
+      213: 3301209290345340514
+    second: bulletin-board_118
+  - first:
+      213: -1769451923642930655
+    second: bulletin-board_119
+  - first:
+      213: -9000503902961229887
+    second: bulletin-board_120
+  - first:
+      213: 1422312344722076971
+    second: bulletin-board_121
+  - first:
+      213: -4487051447448706496
+    second: bulletin-board_122
+  - first:
+      213: -1403909492638372223
+    second: bulletin-board_123
+  - first:
+      213: 497343320942486884
+    second: bulletin-board_124
+  - first:
+      213: -3554789864791379959
+    second: bulletin-board_125
+  - first:
+      213: 4091725591124023969
+    second: bulletin-board_126
+  - first:
+      213: 7018988652149505934
+    second: bulletin-board_127
+  - first:
+      213: -3673171615106684620
+    second: bulletin-board_128
+  - first:
+      213: -6909940229152324164
+    second: bulletin-board_129
+  - first:
+      213: 7760400313146418971
+    second: bulletin-board_130
+  - first:
+      213: -4424250108924805194
+    second: bulletin-board_131
+  - first:
+      213: -2578501985485501709
+    second: bulletin-board_132
+  - first:
+      213: -3664772966235090528
+    second: bulletin-board_133
+  - first:
+      213: -8884183068540009271
+    second: bulletin-board_134
+  - first:
+      213: 2208083455110526749
+    second: bulletin-board_135
+  - first:
+      213: -2949335967661859504
+    second: bulletin-board_136
+  - first:
+      213: -754136117761112860
+    second: bulletin-board_137
+  - first:
+      213: -2485077106137327454
+    second: bulletin-board_138
+  - first:
+      213: 3479184148386664897
+    second: bulletin-board_139
+  - first:
+      213: 6086711561159139026
+    second: bulletin-board_140
+  - first:
+      213: -113124770610926854
+    second: bulletin-board_141
+  - first:
+      213: -572287198595789367
+    second: bulletin-board_142
+  - first:
+      213: 6666717986491968029
+    second: bulletin-board_143
+  - first:
+      213: -1620338699771455599
+    second: bulletin-board_144
+  - first:
+      213: 5098445571807073982
+    second: bulletin-board_145
+  - first:
+      213: 2656393702304873868
+    second: bulletin-board_146
+  - first:
+      213: -5069908330774843457
+    second: bulletin-board_147
+  - first:
+      213: 6516131552521155147
+    second: bulletin-board_148
+  - first:
+      213: 2306166623112745723
+    second: bulletin-board_149
+  - first:
+      213: 1734254395182076349
+    second: bulletin-board_150
+  - first:
+      213: -3364678444238526968
+    second: bulletin-board_151
+  - first:
+      213: -8423432946675618451
+    second: bulletin-board_152
+  - first:
+      213: -8662249081666265187
+    second: bulletin-board_153
+  - first:
+      213: 6251218215164269476
+    second: bulletin-board_154
+  - first:
+      213: 3040202185701196480
+    second: bulletin-board_155
+  - first:
+      213: 5442176900378800311
+    second: bulletin-board_156
+  - first:
+      213: 1260563835346219063
+    second: bulletin-board_157
+  - first:
+      213: 8162277123830203891
+    second: bulletin-board_158
+  - first:
+      213: -4675515050377519090
+    second: bulletin-board_159
+  - first:
+      213: -2997102558760902948
+    second: bulletin-board_160
+  - first:
+      213: -8820258721210460151
+    second: bulletin-board_161
+  - first:
+      213: -2104778891061568376
+    second: bulletin-board_162
+  - first:
+      213: 7617794109716722042
+    second: bulletin-board_163
+  - first:
+      213: -2316302401378911608
+    second: bulletin-board_164
+  - first:
+      213: -1173619822528313400
+    second: bulletin-board_165
+  - first:
+      213: 5929986621878405685
+    second: bulletin-board_166
+  - first:
+      213: 2856955485245810146
+    second: bulletin-board_167
+  - first:
+      213: -1088457011277682151
+    second: bulletin-board_168
+  - first:
+      213: 5132869762785015536
+    second: bulletin-board_169
+  - first:
+      213: 2308036498871776641
+    second: bulletin-board_170
+  - first:
+      213: -5430622393056322466
+    second: bulletin-board_171
+  - first:
+      213: -5898375096729730579
+    second: bulletin-board_172
+  - first:
+      213: 1117644427760776309
+    second: bulletin-board_173
+  - first:
+      213: -6634627024195789240
+    second: bulletin-board_174
+  - first:
+      213: 2887882759070621266
+    second: bulletin-board_175
+  - first:
+      213: -7231401561871698874
+    second: bulletin-board_176
+  - first:
+      213: 2000558007891405967
+    second: bulletin-board_177
+  - first:
+      213: 5909627788611712579
+    second: bulletin-board_178
+  - first:
+      213: 5499203156745685442
+    second: bulletin-board_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulletin-board_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 587
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cd08b1299af6ba0800000000000000
+      internalID: -6093465325817242542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ab8f018f1d5e80800000000000000
+      internalID: -8188353908317642493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0322291c0e3c9e0800000000000000
+      internalID: -1602189920428740433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e2c98657ad75290800000000000000
+      internalID: -7901606823397151189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8441b63fa2f2dc0800000000000000
+      internalID: -3661660747067012918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1715e00bd7fee30800000000000000
+      internalID: 4534981544893313504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445b3192065da09a0800000000000000
+      internalID: -6265961322549889724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd8727525b933c30800000000000000
+      internalID: 4337981644039753175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba114dc62368cc080800000000000000
+      internalID: -9165803590473477717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1681182bb7bec0800000000000000
+      internalID: -3551164000391258494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e882ea3c9e500ba0800000000000000
+      internalID: -6124791468128040727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c05cbb21a23eb8d0800000000000000
+      internalID: -2828767848137207612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a2eba94a25d750800000000000000
+      internalID: 6329011347243837189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569125511af94800800000000000000
+      internalID: 597283377952953940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_14
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f6fd0648ce74b0800000000000000
+      internalID: -5440691096609426805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_15
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380f8304f73ec5750800000000000000
+      internalID: 6295156514834935939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc757d43fb9881710800000000000000
+      internalID: 1664231516631685068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_17
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a42b08845cdd8100800000000000000
+      internalID: 111987821371925669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_18
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e634326bdbff040800000000000000
+      internalID: 4683670727461924445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_19
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7b550eb44fdae40800000000000000
+      internalID: 5669456112652761017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_20
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9807ea6795da390800000000000000
+      internalID: -7805484212895577693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_21
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb264f0facc90ece0800000000000000
+      internalID: -1377929090535497029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_22
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e408188d82e38a3b0800000000000000
+      internalID: -5501078599681081266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a8de4992ecfc00800000000000000
+      internalID: 935871970666914071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_24
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81ebb28149a93620800000000000000
+      internalID: 2754418745945088396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_25
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c2e1df7da92960800000000000000
+      internalID: 7577778612521321482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_26
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa3fcc5e829c700800000000000000
+      internalID: 561024596035480219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_27
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b302b08eff8440800000000000000
+      internalID: 4940447144944580327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_28
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7950e2f6d225e30a0800000000000000
+      internalID: -6899987223992728169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_29
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1230408f20c1feee0800000000000000
+      internalID: -1229733374172331231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_30
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798b1632308b9b720800000000000000
+      internalID: 2862521361788680343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_31
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7253fc21e240ed0800000000000000
+      internalID: -2448781639062050910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_32
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 608
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f89985423f0d680800000000000000
+      internalID: -8732212340040560843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_33
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 585
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f55aeb7e6dddb0800000000000000
+      internalID: -4765531352196582594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fdff1c590bd7370800000000000000
+      internalID: 8322001843701931857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_35
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec78bc8e413ae47b0800000000000000
+      internalID: -5238070006384982066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae3061d24db0f6c0800000000000000
+      internalID: -4111578365111026008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdde7c7ef66d8780800000000000000
+      internalID: -8679167663676662340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2e66395f3bcdb20800000000000000
+      internalID: 3160598905828598442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea716716b3026f960800000000000000
+      internalID: 7635325657663543214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72cdabd7a911dda0800000000000000
+      internalID: -5921923826279660929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e3e02a2f13f070800000000000000
+      internalID: 8138883217389510896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_42
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a4201b5169e3600800000000000000
+      internalID: 449962032691825276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_43
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eac30501b33a700800000000000000
+      internalID: 550348520721002014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a9304c3cf864400800000000000000
+      internalID: 308091695491422742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_45
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4cac7fda1483280800000000000000
+      internalID: -9063422034640714573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_46
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7507bfa0052fd0800000000000000
+      internalID: -2367485274423459968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_47
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf7018203e6dde0800000000000000
+      internalID: -1308609041810326733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_48
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6351e588e7d5aa0800000000000000
+      internalID: -6170636790268610872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_49
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f5b77ae14ac8dd0800000000000000
+      internalID: -2482428843022131452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_50
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b5f6c1b43d0770800000000000000
+      internalID: 8578570803362510048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_51
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014cdf24dc2210f70800000000000000
+      internalID: 9151634182781125648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_52
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb61a25f27e940ba0800000000000000
+      internalID: -6123595376740395332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_53
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd02dd744a384a0800000000000000
+      internalID: -6592244800980722635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_54
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002ab5fb565d57a50800000000000000
+      internalID: 6518350668667527680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_55
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ba8eb1305f08aa0800000000000000
+      internalID: -6160654896540898539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_56
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc51103c2958270800000000000000
+      internalID: 8252163258460785899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_57
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884ad0bc9f737220800000000000000
+      internalID: 2482468130569996420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_58
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c3595683463eb0800000000000000
+      internalID: -4740527313457527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_59
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ab29fb6f1d8110800000000000000
+      internalID: 1264701618963327336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_60
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3fa6508369ca30800000000000000
+      internalID: 4236026327379951462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_61
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a590828261f5f0800000000000000
+      internalID: -724689752387377850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_62
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8253c074ba214e00800000000000000
+      internalID: 1027149144491512463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_63
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3785f366f53743b0800000000000000
+      internalID: -5528390685218732229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_64
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71fd33af6c16c100800000000000000
+      internalID: 127820905232331131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_65
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 592
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d3933f68744510800000000000000
+      internalID: 1532482192214841185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 545
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa818d8a272d9be0800000000000000
+      internalID: -1468974839736726787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_67
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 545
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97c3a3f4f2f85350800000000000000
+      internalID: 6005817236972095386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_68
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 544
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3777a4cdce640330800000000000000
+      internalID: 3676185025887827774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_69
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 544
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2364eca8e128f350800000000000000
+      internalID: 6050623382589039402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 505
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb8c3a00f3d06e0800000000000000
+      internalID: -1869768998308495624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 505
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86502d8b18bda0f0800000000000000
+      internalID: -1104023905164568948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_72
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 504
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ce2eca558ea100800000000000000
+      internalID: 121180865038305356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_73
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 504
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2214a7c7a820f0800000000000000
+      internalID: -1141478029645435294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_74
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 465
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fdf1dfa0acb0d0800000000000000
+      internalID: -3405670541196136031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_75
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 465
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39d305cced474c70800000000000000
+      internalID: 8955212063362505021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_76
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 464
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04326f67f315a90800000000000000
+      internalID: -7327005338586889994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_77
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 464
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aaa643b36796b00800000000000000
+      internalID: 822318403626379874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_78
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 425
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341059a598001c420800000000000000
+      internalID: 2648398645800796483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_79
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 425
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b09b00863e8ee0800000000000000
+      internalID: -1257007322412043519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_80
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 424
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d046594805c3fd090800000000000000
+      internalID: -8007615295922019315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_81
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 424
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4ceed2530268f0800000000000000
+      internalID: -548872550123549913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_82
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 385
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6007ef8839ad5ca0800000000000000
+      internalID: -6026474665954312083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 385
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc5fa59994471310800000000000000
+      internalID: 1375643637616958668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_84
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 384
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436fe79b20558f2b0800000000000000
+      internalID: -5550593070543735244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_85
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 384
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718140ad11b597730800000000000000
+      internalID: 3997326276498298903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 345
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022893cee32c1e660800000000000000
+      internalID: 7413420037135499808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_87
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 345
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1e1bb1030d8d7d0800000000000000
+      internalID: -2893333855543893578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_88
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 344
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217a28eaa01daebb0800000000000000
+      internalID: -4905879000259057902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_89
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 344
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb22e27ff9c146ea0800000000000000
+      internalID: -5880543740066651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_90
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 305
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134d4eafe2d400d0800000000000000
+      internalID: -3457406687050382572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_91
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 305
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4340d0c0c81822920800000000000000
+      internalID: 2964073943260791860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_92
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 304
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2dbf32b79270c30800000000000000
+      internalID: 4325471575974073041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_93
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 304
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4617676d843933670800000000000000
+      internalID: 8517313261332754788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_94
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 265
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd00054ff868451a0800000000000000
+      internalID: -6821679582722129697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 265
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b198b2f2112db2b90800000000000000
+      internalID: -7265482602584504037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_96
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 264
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b56f8a2a09a6e0800000000000000
+      internalID: -1825916996011313842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_97
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 264
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85a409f7184b990800000000000000
+      internalID: -7371124305217038172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_98
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 225
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78a93c988b320150800000000000000
+      internalID: 5837293524948199550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_99
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 225
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faac4bb00c824800800000000000000
+      internalID: 595192035536579316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_100
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 224
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488173fc213f96c40800000000000000
+      internalID: 5506199281548597380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_101
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 224
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef380fe98cd38e0800000000000000
+      internalID: -1711991698365350280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_102
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 185
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254e570619888290800000000000000
+      internalID: -7887904019633519317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_103
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 185
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58efe252ca381f250800000000000000
+      internalID: 5976702955878809221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_104
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 184
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8c3374c1737600800000000000000
+      internalID: 464840275110169457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_105
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 184
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9308d3f6ff5ef0800000000000000
+      internalID: -117103538126741652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_106
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 145
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b37c819c5a3530800000000000000
+      internalID: 3835479812855805775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_107
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 145
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f04a0217bf5f8f0800000000000000
+      internalID: -507222919711813798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_108
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 144
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc8a5124a3929b20800000000000000
+      internalID: 3139734223374159045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_109
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 144
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c548262f36e772d90800000000000000
+      internalID: -7122585317929745316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_110
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 105
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac16a3752365ec20800000000000000
+      internalID: 3235100919840775343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_111
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 105
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa0aff2790edd90800000000000000
+      internalID: -7071203975405458829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_112
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 104
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dd8e32090d3b790800000000000000
+      internalID: -7515434035654894228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_113
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 104
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d10888cbea1876e0800000000000000
+      internalID: -1839690847796854314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965cf5da33a4e2040800000000000000
+      internalID: 4624715453168600425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_115
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7eff9911b49d160800000000000000
+      internalID: 7050749230595434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_116
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20893613612f32710800000000000000
+      internalID: 1667442464189028354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_117
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d2b30b546e2f00800000000000000
+      internalID: 1093922101564461327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_118
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed048eb5040dd20800000000000000
+      internalID: 3301209290345340514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_119
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aa124b9d4a177e0800000000000000
+      internalID: -1769451923642930655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_120
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9a701369c71380800000000000000
+      internalID: -9000503902961229887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_121
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ffc2ba811db310800000000000000
+      internalID: 1422312344722076971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_122
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042eae16b7acab1c0800000000000000
+      internalID: -4487051447448706496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_123
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ead7231cf448ce0800000000000000
+      internalID: -1403909492638372223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_124
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465a0388d1be6e600800000000000000
+      internalID: 497343320942486884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_125
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90073f9b379daaec0800000000000000
+      internalID: -3554789864791379959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_126
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa92590fbab8c830800000000000000
+      internalID: 4091725591124023969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_127
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7eddadf4786160800000000000000
+      internalID: 7018988652149505934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_128
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439a48a90e5460dc0800000000000000
+      internalID: -3673171615106684620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_129
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5c136d8f5fa10a0800000000000000
+      internalID: -6909940229152324164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_130
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172cebe7fa72bb60800000000000000
+      internalID: 7760400313146418971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_131
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfbd0477f7e992c0800000000000000
+      internalID: -4424250108924805194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_132
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa4f7e0b12573cd0800000000000000
+      internalID: -2578501985485501709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_133
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a15a1d676c142dc0800000000000000
+      internalID: -3664772966235090528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_134
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c40220d19a05b480800000000000000
+      internalID: -8884183068540009271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_135
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17b7481430b4ae10800000000000000
+      internalID: 2208083455110526749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_136
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5b3c409ad117d0800000000000000
+      internalID: -2949335967661859504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_137
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e48e8c4235c885f0800000000000000
+      internalID: -754136117761112860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_138
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a89a39d98b338dd0800000000000000
+      internalID: -2485077106137327454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_139
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d1c8ac8b884030800000000000000
+      internalID: 3479184148386664897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_140
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de57258ae7587450800000000000000
+      internalID: 6086711561159139026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_141
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa2078de991e6ef0800000000000000
+      internalID: -113124770610926854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_142
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdc13233d3de08f0800000000000000
+      internalID: -572287198595789367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_143
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aaf8adfa0f48c50800000000000000
+      internalID: 6666717986491968029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_144
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197dd4899866389e0800000000000000
+      internalID: -1620338699771455599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_145
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6593e1c3151c640800000000000000
+      internalID: 5098445571807073982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_146
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 87
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d77718ff76dd420800000000000000
+      internalID: 2656393702304873868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_147
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 68
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2f541c3114a9b0800000000000000
+      internalID: -5069908330774843457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_148
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42fcb18f13fd6a50800000000000000
+      internalID: 6516131552521155147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf25f7b3356210020800000000000000
+      internalID: 2306166623112745723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_150
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1dcf61f2f411810800000000000000
+      internalID: 1734254395182076349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_151
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806afb328c24e41d0800000000000000
+      internalID: -3364678444238526968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_152
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6de3104d54f91b80800000000000000
+      internalID: -8423432946675618451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_153
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f1453da5289c780800000000000000
+      internalID: -8662249081666265187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_154
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a35158a8d9c0c650800000000000000
+      internalID: 6251218215164269476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2061cb7c7f03a20800000000000000
+      internalID: 3040202185701196480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_156
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03ae79e0f768b40800000000000000
+      internalID: 5442176900378800311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_157
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f386212c6e7110800000000000000
+      internalID: 1260563835346219063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_158
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5423c6ccb364170800000000000000
+      internalID: 8162277123830203891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_159
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00614865db3d1fb0800000000000000
+      internalID: -4675515050377519090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_160
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde54a52a172866d0800000000000000
+      internalID: -2997102558760902948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_161
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908953fbc65289580800000000000000
+      internalID: -8820258721210460151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_162
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cd88b00c25ac2e0800000000000000
+      internalID: -2104778891061568376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_163
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a717ab9c167d7b960800000000000000
+      internalID: 7617794109716722042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_164
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88afc6dfc37dadfd0800000000000000
+      internalID: -2316302401378911608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_165
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c7d05df676bfe0800000000000000
+      internalID: -1173619822528313400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_166
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a81e70a6b8b4250800000000000000
+      internalID: 5929986621878405685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_167
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52e2580e1f5a720800000000000000
+      internalID: 2856955485245810146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_168
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aa2897d1605e0f0800000000000000
+      internalID: -1088457011277682151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_169
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f429aadd9b3740800000000000000
+      internalID: 5132869762785015536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_170
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18573eb97fac70020800000000000000
+      internalID: 2308036498871776641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_171
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c9898c4bd82a4b0800000000000000
+      internalID: -5430622393056322466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_172
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10a67b913c42ea0800000000000000
+      internalID: -5898375096729730579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_173
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57430ed7faba28f00800000000000000
+      internalID: 1117644427760776309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_174
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5a9d8fd11de3a0800000000000000
+      internalID: -6634627024195789240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_175
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e11679112d31820800000000000000
+      internalID: 2887882759070621266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_176
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644be64d796e4ab90800000000000000
+      internalID: -7231401561871698874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_177
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2ee4a8e863cb10800000000000000
+      internalID: 2000558007891405967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_178
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3467af6c927330250800000000000000
+      internalID: 5909627788611712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulletin-board_179
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 71
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c988819228115c40800000000000000
+      internalID: 5499203156745685442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bulletin-board_0: -6093465325817242542
+      bulletin-board_1: -8188353908317642493
+      bulletin-board_10: -6124791468128040727
+      bulletin-board_100: 5506199281548597380
+      bulletin-board_101: -1711991698365350280
+      bulletin-board_102: -7887904019633519317
+      bulletin-board_103: 5976702955878809221
+      bulletin-board_104: 464840275110169457
+      bulletin-board_105: -117103538126741652
+      bulletin-board_106: 3835479812855805775
+      bulletin-board_107: -507222919711813798
+      bulletin-board_108: 3139734223374159045
+      bulletin-board_109: -7122585317929745316
+      bulletin-board_11: -2828767848137207612
+      bulletin-board_110: 3235100919840775343
+      bulletin-board_111: -7071203975405458829
+      bulletin-board_112: -7515434035654894228
+      bulletin-board_113: -1839690847796854314
+      bulletin-board_114: 4624715453168600425
+      bulletin-board_115: 7050749230595434422
+      bulletin-board_116: 1667442464189028354
+      bulletin-board_117: 1093922101564461327
+      bulletin-board_118: 3301209290345340514
+      bulletin-board_119: -1769451923642930655
+      bulletin-board_12: 6329011347243837189
+      bulletin-board_120: -9000503902961229887
+      bulletin-board_121: 1422312344722076971
+      bulletin-board_122: -4487051447448706496
+      bulletin-board_123: -1403909492638372223
+      bulletin-board_124: 497343320942486884
+      bulletin-board_125: -3554789864791379959
+      bulletin-board_126: 4091725591124023969
+      bulletin-board_127: 7018988652149505934
+      bulletin-board_128: -3673171615106684620
+      bulletin-board_129: -6909940229152324164
+      bulletin-board_13: 597283377952953940
+      bulletin-board_130: 7760400313146418971
+      bulletin-board_131: -4424250108924805194
+      bulletin-board_132: -2578501985485501709
+      bulletin-board_133: -3664772966235090528
+      bulletin-board_134: -8884183068540009271
+      bulletin-board_135: 2208083455110526749
+      bulletin-board_136: -2949335967661859504
+      bulletin-board_137: -754136117761112860
+      bulletin-board_138: -2485077106137327454
+      bulletin-board_139: 3479184148386664897
+      bulletin-board_14: -5440691096609426805
+      bulletin-board_140: 6086711561159139026
+      bulletin-board_141: -113124770610926854
+      bulletin-board_142: -572287198595789367
+      bulletin-board_143: 6666717986491968029
+      bulletin-board_144: -1620338699771455599
+      bulletin-board_145: 5098445571807073982
+      bulletin-board_146: 2656393702304873868
+      bulletin-board_147: -5069908330774843457
+      bulletin-board_148: 6516131552521155147
+      bulletin-board_149: 2306166623112745723
+      bulletin-board_15: 6295156514834935939
+      bulletin-board_150: 1734254395182076349
+      bulletin-board_151: -3364678444238526968
+      bulletin-board_152: -8423432946675618451
+      bulletin-board_153: -8662249081666265187
+      bulletin-board_154: 6251218215164269476
+      bulletin-board_155: 3040202185701196480
+      bulletin-board_156: 5442176900378800311
+      bulletin-board_157: 1260563835346219063
+      bulletin-board_158: 8162277123830203891
+      bulletin-board_159: -4675515050377519090
+      bulletin-board_16: 1664231516631685068
+      bulletin-board_160: -2997102558760902948
+      bulletin-board_161: -8820258721210460151
+      bulletin-board_162: -2104778891061568376
+      bulletin-board_163: 7617794109716722042
+      bulletin-board_164: -2316302401378911608
+      bulletin-board_165: -1173619822528313400
+      bulletin-board_166: 5929986621878405685
+      bulletin-board_167: 2856955485245810146
+      bulletin-board_168: -1088457011277682151
+      bulletin-board_169: 5132869762785015536
+      bulletin-board_17: 111987821371925669
+      bulletin-board_170: 2308036498871776641
+      bulletin-board_171: -5430622393056322466
+      bulletin-board_172: -5898375096729730579
+      bulletin-board_173: 1117644427760776309
+      bulletin-board_174: -6634627024195789240
+      bulletin-board_175: 2887882759070621266
+      bulletin-board_176: -7231401561871698874
+      bulletin-board_177: 2000558007891405967
+      bulletin-board_178: 5909627788611712579
+      bulletin-board_179: 5499203156745685442
+      bulletin-board_18: 4683670727461924445
+      bulletin-board_19: 5669456112652761017
+      bulletin-board_2: -1602189920428740433
+      bulletin-board_20: -7805484212895577693
+      bulletin-board_21: -1377929090535497029
+      bulletin-board_22: -5501078599681081266
+      bulletin-board_23: 935871970666914071
+      bulletin-board_24: 2754418745945088396
+      bulletin-board_25: 7577778612521321482
+      bulletin-board_26: 561024596035480219
+      bulletin-board_27: 4940447144944580327
+      bulletin-board_28: -6899987223992728169
+      bulletin-board_29: -1229733374172331231
+      bulletin-board_3: -7901606823397151189
+      bulletin-board_30: 2862521361788680343
+      bulletin-board_31: -2448781639062050910
+      bulletin-board_32: -8732212340040560843
+      bulletin-board_33: -4765531352196582594
+      bulletin-board_34: 8322001843701931857
+      bulletin-board_35: -5238070006384982066
+      bulletin-board_36: -4111578365111026008
+      bulletin-board_37: -8679167663676662340
+      bulletin-board_38: 3160598905828598442
+      bulletin-board_39: 7635325657663543214
+      bulletin-board_4: -3661660747067012918
+      bulletin-board_40: -5921923826279660929
+      bulletin-board_41: 8138883217389510896
+      bulletin-board_42: 449962032691825276
+      bulletin-board_43: 550348520721002014
+      bulletin-board_44: 308091695491422742
+      bulletin-board_45: -9063422034640714573
+      bulletin-board_46: -2367485274423459968
+      bulletin-board_47: -1308609041810326733
+      bulletin-board_48: -6170636790268610872
+      bulletin-board_49: -2482428843022131452
+      bulletin-board_5: 4534981544893313504
+      bulletin-board_50: 8578570803362510048
+      bulletin-board_51: 9151634182781125648
+      bulletin-board_52: -6123595376740395332
+      bulletin-board_53: -6592244800980722635
+      bulletin-board_54: 6518350668667527680
+      bulletin-board_55: -6160654896540898539
+      bulletin-board_56: 8252163258460785899
+      bulletin-board_57: 2482468130569996420
+      bulletin-board_58: -4740527313457527677
+      bulletin-board_59: 1264701618963327336
+      bulletin-board_6: -6265961322549889724
+      bulletin-board_60: 4236026327379951462
+      bulletin-board_61: -724689752387377850
+      bulletin-board_62: 1027149144491512463
+      bulletin-board_63: -5528390685218732229
+      bulletin-board_64: 127820905232331131
+      bulletin-board_65: 1532482192214841185
+      bulletin-board_66: -1468974839736726787
+      bulletin-board_67: 6005817236972095386
+      bulletin-board_68: 3676185025887827774
+      bulletin-board_69: 6050623382589039402
+      bulletin-board_7: 4337981644039753175
+      bulletin-board_70: -1869768998308495624
+      bulletin-board_71: -1104023905164568948
+      bulletin-board_72: 121180865038305356
+      bulletin-board_73: -1141478029645435294
+      bulletin-board_74: -3405670541196136031
+      bulletin-board_75: 8955212063362505021
+      bulletin-board_76: -7327005338586889994
+      bulletin-board_77: 822318403626379874
+      bulletin-board_78: 2648398645800796483
+      bulletin-board_79: -1257007322412043519
+      bulletin-board_8: -9165803590473477717
+      bulletin-board_80: -8007615295922019315
+      bulletin-board_81: -548872550123549913
+      bulletin-board_82: -6026474665954312083
+      bulletin-board_83: 1375643637616958668
+      bulletin-board_84: -5550593070543735244
+      bulletin-board_85: 3997326276498298903
+      bulletin-board_86: 7413420037135499808
+      bulletin-board_87: -2893333855543893578
+      bulletin-board_88: -4905879000259057902
+      bulletin-board_89: -5880543740066651458
+      bulletin-board_9: -3551164000391258494
+      bulletin-board_90: -3457406687050382572
+      bulletin-board_91: 2964073943260791860
+      bulletin-board_92: 4325471575974073041
+      bulletin-board_93: 8517313261332754788
+      bulletin-board_94: -6821679582722129697
+      bulletin-board_95: -7265482602584504037
+      bulletin-board_96: -1825916996011313842
+      bulletin-board_97: -7371124305217038172
+      bulletin-board_98: 5837293524948199550
+      bulletin-board_99: 595192035536579316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
