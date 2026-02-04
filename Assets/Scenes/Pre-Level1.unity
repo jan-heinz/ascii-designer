@@ -864,22 +864,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5817697889874656501, guid: e1c7c8fbc1c4f4322a1bb0031454038d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 7630625}
-    - target: {fileID: 5817697889874656501, guid: e1c7c8fbc1c4f4322a1bb0031454038d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 7630625}
-    - target: {fileID: 8036878965759950547, guid: e1c7c8fbc1c4f4322a1bb0031454038d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 7630625}
-    - target: {fileID: 8036878965759950547, guid: e1c7c8fbc1c4f4322a1bb0031454038d, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
-      value: 
-      objectReference: {fileID: 7630625}
     - target: {fileID: 8361950038413833753, guid: e1c7c8fbc1c4f4322a1bb0031454038d, type: 3}
       propertyPath: m_Name
       value: PreLevelUI
