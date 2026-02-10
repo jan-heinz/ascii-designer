@@ -1,17 +1,14 @@
 using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(SpriteRenderer))]
 [RequireComponent(typeof(BoxCollider2D))]
-public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
+public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
 {
-    private GridSystem _grid;
     private FurnitureItem _item;
     private Vector2Int _size;
-    private Vector2Int _currentGrid;
     private Vector3 _originalWorld;
 
     // UI ghost
@@ -27,15 +24,10 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
     public AudioClip clickSFX;   // play when you start dragging a placed item
     public AudioClip placeSFX; 
 
-    public void Init(FurnitureItem item, GridSystem grid=null, Vector2Int gridPos=default)
+    public void Init(FurnitureItem item)
     {
-        _grid = grid;
         _item = item;
         _size = item != null ? item.furnitureSize : Vector2Int.one;
-
-        _currentGrid = (_grid != null)
-            ? _grid.WorldToGridPosition(transform.position)
-            : gridPos;
         
         _levelManager = FindObjectOfType<LevelManager>();
         _requirementSystem = FindObjectOfType<RequirementSystem>(); 
@@ -45,26 +37,10 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
     public void OnBeginDrag(PointerEventData eventData)
     {
-        if (_grid == null) return;
-
         if (_rootCanvas == null) _rootCanvas = FindObjectOfType<Canvas>(); // any screen-space canvas
         if (_sr == null) _sr = GetComponent<SpriteRenderer>();
 
         _originalWorld = transform.position;
-        _grid.ShowGrid();
-
-        // Derive the current grid cell from WORLD -> SCREEN -> GRID (matches your placement path)
-        Camera cam = (WorldPlacement.Instance != null && WorldPlacement.Instance.worldCamera != null)
-            ? WorldPlacement.Instance.worldCamera
-            : Camera.main;
-        if (cam != null)
-        {
-            Vector3 screenPos = cam.WorldToScreenPoint(transform.position);
-            _currentGrid = _grid.WorldToGridPosition(screenPos); // screen coords to grid
-        }
-
-        // Free the old footprint so CanPlace works while dragging
-        _grid.VacateFurniture(_currentGrid, _size);
 
         // SFX: starting to move an already-placed item
         if (clickSFX) AudioManager.Instance.PlaySFX(clickSFX);
@@ -89,7 +65,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         DestroyGhost();
 
         var wp = WorldPlacement.Instance;
-        if (_grid == null || wp == null)
+        if (wp == null)
         {
             if (_sr) _sr.enabled = true;
             return;
@@ -98,10 +74,6 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         // delete object
         if (PointerOverAnyUI(eventData, true))
         {
-            // remove from the grid
-            _grid.VacateFurniture(_currentGrid, _size);
-            _grid.HideGrid();
-
             // update requirements
             _requirementSystem.RemoveAttributes(_item);
 
@@ -114,19 +86,9 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
             return;
         }
 
-        // SCREEN -> GRID (keep same convention as initial placement)
-        Vector2Int newGrid = _grid.WorldToGridPosition(eventData.position);
-
-        if (_grid.CanPlaceFurniture(newGrid, _size))
+        if (!PointerOverAnyUI(eventData, false)) // can place furniture
         {
-            // GRID -> SCREEN -> WORLD (snap to cell center, then convert to world)
-            Vector3 snappedScreen = _grid.GridToWorldPosition(newGrid.x, newGrid.y);
-            Vector3 snappedWorld  = wp.ScreenToWorld(snappedScreen);
-
-            transform.position = snappedWorld;
-
-            _grid.PlaceFurniture(newGrid, _size);
-            _currentGrid = newGrid;
+            transform.position = wp.ScreenToWorld(eventData.position);
 
             // SFX: successfully placed in new spot
             if (placeSFX) AudioManager.Instance.PlaySFX(placeSFX);
@@ -135,12 +97,9 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         {
             // Revert and re-occupy original footprint
             transform.position = _originalWorld;
-            _grid.PlaceFurniture(_currentGrid, _size);
-            
         }
 
         if (_sr) _sr.enabled = true;
-        _grid.HideGrid();
     }
 
 

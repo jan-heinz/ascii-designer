@@ -18,6 +18,9 @@ public class LevelManager : MonoBehaviour
     [Header("Audio")]
     public AudioClip levelBGM;
 
+    [Header("Grid")]
+    public bool useGridPlacement = false;
+
 
     void Start()
     {

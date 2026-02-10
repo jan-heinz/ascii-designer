@@ -32,7 +32,7 @@ public class ItemSlot : MonoBehaviour,
     [Header("Audio")]
     public AudioClip clickFurnitureSFX;
     public AudioClip placeFurnitureSFX;
-    
+
 
     // runtime drag ghost
     private Canvas _rootCanvas;
@@ -52,18 +52,18 @@ public class ItemSlot : MonoBehaviour,
         ApplyAll(); // set up border and item visibility
         _gridSystem = FindObjectOfType<GridSystem>();
         _levelManager = FindObjectOfType<LevelManager>();
-        _requirementSystem = FindObjectOfType<RequirementSystem>(); 
+        _requirementSystem = FindObjectOfType<RequirementSystem>();
         _showAttributes = true;
     }
-    
+
     public void SetItem(FurnitureItem item)
     {
         _item = item;
         itemSprite = item ? item.sprite : null;                 // keep your existing sprite path
-        itemSize   = item ? item.furnitureSize : new Vector2Int(1,1);
+        itemSize = item ? item.furnitureSize : new Vector2Int(1, 1);
         ApplyItemOnly();
     }
-    
+
     private float GetWorldScaleForPlacement()
     {
         return _item ? Mathf.Max(0.01f, _item.worldScale) : 1f; // fallback if no SO
@@ -164,25 +164,33 @@ public class ItemSlot : MonoBehaviour,
     // end drag
     // destroy the ghost and place the sprite in the world
     public void OnEndDrag(PointerEventData eventData)
-{
-    DestroyDragGhost();
-    if (_gridSystem != null) _gridSystem.HideGrid();
-
-    if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
     {
-        var placer = WorldPlacement.Instance;
-        if (placer != null && itemSprite != null && _gridSystem != null)
+        DestroyDragGhost();
+        if (_gridSystem != null) _gridSystem.HideGrid();
+
+        if (!PointerOverAnyUI(eventData) && _item != null && _levelManager != null && _levelManager.CanAfford(_item.itemCost))
         {
-            Vector2Int gridPos = _gridSystem.WorldToGridPosition(eventData.position);
-
-            // validate placement
-            if (_gridSystem.CanPlaceFurniture(gridPos, itemSize))
+            var placer = WorldPlacement.Instance;
+            if (placer != null && itemSprite != null)
             {
-                Vector3 snappedScreenPos = _gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
-                Vector3 world = placer.ScreenToWorld(snappedScreenPos);
 
-                // occupy the grid cells
-                _gridSystem.PlaceFurniture(gridPos, itemSize);
+                Vector3 world = placer.ScreenToWorld(eventData.position);
+                Vector2Int gridPos = Vector2Int.zero;
+
+                if (_levelManager.useGridPlacement && _gridSystem != null)
+                {
+                    gridPos = _gridSystem.WorldToGridPosition(eventData.position);
+
+                    // validate placement
+                    if (_gridSystem.CanPlaceFurniture(gridPos, itemSize))
+                    {
+                        Vector3 snappedScreenPos = _gridSystem.GridToWorldPosition(gridPos.x, gridPos.y);
+                        world = placer.ScreenToWorld(snappedScreenPos);
+
+                        // occupy the grid cells
+                        _gridSystem.PlaceFurniture(gridPos, itemSize);
+                    }
+                }
 
                 // spawn the placed object
                 GameObject placedObject = placer.PlaceSprite(itemSprite, itemSprite.name, world);
@@ -205,30 +213,46 @@ public class ItemSlot : MonoBehaviour,
                         if (sr && sr.sprite) col.size = sr.sprite.bounds.size;
                     }
 
-                    var mover = placedObject.AddComponent<PlacedFurniture>();
-                    mover.Init(_gridSystem, gridPos, _item);
+                    if (_levelManager.useGridPlacement)
+                    {
+                        var mover = placedObject.AddComponent<PlacedFurniture>();
+                        mover.Init(_item, _gridSystem, gridPos);
 
-                    // pass the same SFX so moving placed items has audio feedback
-                    mover.clickSFX = clickFurnitureSFX;
-                    mover.placeSFX = placeFurnitureSFX;
-                    // mover.invalidSFX = someInvalidClip; // optional if you add one
+                        // pass the same SFX so moving placed items has audio feedback
+                        mover.clickSFX = clickFurnitureSFX;
+                        mover.placeSFX = placeFurnitureSFX;
+                        // mover.invalidSFX = someInvalidClip; // optional if you add one
+                    }
+                    else
+                    {
+                        var mover = placedObject.AddComponent<PlacedFurnitureNoGrid>();
+                        mover.Init(_item);
+
+                        // pass the same SFX so moving placed items has audio feedback
+                        mover.clickSFX = clickFurnitureSFX;
+                        mover.placeSFX = placeFurnitureSFX;
+                        // mover.invalidSFX = someInvalidClip; // optional if you add one
+
+                    }
                 }
 
-                Debug.Log($"Placed furniture at grid {gridPos} (world {world})");
+                if (_levelManager.useGridPlacement)
+                    Debug.Log($"Placed furniture at grid {gridPos} (world {world})");
+                else
+                    Debug.Log($"Placed furniture at world {world}");
 
                 _levelManager.PurchaseItem(_item.itemCost);
                 _requirementSystem.CheckItem(_item);
             }
             else
             {
-                Debug.Log($"Can't place furniture at {gridPos} - Invalid/occupied");
+                Debug.Log($"Can't place furniture - Invalid/occupied");
             }
         }
     }
-}
 
 
-    
+
     // create semi transparent UI image that follows the cursor during drag
     private void CreateDragGhost(Sprite s, Vector2 startPos)
     {
@@ -266,7 +290,7 @@ public class ItemSlot : MonoBehaviour,
             canvasUnitsPerPixel = 1f / _rootCanvas.scaleFactor;
 
         _dragGhostRT.sizeDelta = sizePx * canvasUnitsPerPixel;  // final ghost size
-        _dragGhostRT.position  = startPos;
+        _dragGhostRT.position = startPos;
 
         _dragGhostImg = go.GetComponent<Image>();   // use item icon
         _dragGhostImg.sprite = s;                   // keep item properties
