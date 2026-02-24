@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.csaratakij.sceneselector": {
+      "version": "https://github.com/CSaratakij/SceneSelector.git#upm",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1be87b5aa849e9f802664c22a45964c90aabd7c5"
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,

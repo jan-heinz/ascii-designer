@@ -5,6 +5,8 @@ using System.Collections.Generic;
 [CreateAssetMenu(fileName = "FurnitureItem", menuName = "ScriptableObjects/FurnitureItem")]
 public class FurnitureItem : ScriptableObject
 {
+    public string itemName;
+
     [Header("Visual")]
     public Sprite sprite; // sprite representing the furniture
     [Min(0.01f)] public float worldScale = 1f;

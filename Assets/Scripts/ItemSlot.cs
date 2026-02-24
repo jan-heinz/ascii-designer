@@ -11,7 +11,7 @@ using TMPro;
 // - item image: shows the assigned itemSprite
 // - border image: shown only when an item is assigned to the slot
 public class ItemSlot : MonoBehaviour,
-    IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerClickHandler
+    IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerEnterHandler, IPointerExitHandler
 {
     private FurnitureItem _item; // current item data (SO); may be null
 
@@ -41,6 +41,7 @@ public class ItemSlot : MonoBehaviour,
     private GridSystem _gridSystem;
     private LevelManager _levelManager;
     private RequirementSystem _requirementSystem;
+    private FurnitureAttributePanel _attributePanel;
 
     // if true, flip to show attributes
     // if false, flip to show image
@@ -53,6 +54,7 @@ public class ItemSlot : MonoBehaviour,
         _gridSystem = FindObjectOfType<GridSystem>();
         _levelManager = FindObjectOfType<LevelManager>();
         _requirementSystem = FindObjectOfType<RequirementSystem>();
+        _attributePanel = FindObjectOfType<FurnitureAttributePanel>(true);
         _showAttributes = true;
     }
 
@@ -114,9 +116,26 @@ public class ItemSlot : MonoBehaviour,
 
     // start click
     // flip over the slot to show the furniture attributes
-    public void OnPointerClick(PointerEventData eventData)
+    public void OnPointerEnter(PointerEventData eventData)
     {
-        FlipSlot();
+        if (_attributePanel == null) Debug.Log("attribute panel null");
+
+        string itemAttributesString = "";
+        if (_item.itemAttributes != null)
+        {
+            foreach (var attr in _item.itemAttributes)
+            {
+                itemAttributesString += "• " + attr.attribute + "\n";
+            }
+        }
+
+        _attributePanel.ShowAttributes(_item.itemName, itemAttributesString.TrimEnd('\n'));
+        //FlipSlot();
+    }
+
+    public void OnPointerExit(PointerEventData eventData)
+    {
+        _attributePanel.HideAttributes();
     }
 
     private void FlipSlot()
