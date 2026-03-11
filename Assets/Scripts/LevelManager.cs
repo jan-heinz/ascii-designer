@@ -102,4 +102,10 @@ public class LevelManager : MonoBehaviour
     {
         return currentBalance;
     }
+
+    // getter for the starter balance
+    public int GetStartingBalance()
+    {
+        return startingBalance;
+    }
 }

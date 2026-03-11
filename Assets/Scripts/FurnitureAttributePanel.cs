@@ -6,7 +6,6 @@ public class FurnitureAttributePanel : MonoBehaviour
 {
     public TextMeshProUGUI itemName;
     public TextMeshProUGUI attributeList;
-    public GameObject panelBackground;
 
     public void ShowAttributes(string name, string list)
     {
@@ -14,7 +13,6 @@ public class FurnitureAttributePanel : MonoBehaviour
 
         itemName.text = name;
         attributeList.text = list;
-        panelBackground.SetActive(true);
     }
 
     public void HideAttributes()

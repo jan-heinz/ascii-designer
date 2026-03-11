@@ -24,6 +24,8 @@ public class RequirementSystem : MonoBehaviour
     List<Requirement> reqs = new List<Requirement>();
     public AudioClip successSFX;
 
+    Dictionary<FurnitureAttribute, int> attributeCounts = new Dictionary<FurnitureAttribute, int>();
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -32,7 +34,7 @@ public class RequirementSystem : MonoBehaviour
             reqs.Add(new Requirement(req[i], itemAttributes[i]));
         }
 
-        textUpdate();
+        TextUpdate();
     }
 
     // Update is called once per frame
@@ -56,21 +58,28 @@ public class RequirementSystem : MonoBehaviour
                 if (reqs[i].have < reqs[i].goal) {
                     allMet = false;
                 }
+
+                // add each attribute to the map
+                if (attributeCounts.ContainsKey(att)) {
+                    attributeCounts[att]++;
+                } else {
+                    attributeCounts[att] = 1;
+                }
             }
         }
 
-        textUpdate();
+        TextUpdate();
 
         // TODO: MOVE TO LEVEL MANAGER LATER
         //check for win condition
         if (allMet)
         {
-            AudioManager.Instance.PlaySFX(successSFX);
+           //AudioManager.Instance.PlaySFX(successSFX);
             Debug.Log("All requirements met! Level Complete!");
         }
     }
 
-    void textUpdate()
+    void TextUpdate()
     {
         int totalHave = 0;
         infoText.text = "";
@@ -96,9 +105,37 @@ public class RequirementSystem : MonoBehaviour
                     if (r.have > 0) r.have--;
                     reqs[i] = r;
                 }
+
+                // remove each attribute from the map
+                if (attributeCounts.ContainsKey(att)) {
+                    attributeCounts[att]--;
+
+                    if (attributeCounts[att] <= 0) {
+                        attributeCounts.Remove(att);
+                    }
+                }
             }
         }
 
-        textUpdate();
+        TextUpdate();
+    }
+
+    public int TotalRequirementsMet()
+    {
+        int totalMet = 0;
+        for (int i = 0; i < reqs.Count; i++)
+        {
+            if (reqs[i].have >= reqs[i].goal)
+            {
+                totalMet++;
+            }
+        }
+
+        return totalMet;
+    }
+
+    public Dictionary<FurnitureAttribute, int> GetAttributeCounts()
+    {
+        return attributeCounts;
     }
 }
