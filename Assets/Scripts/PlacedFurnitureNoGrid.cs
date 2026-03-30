@@ -95,6 +95,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         }
         else
         {
+            Debug.Log("Can't place furniture on top of UI! Reverting to original position.");
             // Revert and re-occupy original footprint
             transform.position = _originalWorld;
         }
@@ -153,15 +154,29 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
     }
 
     // returns true if the cursor is currently over any UI elements
-    // prevents dropping items onto the inventory UI
+    // prevents placing items onto the inventory UI
     private bool PointerOverAnyUI(PointerEventData eventData, bool checkInventoryOnly = false)
     {
         if (EventSystem.current == null) return false;
 
         var results = new List<RaycastResult>();
         EventSystem.current.RaycastAll(eventData, results);
+
+        // ignore the dragged obj itself
+        for (int i = 0; i < results.Count; i++)
+        {
+            var r = results[i];
+
+            if (r.gameObject == gameObject)
+            {
+                results.Remove(r);
+            }
+        }
+        
         bool overUI = results.Count > 0;
 
+        // check if dragged obj is over inventory
+        // this means the player is deleting the obj
         if (checkInventoryOnly)
         {
             overUI = false;
