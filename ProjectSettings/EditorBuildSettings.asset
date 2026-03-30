@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/HomeScreen.unity
     guid: db0ea7934570f4f9bb24c94f6f448676
   - enabled: 1
+    path: Assets/Scenes/Pre-Level1.unity
+    guid: f65cff6a735344950af33a0d7c7e1d70
+  - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
@@ -17,6 +20,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 2bea7cf0455c9ca4e89291f3aeb85dd2
+  - enabled: 1
+    path: Assets/Scenes/Level1-Inventory.unity
+    guid: 0c701124db13f4ed4bc91ca57a8360a1
+  - enabled: 1
+    path: Assets/Scenes/Level1-TopMenu.unity
+    guid: 8a568fd608a2e498f92325a946248bdc
+  - enabled: 1
+    path: Assets/Scenes/Level1-TopMenu-WorldSpace.unity
+    guid: 3c7455567e9e04825abca90fb3740b78
+  - enabled: 1
+    path: Assets/Scenes/Level1-TopMenu-SpriteRenderer-Mar29.unity
+    guid: a8c4df23425894c4ea0b13642d459333
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
