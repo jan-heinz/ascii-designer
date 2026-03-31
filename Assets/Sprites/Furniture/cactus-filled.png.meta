@@ -1,16 +1,22 @@
 fileFormatVersion: 2
-guid: a1632ae6581cb431c80593f5bf97ad8c
+guid: 662e43c1fbcb74656a3c86f7be9d352e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7781549975908535398
-    second: window-2_0
+      213: -4853876706773959874
+    second: bulbous-plant-filled_0
   - first:
-      213: -5570002715760663347
-    second: window-2_1
+      213: 4551719291642211132
+    second: bulbous-plant-filled_1
   - first:
-      213: 1045693751123878244
-    second: window-2_2
+      213: 1027909986361706639
+    second: bulbous-plant-filled_2
+  - first:
+      213: -249020593758759184
+    second: bulbous-plant-filled_3
+  - first:
+      213: -6144629968431178337
+    second: bulbous-plant-filled_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +125,79 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window-2_0
+      name: bulbous-plant-filled_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 250
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf1352ad093acb0800000000000000
+      internalID: -4853876706773959874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbous-plant-filled_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b60a76494fa2f30800000000000000
+      internalID: 4551719291642211132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbous-plant-filled_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f888a2ebfaed34e00800000000000000
+      internalID: 1027909986361706639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bulbous-plant-filled_3
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 332
-        height: 355
+        width: 99
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a93b50c7681620490800000000000000
-      internalID: -7781549975908535398
+      spriteID: 0f6904fd61d4b8cf0800000000000000
+      internalID: -249020593758759184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window-2_1
+      name: bulbous-plant-filled_4
       rect:
         serializedVersion: 2
-        x: 156
-        y: 113
-        width: 19
-        height: 25
+        x: 9
+        y: 119
+        width: 77
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,30 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc4ef198a0063b2b0800000000000000
-      internalID: -5570002715760663347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window-2_2
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 2
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 461a5932dec038e00800000000000000
-      internalID: 1045693751123878244
+      spriteID: f9d907f6993e9baa0800000000000000
+      internalID: -6144629968431178337
       vertices: []
       indices: 
       edges: []
@@ -198,9 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      window-2_0: -7781549975908535398
-      window-2_1: -5570002715760663347
-      window-2_2: 1045693751123878244
+      bulbous-plant-filled_0: -4853876706773959874
+      bulbous-plant-filled_1: 4551719291642211132
+      bulbous-plant-filled_2: 1027909986361706639
+      bulbous-plant-filled_3: -249020593758759184
+      bulbous-plant-filled_4: -6144629968431178337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

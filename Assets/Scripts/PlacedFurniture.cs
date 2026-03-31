@@ -117,7 +117,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         // SCREEN -> GRID (keep same convention as initial placement)
         Vector2Int newGrid = _grid.WorldToGridPosition(eventData.position);
 
-        if (_grid.CanPlaceFurniture(newGrid, _size))
+        if (_grid.CanPlaceFurniture(newGrid, _size) || !_levelManager.UseGridPlacement)
         {
             // GRID -> SCREEN -> WORLD (snap to cell center, then convert to world)
             Vector3 snappedScreen = _grid.GridToWorldPosition(newGrid.x, newGrid.y);
@@ -201,7 +201,19 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
 
         var results = new List<RaycastResult>();
         EventSystem.current.RaycastAll(eventData, results);
-        bool overUI = results.Count > 0;
+        //bool overUI = results.Count > 0;
+
+        // only count objs explicitly in UI layer
+        // it's okay if the player places furniture on top of other furniture
+        bool overUI = false;
+        foreach (var r in results)
+        {
+            if (r.gameObject.layer.Equals("UI"))
+            {
+                overUI = true;
+                break;
+            }
+        }
 
         if (checkInventoryOnly)
         {

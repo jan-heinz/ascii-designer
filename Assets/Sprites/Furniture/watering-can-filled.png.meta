@@ -1,22 +1,31 @@
 fileFormatVersion: 2
-guid: 0e53f4fd7134d495bb33cabd9f0ee124
+guid: a5342f209623b4d0c9ab296714d22e72
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7527843724095427294
-    second: stars-fill_0
+      213: 2794710795034017384
+    second: watering-can-filled_0
   - first:
-      213: -4449981350578494322
-    second: stars-fill_1
+      213: 2193546683394875227
+    second: watering-can-filled_1
   - first:
-      213: 335209636161388765
-    second: stars-fill_2
+      213: -8059456653422842133
+    second: watering-can-filled_2
   - first:
-      213: -3718462007567933701
-    second: stars-fill_3
+      213: -5166397554308339410
+    second: watering-can-filled_3
   - first:
-      213: 1411788756170841672
-    second: stars-fill_4
+      213: 3764162090355408450
+    second: watering-can-filled_4
+  - first:
+      213: -6726265858101952130
+    second: watering-can-filled_5
+  - first:
+      213: 8261970502215670117
+    second: watering-can-filled_6
+  - first:
+      213: -7139170162761050471
+    second: watering-can-filled_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,13 +134,123 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stars-fill_0
+      name: watering-can-filled_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 153
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eb3fb39aec8c620800000000000000
+      internalID: 2794710795034017384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watering-can-filled_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 154
+        width: 57
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fdcfd261b017e10800000000000000
+      internalID: 2193546683394875227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watering-can-filled_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 131
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea212efde072090800000000000000
+      internalID: -8059456653422842133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watering-can-filled_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 262
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29210f0cc44d48b0800000000000000
+      internalID: -5166397554308339410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watering-can-filled_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e30a05a7dfc3430800000000000000
+      internalID: 3764162090355408450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: watering-can-filled_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 152
-        height: 145
+        y: 113
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22d63a4640ab78790800000000000000
-      internalID: -7527843724095427294
+      spriteID: e71cefed6d087a2a0800000000000000
+      internalID: -6726265858101952130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stars-fill_1
+      name: watering-can-filled_6
       rect:
         serializedVersion: 2
-        x: 139
-        y: 34
-        width: 152
-        height: 146
+        x: 8
+        y: 78
+        width: 13
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +281,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e84e7a5e98d7e32c0800000000000000
-      internalID: -4449981350578494322
+      spriteID: 5691251e56a68a270800000000000000
+      internalID: 8261970502215670117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stars-fill_2
+      name: watering-can-filled_7
       rect:
         serializedVersion: 2
-        x: 277
-        y: 74
-        width: 152
-        height: 146
+        x: 22
+        y: 66
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,52 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd000b85367e6a400800000000000000
-      internalID: 335209636161388765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: stars-fill_3
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 43
-        width: 152
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfe9020618e556cc0800000000000000
-      internalID: -3718462007567933701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: stars-fill_4
-      rect:
-        serializedVersion: 2
-        x: 552
-        y: 0
-        width: 152
-        height: 145
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 84e147dc46ea79310800000000000000
-      internalID: 1411788756170841672
+      spriteID: 9965f89df829cec90800000000000000
+      internalID: -7139170162761050471
       vertices: []
       indices: 
       edges: []
@@ -248,11 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      stars-fill_0: -7527843724095427294
-      stars-fill_1: -4449981350578494322
-      stars-fill_2: 335209636161388765
-      stars-fill_3: -3718462007567933701
-      stars-fill_4: 1411788756170841672
+      watering-can-filled_0: 2794710795034017384
+      watering-can-filled_1: 2193546683394875227
+      watering-can-filled_2: -8059456653422842133
+      watering-can-filled_3: -5166397554308339410
+      watering-can-filled_4: 3764162090355408450
+      watering-can-filled_5: -6726265858101952130
+      watering-can-filled_6: 8261970502215670117
+      watering-can-filled_7: -7139170162761050471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,16 +1,13 @@
 fileFormatVersion: 2
-guid: a1632ae6581cb431c80593f5bf97ad8c
+guid: 1d152f1f77c794a04896de12fb17c4b9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7781549975908535398
-    second: window-2_0
+      213: -318558257152873665
+    second: guitar-filled_0
   - first:
-      213: -5570002715760663347
-    second: window-2_1
-  - first:
-      213: 1045693751123878244
-    second: window-2_2
+      213: -8723965013996872479
+    second: guitar-filled_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window-2_0
+      name: guitar-filled_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 332
-        height: 355
+        y: 1
+        width: 242
+        height: 486
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a93b50c7681620490800000000000000
-      internalID: -7781549975908535398
+      spriteID: f3ba222f3f0449bf0800000000000000
+      internalID: -318558257152873665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window-2_1
+      name: guitar-filled_1
       rect:
         serializedVersion: 2
-        x: 156
-        y: 113
-        width: 19
-        height: 25
+        x: 142
+        y: 484
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,30 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc4ef198a0063b2b0800000000000000
-      internalID: -5570002715760663347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window-2_2
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 2
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 461a5932dec038e00800000000000000
-      internalID: 1045693751123878244
+      spriteID: 1ecd7c39a004ee680800000000000000
+      internalID: -8723965013996872479
       vertices: []
       indices: 
       edges: []
@@ -198,9 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      window-2_0: -7781549975908535398
-      window-2_1: -5570002715760663347
-      window-2_2: 1045693751123878244
+      guitar-filled_0: -318558257152873665
+      guitar-filled_1: -8723965013996872479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

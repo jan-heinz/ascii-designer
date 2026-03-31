@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Toaster
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: toaster
-  sprite: {fileID: 21300000, guid: b16ce674686d2496a9b36779cb9cf400, type: 3}
+  sprite: {fileID: 21300000, guid: 0f068ccedb03346499fae51bf774077e, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 1, y: 1}
   itemCost: 50

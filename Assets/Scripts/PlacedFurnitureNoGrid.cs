@@ -19,18 +19,18 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
     private SpriteRenderer _sr;
     private LevelManager _levelManager;
     private RequirementSystem _requirementSystem;
-    
+
     [Header("Audio")]
     public AudioClip clickSFX;   // play when you start dragging a placed item
-    public AudioClip placeSFX; 
+    public AudioClip placeSFX;
 
     public void Init(FurnitureItem item)
     {
         _item = item;
         _size = item != null ? item.furnitureSize : Vector2Int.one;
-        
+
         _levelManager = FindObjectOfType<LevelManager>();
-        _requirementSystem = FindObjectOfType<RequirementSystem>(); 
+        _requirementSystem = FindObjectOfType<RequirementSystem>();
     }
 
 
@@ -82,7 +82,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
 
             // successfully deleted
             Destroy(gameObject);
-            
+
             return;
         }
 
@@ -135,7 +135,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
             canvasUnitsPerPixel = 1f / _rootCanvas.scaleFactor;
 
         _ghostRT.sizeDelta = sizePx * canvasUnitsPerPixel;
-        _ghostRT.position  = startPos;
+        _ghostRT.position = startPos;
 
         _ghostImg = go.GetComponent<Image>();
         _ghostImg.sprite = s;
@@ -163,7 +163,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         EventSystem.current.RaycastAll(eventData, results);
 
         // ignore the dragged obj itself
-        for (int i = 0; i < results.Count; i++)
+        /*for (int i = 0; i < results.Count; i++)
         {
             var r = results[i];
 
@@ -174,6 +174,19 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         }
         
         bool overUI = results.Count > 0;
+        */
+
+        // only count objs explicitly in UI layer
+        // it's okay if the player places furniture on top of other furniture
+        bool overUI = false;
+        foreach (var r in results)
+        {
+            if (r.gameObject.layer.Equals("UI"))
+            {
+                overUI = true;
+                break;
+            }
+        }
 
         // check if dragged obj is over inventory
         // this means the player is deleting the obj

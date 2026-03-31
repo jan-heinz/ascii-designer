@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Sofa
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: sofa
-  sprite: {fileID: 21300000, guid: e109806e1607b48e8aef5c820b876099, type: 3}
+  sprite: {fileID: 21300000, guid: b0a889f990a6744e0be7078b4f8846e0, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 3, y: 3}
   itemCost: 300

@@ -17,10 +17,12 @@ public class LevelCompletedUI : MonoBehaviour
     private int totalStars = 0;
 
     ReputationSystem rs;
+    WorldPlacement wp;
 
     void Awake()
     {
         rs = FindFirstObjectByType<ReputationSystem>();
+        wp = FindFirstObjectByType<WorldPlacement>();
     }
 
     public void SetGameOverUI()
@@ -47,17 +49,31 @@ public class LevelCompletedUI : MonoBehaviour
 
     public void SetSlider()
     {
-        // 700 - 1000 => 3 stars
-        // 400 - 699 => 2 stars
-        // 0 - 399 => 1 star
+        // 600 - 1000 => 3 stars
+        // 251 - 599 => 2 stars
+        // 0 - 250 => 1 star
 
         int totalScore = rs.CalculateTotalReputation();
-        if (totalScore >= 700 && totalScore <= 1000)
+        Debug.Log("Total Score: " + totalScore);
+
+        // also factor in number of placed items for 3 star rating
+        Transform placedItemsTransform = wp.gameObject.transform.GetChild(0);
+        int numPlacedItems = placedItemsTransform.childCount;
+
+        if (totalScore >= 600 && totalScore <= 1000)
         {
-            totalStars = 3;
-            totalScoreSlider.value = 3;
+            if (numPlacedItems > 2)
+            {
+                totalStars = 3;
+                totalScoreSlider.value = 3;
+            }
+            else
+            {
+                totalStars = 1;
+                totalScoreSlider.value = 1;
+            }
         }
-        else if (totalScore >= 400 && totalScore < 700)
+        else if (totalScore >= 251 && totalScore < 600)
         {
             totalStars = 2;
             totalScoreSlider.value = 2;

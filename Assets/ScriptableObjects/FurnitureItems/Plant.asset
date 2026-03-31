@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Plant
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: house plant
-  sprite: {fileID: 21300000, guid: b6f58e352f6b24f16bfc5aba4dc28da9, type: 3}
+  sprite: {fileID: 21300000, guid: 2cb23f080f3d245bf8cf2980eeb8d31c, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 1, y: 2}
   itemCost: 75

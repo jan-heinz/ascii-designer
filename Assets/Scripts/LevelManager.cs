@@ -5,6 +5,8 @@ using TMPro;
 
 public class LevelManager : MonoBehaviour
 {
+    public bool UseGridPlacement => useGridPlacement;
+    
     public string nextLevel;
 
     [Header("Player Balance")]

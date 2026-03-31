@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: a1632ae6581cb431c80593f5bf97ad8c
+guid: b0a889f990a6744e0be7078b4f8846e0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7781549975908535398
-    second: window-2_0
-  - first:
-      213: -5570002715760663347
-    second: window-2_1
-  - first:
-      213: 1045693751123878244
-    second: window-2_2
+      213: 7206099410466299812
+    second: sofa-filled_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window-2_0
+      name: sofa-filled_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 332
-        height: 355
+        width: 686
+        height: 425
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a93b50c7681620490800000000000000
-      internalID: -7781549975908535398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window-2_1
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 113
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc4ef198a0063b2b0800000000000000
-      internalID: -5570002715760663347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: window-2_2
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 2
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 461a5932dec038e00800000000000000
-      internalID: 1045693751123878244
+      spriteID: 4afdef8fb35310460800000000000000
+      internalID: 7206099410466299812
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      window-2_0: -7781549975908535398
-      window-2_1: -5570002715760663347
-      window-2_2: 1045693751123878244
+      sofa-filled_0: 7206099410466299812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

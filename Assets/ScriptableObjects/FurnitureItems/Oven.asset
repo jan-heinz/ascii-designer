@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Oven
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: oven
-  sprite: {fileID: 21300000, guid: 91bc6e93d04d44462bf76eefddbfc731, type: 3}
+  sprite: {fileID: 21300000, guid: d38375119ecaa4f4b8e923025788a6c2, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 3, y: 3}
   itemCost: 300

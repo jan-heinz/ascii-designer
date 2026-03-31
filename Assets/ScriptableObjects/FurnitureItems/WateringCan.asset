@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WateringCan
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: watering can
-  sprite: {fileID: 21300000, guid: e75514218b98a4e8eb34d4a8cf246408, type: 3}
+  sprite: {fileID: 21300000, guid: a5342f209623b4d0c9ab296714d22e72, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 1, y: 1}
   itemCost: 50

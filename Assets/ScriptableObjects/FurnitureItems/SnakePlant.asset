@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SnakePlant
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: snake plant
-  sprite: {fileID: 21300000, guid: 7f27fa3c052e34c77973b39b49516156, type: 3}
+  sprite: {fileID: 21300000, guid: ec83825d4cf84432b938fecdacbf1564, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 1, y: 2}
   itemCost: 75

@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: a1632ae6581cb431c80593f5bf97ad8c
+guid: 8b591cff5dc564b62884192495786f0b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7781549975908535398
-    second: window-2_0
+      213: -1067205975801723602
+    second: fern-filled_0
   - first:
-      213: -5570002715760663347
-    second: window-2_1
+      213: -2949044418684476339
+    second: fern-filled_1
   - first:
-      213: 1045693751123878244
-    second: window-2_2
+      213: 8698827315193555290
+    second: fern-filled_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window-2_0
+      name: fern-filled_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 0
-        width: 332
-        height: 355
+        width: 174
+        height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a93b50c7681620490800000000000000
-      internalID: -7781549975908535398
+      spriteID: e250a2eb1d58031f0800000000000000
+      internalID: -1067205975801723602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window-2_1
+      name: fern-filled_1
       rect:
         serializedVersion: 2
-        x: 156
-        y: 113
-        width: 19
-        height: 25
+        x: 136
+        y: 168
+        width: 107
+        height: 137
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc4ef198a0063b2b0800000000000000
-      internalID: -5570002715760663347
+      spriteID: d44a675d9b3e217d0800000000000000
+      internalID: -2949044418684476339
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: window-2_2
+      name: fern-filled_2
       rect:
         serializedVersion: 2
-        x: 156
-        y: 2
-        width: 19
-        height: 25
+        x: 165
+        y: 83
+        width: 116
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 461a5932dec038e00800000000000000
-      internalID: 1045693751123878244
+      spriteID: a59a394da5178b870800000000000000
+      internalID: 8698827315193555290
       vertices: []
       indices: 
       edges: []
@@ -198,9 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      window-2_0: -7781549975908535398
-      window-2_1: -5570002715760663347
-      window-2_2: 1045693751123878244
+      fern-filled_0: -1067205975801723602
+      fern-filled_1: -2949044418684476339
+      fern-filled_2: 8698827315193555290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
