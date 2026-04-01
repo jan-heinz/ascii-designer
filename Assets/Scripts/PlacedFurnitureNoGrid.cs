@@ -88,6 +88,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
 
         if (!PointerOverAnyUI(eventData, false)) // can place furniture
         {
+            Debug.Log("Placed furniture at new location: " + eventData.position);
             transform.position = wp.ScreenToWorld(eventData.position);
 
             // SFX: successfully placed in new spot

@@ -336,7 +336,22 @@ public class ItemSlot : MonoBehaviour,
 
         var results = new List<RaycastResult>();
         EventSystem.current.RaycastAll(eventData, results);
-        bool overUI = results.Count > 0;
+        //bool overUI = results.Count > 0;
+        
+        // only count objs explicitly in UI layer
+        // it's okay if the player places furniture on top of other furniture
+        bool overUI = false;
+        foreach (var r in results)
+        {
+            bool equal = r.gameObject == gameObject;
+            Debug.Log(equal);
+            if (r.gameObject.layer.Equals("UI"))
+            {
+                overUI = true;
+                break;
+            }
+        }
+
         results.Clear();
         return overUI;
     }
