@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Fridge
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
   itemName: fridge
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: a9f71a2acf4f14c1eb3943494a303ee9, type: 3}
   worldScale: 0.5
   furnitureSize: {x: 3, y: 5}
   itemCost: 225

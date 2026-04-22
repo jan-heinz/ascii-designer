@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 115d956f9e62b4e22beff308da9ae58a, type: 3}
-  m_Name: Lamp
+  m_Name: TableLamp
   m_EditorClassIdentifier: Assembly-CSharp::FurnitureItem
-  itemName: lamp
-  sprite: {fileID: 21300000, guid: 5bf55bd7015f74fe59a45a14022d567b, type: 3}
+  itemName: table lamp
+  sprite: {fileID: 21300000, guid: 49c49aa2a00734358b411a65be415186, type: 3}
   worldScale: 0.5
-  furnitureSize: {x: 1, y: 3}
-  itemCost: 80
+  furnitureSize: {x: 1, y: 2}
+  itemCost: 45
   itemAttributes:
-  - {fileID: 11400000, guid: f9313ce81a5ed41b28936c0217f85433, type: 2}
+  - {fileID: 11400000, guid: 7d21f4df94f6a407d9d8f132cb20748e, type: 2}
