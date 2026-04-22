@@ -345,8 +345,9 @@ public class ItemSlot : MonoBehaviour,
         {
             bool equal = r.gameObject == gameObject;
             Debug.Log(equal);
-            if (r.gameObject.layer.Equals("UI"))
+            if (r.gameObject.layer == LayerMask.NameToLayer("UI"))
             {
+                Debug.Log("Pointer over UI: " + r.gameObject.name);
                 overUI = true;
                 break;
             }

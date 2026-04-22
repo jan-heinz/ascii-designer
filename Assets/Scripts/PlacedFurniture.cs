@@ -208,7 +208,7 @@ public class PlacedFurniture : MonoBehaviour, IBeginDragHandler, IDragHandler, I
         bool overUI = false;
         foreach (var r in results)
         {
-            if (r.gameObject.layer.Equals("UI"))
+            if (r.gameObject.layer == LayerMask.NameToLayer("UI"))
             {
                 overUI = true;
                 break;

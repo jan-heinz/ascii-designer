@@ -31,9 +31,8 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
 
         _levelManager = FindObjectOfType<LevelManager>();
         _requirementSystem = FindObjectOfType<RequirementSystem>();
+        _rootCanvas = FindObjectOfType<Canvas>();
     }
-
-
 
     public void OnBeginDrag(PointerEventData eventData)
     {
@@ -74,6 +73,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         // delete object
         if (PointerOverAnyUI(eventData, true))
         {
+            Debug.Log("Deleted furniture: " + _item.itemName);
             // update requirements
             _requirementSystem.RemoveAttributes(_item);
 
@@ -182,7 +182,7 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         bool overUI = false;
         foreach (var r in results)
         {
-            if (r.gameObject.layer.Equals("UI"))
+            if (r.gameObject.layer == LayerMask.NameToLayer("UI"))
             {
                 overUI = true;
                 break;
