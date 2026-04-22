@@ -2,10 +2,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using UnityEngine.InputSystem;
 
 [RequireComponent(typeof(SpriteRenderer))]
 [RequireComponent(typeof(BoxCollider2D))]
-public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler
+public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler, IPointerClickHandler
 {
     private FurnitureItem _item;
     private Vector2Int _size;
@@ -20,6 +21,11 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
     private LevelManager _levelManager;
     private RequirementSystem _requirementSystem;
 
+    private static PlacedFurnitureNoGrid _selected;
+
+    [Header("Visual")]
+    public Color selectedColor = new Color(1f, 0.784f, 0.596f, 1f);
+
     [Header("Audio")]
     public AudioClip clickSFX;   // play when you start dragging a placed item
     public AudioClip placeSFX;
@@ -32,6 +38,41 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         _levelManager = FindObjectOfType<LevelManager>();
         _requirementSystem = FindObjectOfType<RequirementSystem>();
         _rootCanvas = FindObjectOfType<Canvas>();
+    }
+
+
+    private void Update()
+    {
+        if (_selected != this) return;
+
+        // allow player to change sorting order while selected
+        if (Keyboard.current.upArrowKey.wasPressedThisFrame)
+            _sr.sortingOrder++;
+        else if (Keyboard.current.downArrowKey.wasPressedThisFrame)
+            _sr.sortingOrder--;
+    }
+
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        if (_sr == null) _sr = GetComponent<SpriteRenderer>();
+
+        // deselect if object is currently selected
+        if (_selected == this)
+        {
+            Deselect();
+            return;
+        }
+
+        Deselect();
+        _selected = this;
+        _sr.color = selectedColor;
+    }
+
+    public static void Deselect()
+    {
+        if (_selected != null && _selected._sr != null)
+            _selected._sr.color = Color.white;
+        _selected = null;
     }
 
     public void OnBeginDrag(PointerEventData eventData)
@@ -104,10 +145,6 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         if (_sr) _sr.enabled = true;
     }
 
-
-
-
-
     private void CreateGhost(Sprite s, Vector2 startPos, float worldScale)
     {
         if (_rootCanvas == null) return;
@@ -146,7 +183,6 @@ public class PlacedFurnitureNoGrid : MonoBehaviour, IBeginDragHandler, IDragHand
         var cg = go.GetComponent<CanvasGroup>();
         cg.alpha = 0.9f;
     }
-
     private void DestroyGhost()
     {
         if (_ghostRT != null) Destroy(_ghostRT.gameObject);
