@@ -1,0 +1,28 @@
+CONTROLS:
+
+INVENTORY
+The inventory is navigated by scrolling through the list of furniture
+items. If you want to switch to a different section, you click on the
+tabs on the left. 
+
+PLACING FURNITURE
+To place a furniture, drag it from the inventory into the game space.
+You are able to replace a furniture to another position by just dragging
+it again.
+
+REMOVING FURNITURE
+To remove a furniture from the game space, drag it back to the inventory
+
+FURNITURE ATTRIBUTES
+To view each specific furniture's attributes, hover over the furniture in
+the inventory and a panel will appear listing the attributes.
+
+CLIENT REQUIREMENTS
+To view client requirements, click on the "Client" button in the top menu
+of each level. To hide the panel, reclick on that same "Client" button.
+
+REORDERING FURNITURE ORDER
+There is the ability to "bring forward" or "bring back" furniture items that
+are currently placed in the game space. To do so, click on the furniture you
+want to reorder and it will turn an orange. Then use the up arrow to bring
+forward and the down arrow to bring back.
