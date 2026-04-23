@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 3c18997c9e0e040d18c8032bcb73cca6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7243383322264840658
+    second: fairy-lights-filled_0
+  - first:
+      213: 2071511568123872661
+    second: fairy-lights-filled_1
+  - first:
+      213: 9071509326409473765
+    second: fairy-lights-filled_2
+  - first:
+      213: -6995623393681200471
+    second: fairy-lights-filled_3
+  - first:
+      213: -8295310533553434438
+    second: fairy-lights-filled_4
+  - first:
+      213: 9143500904560168105
+    second: fairy-lights-filled_5
+  - first:
+      213: 8597467608951852292
+    second: fairy-lights-filled_6
+  - first:
+      213: -3467083087919074044
+    second: fairy-lights-filled_7
+  - first:
+      213: -4238783462497466177
+    second: fairy-lights-filled_8
+  - first:
+      213: -2326743689658564594
+    second: fairy-lights-filled_9
+  - first:
+      213: -4415221444126011568
+    second: fairy-lights-filled_10
+  - first:
+      213: -965141749318438732
+    second: fairy-lights-filled_11
+  - first:
+      213: 6756164280628478562
+    second: fairy-lights-filled_12
+  - first:
+      213: 6184863548706503521
+    second: fairy-lights-filled_13
+  - first:
+      213: 6675570635406303191
+    second: fairy-lights-filled_14
+  - first:
+      213: -4914695649425677993
+    second: fairy-lights-filled_15
+  - first:
+      213: 4644710404120717083
+    second: fairy-lights-filled_16
+  - first:
+      213: -353218200545478468
+    second: fairy-lights-filled_17
+  - first:
+      213: -8760898913057442970
+    second: fairy-lights-filled_18
+  - first:
+      213: -1550686553662147321
+    second: fairy-lights-filled_19
+  - first:
+      213: 1833649565917183731
+    second: fairy-lights-filled_20
+  - first:
+      213: -6119771417290720714
+    second: fairy-lights-filled_21
+  - first:
+      213: -7548693107654126754
+    second: fairy-lights-filled_22
+  - first:
+      213: -3475211056777343925
+    second: fairy-lights-filled_23
+  - first:
+      213: 7223115552864222499
+    second: fairy-lights-filled_24
+  - first:
+      213: 8591340952977403574
+    second: fairy-lights-filled_25
+  - first:
+      213: -1186430453726381955
+    second: fairy-lights-filled_26
+  - first:
+      213: -1857980553543327571
+    second: fairy-lights-filled_27
+  - first:
+      213: -8725055145430851032
+    second: fairy-lights-filled_28
+  - first:
+      213: 1218972979490578109
+    second: fairy-lights-filled_29
+  - first:
+      213: -5601947471821344794
+    second: fairy-lights-filled_30
+  - first:
+      213: -5222597648619005620
+    second: fairy-lights-filled_31
+  - first:
+      213: -653185515305575431
+    second: fairy-lights-filled_32
+  - first:
+      213: 8295134212862582710
+    second: fairy-lights-filled_33
+  - first:
+      213: 8061450174692427825
+    second: fairy-lights-filled_34
+  - first:
+      213: 2626539442476215477
+    second: fairy-lights-filled_35
+  - first:
+      213: 3184513144094757328
+    second: fairy-lights-filled_36
+  - first:
+      213: -7947567180432017602
+    second: fairy-lights-filled_37
+  - first:
+      213: 942006090849545123
+    second: fairy-lights-filled_38
+  - first:
+      213: -1304710736518467861
+    second: fairy-lights-filled_39
+  - first:
+      213: 2461892519915855540
+    second: fairy-lights-filled_40
+  - first:
+      213: -4379972741910246775
+    second: fairy-lights-filled_41
+  - first:
+      213: 2648842225515600843
+    second: fairy-lights-filled_42
+  - first:
+      213: 5155159328867310229
+    second: fairy-lights-filled_43
+  - first:
+      213: 3020450401043395406
+    second: fairy-lights-filled_44
+  - first:
+      213: -5709574930063011534
+    second: fairy-lights-filled_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fairy-lights-filled_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 448
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e265a68de355a7b90800000000000000
+      internalID: -7243383322264840658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_1
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 361
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c22ebbcc7fbc10800000000000000
+      internalID: 2071511568123872661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee97416ba974ed70800000000000000
+      internalID: 9071509326409473765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 306
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa283d769d8aee90800000000000000
+      internalID: -6995623393681200471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 356
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ddf9250321ec80800000000000000
+      internalID: -8295310533553434438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_5
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 353
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac85cbd0ad34ee70800000000000000
+      internalID: 9143500904560168105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_6
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 338
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d808f2d37505770800000000000000
+      internalID: 8597467608951852292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 229
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b1d90d4272efc0800000000000000
+      internalID: -3467083087919074044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_8
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 249
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c90e16e0dc25c0800000000000000
+      internalID: -4238783462497466177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_9
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 287
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00058e11feb5bfd0800000000000000
+      internalID: -2326743689658564594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 230
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f8e2a4d7bf9b2c0800000000000000
+      internalID: -4415221444126011568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_11
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 230
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0b9f941b02b92f0800000000000000
+      internalID: -965141749318438732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_12
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 223
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620b071e97b2cd50800000000000000
+      internalID: 6756164280628478562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb9e4f0ac05d550800000000000000
+      internalID: 6184863548706503521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 208
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfdb6ccf1464ac50800000000000000
+      internalID: 6675570635406303191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_15
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 167
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75123d4985e7bcbb0800000000000000
+      internalID: -4914695649425677993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 189
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172d2af083557040800000000000000
+      internalID: 4644710404120717083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 189
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8b8440bed191bf0800000000000000
+      internalID: -353218200545478468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 135
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fa161bd80b6680800000000000000
+      internalID: -8760898913057442970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 162
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7053efa9bcada7ae0800000000000000
+      internalID: -1550686553662147321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_20
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 154
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fefa0ba09e627910800000000000000
+      internalID: 1833649565917183731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 154
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a3cc5e154321ba0800000000000000
+      internalID: -6119771417290720714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_22
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 162
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5316dffc97ad3790800000000000000
+      internalID: -7548693107654126754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 141
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc641d4f195cfc0800000000000000
+      internalID: -3475211056777343925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_24
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 148
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d321c5359ad3460800000000000000
+      internalID: 7223115552864222499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_25
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 102
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beeb7ee3139a3770800000000000000
+      internalID: 8591340952977403574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_26
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 115
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78feeec9c3f88fe0800000000000000
+      internalID: -1186430453726381955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 144
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06772d7802736e0800000000000000
+      internalID: -1857980553543327571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 107
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82266e292906ae680800000000000000
+      internalID: -8725055145430851032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 144
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed5596779aae010800000000000000
+      internalID: 1218972979490578109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_30
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 148
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe0bb6472e142b0800000000000000
+      internalID: -5601947471821344794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_31
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 115
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49164deb1b9587b0800000000000000
+      internalID: -5222597648619005620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 100
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd7cb0c3b6fe6f0800000000000000
+      internalID: -653185515305575431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_33
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 73
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf1dd9fd9c3e1370800000000000000
+      internalID: 8295134212862582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_34
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 117
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388d05f83600ef60800000000000000
+      internalID: 8061450174692427825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 41
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bce859f4b7537420800000000000000
+      internalID: 2626539442476215477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_36
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 92
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1945015d9a13c20800000000000000
+      internalID: 3184513144094757328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 62
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37fbc5e1c194b190800000000000000
+      internalID: -7947567180432017602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_38
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 72
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab67557c8da21d00800000000000000
+      internalID: 942006090849545123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_39
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 49
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beead2f6f7cb4ede0800000000000000
+      internalID: -1304710736518467861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 9
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be96c404366a2220800000000000000
+      internalID: 2461892519915855540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_41
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 39
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98acb805ff53733c0800000000000000
+      internalID: -4379972741910246775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_42
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 46
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb99ed48f392c420800000000000000
+      internalID: 2648842225515600843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_43
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 17
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a5dada81eca8740800000000000000
+      internalID: 5155159328867310229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_44
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 37
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b0eff2abcae920800000000000000
+      internalID: 3020450401043395406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fairy-lights-filled_45
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2315e1b0ad383c0b0800000000000000
+      internalID: -5709574930063011534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fairy-lights-filled_0: -7243383322264840658
+      fairy-lights-filled_1: 2071511568123872661
+      fairy-lights-filled_10: -4415221444126011568
+      fairy-lights-filled_11: -965141749318438732
+      fairy-lights-filled_12: 6756164280628478562
+      fairy-lights-filled_13: 6184863548706503521
+      fairy-lights-filled_14: 6675570635406303191
+      fairy-lights-filled_15: -4914695649425677993
+      fairy-lights-filled_16: 4644710404120717083
+      fairy-lights-filled_17: -353218200545478468
+      fairy-lights-filled_18: -8760898913057442970
+      fairy-lights-filled_19: -1550686553662147321
+      fairy-lights-filled_2: 9071509326409473765
+      fairy-lights-filled_20: 1833649565917183731
+      fairy-lights-filled_21: -6119771417290720714
+      fairy-lights-filled_22: -7548693107654126754
+      fairy-lights-filled_23: -3475211056777343925
+      fairy-lights-filled_24: 7223115552864222499
+      fairy-lights-filled_25: 8591340952977403574
+      fairy-lights-filled_26: -1186430453726381955
+      fairy-lights-filled_27: -1857980553543327571
+      fairy-lights-filled_28: -8725055145430851032
+      fairy-lights-filled_29: 1218972979490578109
+      fairy-lights-filled_3: -6995623393681200471
+      fairy-lights-filled_30: -5601947471821344794
+      fairy-lights-filled_31: -5222597648619005620
+      fairy-lights-filled_32: -653185515305575431
+      fairy-lights-filled_33: 8295134212862582710
+      fairy-lights-filled_34: 8061450174692427825
+      fairy-lights-filled_35: 2626539442476215477
+      fairy-lights-filled_36: 3184513144094757328
+      fairy-lights-filled_37: -7947567180432017602
+      fairy-lights-filled_38: 942006090849545123
+      fairy-lights-filled_39: -1304710736518467861
+      fairy-lights-filled_4: -8295310533553434438
+      fairy-lights-filled_40: 2461892519915855540
+      fairy-lights-filled_41: -4379972741910246775
+      fairy-lights-filled_42: 2648842225515600843
+      fairy-lights-filled_43: 5155159328867310229
+      fairy-lights-filled_44: 3020450401043395406
+      fairy-lights-filled_45: -5709574930063011534
+      fairy-lights-filled_5: 9143500904560168105
+      fairy-lights-filled_6: 8597467608951852292
+      fairy-lights-filled_7: -3467083087919074044
+      fairy-lights-filled_8: -4238783462497466177
+      fairy-lights-filled_9: -2326743689658564594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
